@@ -1,4641 +1,2184 @@
 {
-	"title": "NCSS",
 	"subjects": {
-		"social-studies": {
-			"title": "Social Studies",
+		"Social Studies": {
 			"grades": {
-				"kindergarten": {
-					"title": "Kindergarten",
+				"Kindergarten": {
 					"strands": {
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.a.3": {
-											"title": "3.A.3"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.a.5": {
-											"title": "3.A.5"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.b.2": {
-											"title": "3.B.2"
-										},
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.4": {
-											"title": "3.B.4"
-										},
-										"3.d.2": {
-											"title": "3.D.2"
-										},
-										"3.d.1": {
-											"title": "3.D.1"
-										},
-										"3.c.3": {
-											"title": "3.C.3"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.d.5": {
-											"title": "3.D.5"
-										}
+										"3.A.3": {},
+										"3.A.7": {},
+										"3.B.1": {},
+										"3.A.5": {},
+										"3.B.3": {},
+										"3.A.4": {},
+										"3.B.6": {},
+										"3.C.2": {},
+										"3.B.2": {},
+										"3.B.8": {},
+										"3.B.4": {},
+										"3.D.2": {},
+										"3.D.1": {},
+										"3.C.3": {},
+										"3.B.5": {},
+										"3.D.5": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.a.2": {
-											"title": "2.A.2"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.a.7": {
-											"title": "2.A.7"
-										},
-										"2.b.1": {
-											"title": "2.B.1"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.d.2": {
-											"title": "2.D.2"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.4": {
-											"title": "2.B.4"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										}
+										"2.A.2": {},
+										"2.A.3": {},
+										"2.A.7": {},
+										"2.B.1": {},
+										"2.B.2": {},
+										"2.B.7": {},
+										"2.C.2": {},
+										"2.D.2": {},
+										"2.B.3": {},
+										"2.C.5": {},
+										"2.B.6": {},
+										"2.B.5": {},
+										"2.B.4": {},
+										"2.C.3": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.a.4": {
-											"title": "4.A.4"
-										},
-										"4.b.5": {
-											"title": "4.B.5"
-										},
-										"4.a.3": {
-											"title": "4.A.3"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										},
-										"4.b.4": {
-											"title": "4.B.4"
-										},
-										"4.c.2": {
-											"title": "4.C.2"
-										},
-										"4.c.3": {
-											"title": "4.C.3"
-										},
-										"4.c.4": {
-											"title": "4.C.4"
-										}
+										"4.A.4": {},
+										"4.B.5": {},
+										"4.A.3": {},
+										"4.B.2": {},
+										"4.B.4": {},
+										"4.C.2": {},
+										"4.C.3": {},
+										"4.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.c.2": {
-											"title": "8.C.2"
-										},
-										"8.d.3": {
-											"title": "8.D.3"
-										}
+										"8.B.5": {},
+										"8.C.2": {},
+										"8.D.3": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.c.1": {
-											"title": "10.C.1"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										}
+										"10.A.2": {},
+										"10.B.2": {},
+										"10.C.2": {},
+										"10.C.1": {},
+										"10.D.1": {},
+										"10.B.3": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.1": {
-											"title": "6.D.1"
-										},
-										"6.c.2": {
-											"title": "6.C.2"
-										},
-										"6.b.3": {
-											"title": "6.B.3"
-										},
-										"6.d.3": {
-											"title": "6.D.3"
-										}
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.1": {},
+										"6.C.2": {},
+										"6.B.3": {},
+										"6.D.3": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.d.1": {
-											"title": "5.D.1"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										}
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.D.1": {},
+										"5.A.4": {}
 									}
 								}
 							}
 						},
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.c.1": {
-											"title": "1.C.1"
-										},
-										"1.d.1": {
-											"title": "1.D.1"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.a.3": {
-											"title": "1.A.3"
-										},
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.4": {
-											"title": "1.C.4"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.C.1": {},
+										"1.D.1": {},
+										"1.B.1": {},
+										"1.A.3": {},
+										"1.A.7": {},
+										"1.B.2": {},
+										"1.C.4": {},
+										"1.D.2": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.5": {
-											"title": "9.D.5"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.4": {
-											"title": "9.B.4"
-										}
+										"9.D.5": {},
+										"9.C.4": {},
+										"9.B.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.c.2": {
-											"title": "7.C.2"
-										},
-										"7.a.3": {
-											"title": "7.A.3"
-										},
-										"7.a.4": {
-											"title": "7.A.4"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										}
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.A.2": {},
+										"7.B.2": {},
+										"7.C.2": {},
+										"7.A.3": {},
+										"7.A.4": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.C.3": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"1st-grade": {
-					"title": "1st grade",
+				"1st grade": {
 					"strands": {
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.a.3": {
-											"title": "3.A.3"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.a.5": {
-											"title": "3.A.5"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.b.2": {
-											"title": "3.B.2"
-										},
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.4": {
-											"title": "3.B.4"
-										},
-										"3.d.2": {
-											"title": "3.D.2"
-										},
-										"3.d.1": {
-											"title": "3.D.1"
-										},
-										"3.c.3": {
-											"title": "3.C.3"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.d.5": {
-											"title": "3.D.5"
-										}
+										"3.A.3": {},
+										"3.A.7": {},
+										"3.B.1": {},
+										"3.A.5": {},
+										"3.B.3": {},
+										"3.A.4": {},
+										"3.B.6": {},
+										"3.C.2": {},
+										"3.B.2": {},
+										"3.B.8": {},
+										"3.B.4": {},
+										"3.D.2": {},
+										"3.D.1": {},
+										"3.C.3": {},
+										"3.B.5": {},
+										"3.D.5": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.a.2": {
-											"title": "2.A.2"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.a.7": {
-											"title": "2.A.7"
-										},
-										"2.b.1": {
-											"title": "2.B.1"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.d.2": {
-											"title": "2.D.2"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.4": {
-											"title": "2.B.4"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										}
+										"2.A.2": {},
+										"2.A.3": {},
+										"2.A.7": {},
+										"2.B.1": {},
+										"2.B.2": {},
+										"2.B.7": {},
+										"2.C.2": {},
+										"2.D.2": {},
+										"2.B.3": {},
+										"2.C.5": {},
+										"2.B.6": {},
+										"2.B.5": {},
+										"2.B.4": {},
+										"2.C.3": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.a.4": {
-											"title": "4.A.4"
-										},
-										"4.b.5": {
-											"title": "4.B.5"
-										},
-										"4.a.3": {
-											"title": "4.A.3"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										},
-										"4.b.4": {
-											"title": "4.B.4"
-										},
-										"4.c.2": {
-											"title": "4.C.2"
-										},
-										"4.c.3": {
-											"title": "4.C.3"
-										},
-										"4.c.4": {
-											"title": "4.C.4"
-										}
+										"4.A.4": {},
+										"4.B.5": {},
+										"4.A.3": {},
+										"4.B.2": {},
+										"4.B.4": {},
+										"4.C.2": {},
+										"4.C.3": {},
+										"4.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.c.2": {
-											"title": "8.C.2"
-										},
-										"8.d.3": {
-											"title": "8.D.3"
-										}
+										"8.B.5": {},
+										"8.C.2": {},
+										"8.D.3": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.c.1": {
-											"title": "10.C.1"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										}
+										"10.A.2": {},
+										"10.B.2": {},
+										"10.C.2": {},
+										"10.C.1": {},
+										"10.D.1": {},
+										"10.B.3": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.1": {
-											"title": "6.D.1"
-										},
-										"6.c.2": {
-											"title": "6.C.2"
-										},
-										"6.b.3": {
-											"title": "6.B.3"
-										},
-										"6.d.3": {
-											"title": "6.D.3"
-										}
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.1": {},
+										"6.C.2": {},
+										"6.B.3": {},
+										"6.D.3": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.d.1": {
-											"title": "5.D.1"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										}
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.D.1": {},
+										"5.A.4": {}
 									}
 								}
 							}
 						},
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.c.1": {
-											"title": "1.C.1"
-										},
-										"1.d.1": {
-											"title": "1.D.1"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.a.3": {
-											"title": "1.A.3"
-										},
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.4": {
-											"title": "1.C.4"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.C.1": {},
+										"1.D.1": {},
+										"1.B.1": {},
+										"1.A.3": {},
+										"1.A.7": {},
+										"1.B.2": {},
+										"1.C.4": {},
+										"1.D.2": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.5": {
-											"title": "9.D.5"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.4": {
-											"title": "9.B.4"
-										}
+										"9.D.5": {},
+										"9.C.4": {},
+										"9.B.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.c.2": {
-											"title": "7.C.2"
-										},
-										"7.a.3": {
-											"title": "7.A.3"
-										},
-										"7.a.4": {
-											"title": "7.A.4"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										}
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.A.2": {},
+										"7.B.2": {},
+										"7.C.2": {},
+										"7.A.3": {},
+										"7.A.4": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.C.3": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"2nd-grade": {
-					"title": "2nd grade",
+				"2nd grade": {
 					"strands": {
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.a.3": {
-											"title": "3.A.3"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.a.5": {
-											"title": "3.A.5"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.b.2": {
-											"title": "3.B.2"
-										},
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.4": {
-											"title": "3.B.4"
-										},
-										"3.d.2": {
-											"title": "3.D.2"
-										},
-										"3.d.1": {
-											"title": "3.D.1"
-										},
-										"3.c.3": {
-											"title": "3.C.3"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.d.5": {
-											"title": "3.D.5"
-										}
+										"3.A.3": {},
+										"3.A.7": {},
+										"3.B.1": {},
+										"3.A.5": {},
+										"3.B.3": {},
+										"3.A.4": {},
+										"3.B.6": {},
+										"3.C.2": {},
+										"3.B.2": {},
+										"3.B.8": {},
+										"3.B.4": {},
+										"3.D.2": {},
+										"3.D.1": {},
+										"3.C.3": {},
+										"3.B.5": {},
+										"3.D.5": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.a.2": {
-											"title": "2.A.2"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.a.7": {
-											"title": "2.A.7"
-										},
-										"2.b.1": {
-											"title": "2.B.1"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.d.2": {
-											"title": "2.D.2"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.4": {
-											"title": "2.B.4"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										}
+										"2.A.2": {},
+										"2.A.3": {},
+										"2.A.7": {},
+										"2.B.1": {},
+										"2.B.2": {},
+										"2.B.7": {},
+										"2.C.2": {},
+										"2.D.2": {},
+										"2.B.3": {},
+										"2.C.5": {},
+										"2.B.6": {},
+										"2.B.5": {},
+										"2.B.4": {},
+										"2.C.3": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.a.4": {
-											"title": "4.A.4"
-										},
-										"4.b.5": {
-											"title": "4.B.5"
-										},
-										"4.a.3": {
-											"title": "4.A.3"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										},
-										"4.b.4": {
-											"title": "4.B.4"
-										},
-										"4.c.2": {
-											"title": "4.C.2"
-										},
-										"4.c.3": {
-											"title": "4.C.3"
-										},
-										"4.c.4": {
-											"title": "4.C.4"
-										}
+										"4.A.4": {},
+										"4.B.5": {},
+										"4.A.3": {},
+										"4.B.2": {},
+										"4.B.4": {},
+										"4.C.2": {},
+										"4.C.3": {},
+										"4.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.c.2": {
-											"title": "8.C.2"
-										},
-										"8.d.3": {
-											"title": "8.D.3"
-										}
+										"8.B.5": {},
+										"8.C.2": {},
+										"8.D.3": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.c.1": {
-											"title": "10.C.1"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										}
+										"10.A.2": {},
+										"10.B.2": {},
+										"10.C.2": {},
+										"10.C.1": {},
+										"10.D.1": {},
+										"10.B.3": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.1": {
-											"title": "6.D.1"
-										},
-										"6.c.2": {
-											"title": "6.C.2"
-										},
-										"6.b.3": {
-											"title": "6.B.3"
-										},
-										"6.d.3": {
-											"title": "6.D.3"
-										}
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.1": {},
+										"6.C.2": {},
+										"6.B.3": {},
+										"6.D.3": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.d.1": {
-											"title": "5.D.1"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										}
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.D.1": {},
+										"5.A.4": {}
 									}
 								}
 							}
 						},
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.c.1": {
-											"title": "1.C.1"
-										},
-										"1.d.1": {
-											"title": "1.D.1"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.a.3": {
-											"title": "1.A.3"
-										},
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.4": {
-											"title": "1.C.4"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.C.1": {},
+										"1.D.1": {},
+										"1.B.1": {},
+										"1.A.3": {},
+										"1.A.7": {},
+										"1.B.2": {},
+										"1.C.4": {},
+										"1.D.2": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.5": {
-											"title": "9.D.5"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.4": {
-											"title": "9.B.4"
-										}
+										"9.D.5": {},
+										"9.C.4": {},
+										"9.B.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.c.2": {
-											"title": "7.C.2"
-										},
-										"7.a.3": {
-											"title": "7.A.3"
-										},
-										"7.a.4": {
-											"title": "7.A.4"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										}
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.A.2": {},
+										"7.B.2": {},
+										"7.C.2": {},
+										"7.A.3": {},
+										"7.A.4": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.C.3": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"3rd-grade": {
-					"title": "3rd grade",
+				"3rd grade": {
 					"strands": {
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.a.3": {
-											"title": "3.A.3"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.a.5": {
-											"title": "3.A.5"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.b.2": {
-											"title": "3.B.2"
-										},
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.4": {
-											"title": "3.B.4"
-										},
-										"3.d.2": {
-											"title": "3.D.2"
-										},
-										"3.d.1": {
-											"title": "3.D.1"
-										},
-										"3.c.3": {
-											"title": "3.C.3"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.d.5": {
-											"title": "3.D.5"
-										}
+										"3.A.3": {},
+										"3.A.7": {},
+										"3.B.1": {},
+										"3.A.5": {},
+										"3.B.3": {},
+										"3.A.4": {},
+										"3.B.6": {},
+										"3.C.2": {},
+										"3.B.2": {},
+										"3.B.8": {},
+										"3.B.4": {},
+										"3.D.2": {},
+										"3.D.1": {},
+										"3.C.3": {},
+										"3.B.5": {},
+										"3.D.5": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.a.2": {
-											"title": "2.A.2"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.a.7": {
-											"title": "2.A.7"
-										},
-										"2.b.1": {
-											"title": "2.B.1"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.d.2": {
-											"title": "2.D.2"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.4": {
-											"title": "2.B.4"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										}
+										"2.A.2": {},
+										"2.A.3": {},
+										"2.A.7": {},
+										"2.B.1": {},
+										"2.B.2": {},
+										"2.B.7": {},
+										"2.C.2": {},
+										"2.D.2": {},
+										"2.B.3": {},
+										"2.C.5": {},
+										"2.B.6": {},
+										"2.B.5": {},
+										"2.B.4": {},
+										"2.C.3": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.a.4": {
-											"title": "4.A.4"
-										},
-										"4.b.5": {
-											"title": "4.B.5"
-										},
-										"4.a.3": {
-											"title": "4.A.3"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										},
-										"4.b.4": {
-											"title": "4.B.4"
-										},
-										"4.c.2": {
-											"title": "4.C.2"
-										},
-										"4.c.3": {
-											"title": "4.C.3"
-										},
-										"4.c.4": {
-											"title": "4.C.4"
-										}
+										"4.A.4": {},
+										"4.B.5": {},
+										"4.A.3": {},
+										"4.B.2": {},
+										"4.B.4": {},
+										"4.C.2": {},
+										"4.C.3": {},
+										"4.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.c.2": {
-											"title": "8.C.2"
-										},
-										"8.d.3": {
-											"title": "8.D.3"
-										}
+										"8.B.5": {},
+										"8.C.2": {},
+										"8.D.3": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.c.1": {
-											"title": "10.C.1"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										}
+										"10.A.2": {},
+										"10.B.2": {},
+										"10.C.2": {},
+										"10.C.1": {},
+										"10.D.1": {},
+										"10.B.3": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.1": {
-											"title": "6.D.1"
-										},
-										"6.c.2": {
-											"title": "6.C.2"
-										},
-										"6.b.3": {
-											"title": "6.B.3"
-										},
-										"6.d.3": {
-											"title": "6.D.3"
-										}
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.1": {},
+										"6.C.2": {},
+										"6.B.3": {},
+										"6.D.3": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.d.1": {
-											"title": "5.D.1"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										}
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.D.1": {},
+										"5.A.4": {}
 									}
 								}
 							}
 						},
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.c.1": {
-											"title": "1.C.1"
-										},
-										"1.d.1": {
-											"title": "1.D.1"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.a.3": {
-											"title": "1.A.3"
-										},
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.4": {
-											"title": "1.C.4"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.C.1": {},
+										"1.D.1": {},
+										"1.B.1": {},
+										"1.A.3": {},
+										"1.A.7": {},
+										"1.B.2": {},
+										"1.C.4": {},
+										"1.D.2": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.5": {
-											"title": "9.D.5"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.4": {
-											"title": "9.B.4"
-										}
+										"9.D.5": {},
+										"9.C.4": {},
+										"9.B.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.c.2": {
-											"title": "7.C.2"
-										},
-										"7.a.3": {
-											"title": "7.A.3"
-										},
-										"7.a.4": {
-											"title": "7.A.4"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										}
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.A.2": {},
+										"7.B.2": {},
+										"7.C.2": {},
+										"7.A.3": {},
+										"7.A.4": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.C.3": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"4th-grade": {
-					"title": "4th grade",
+				"4th grade": {
 					"strands": {
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.a.3": {
-											"title": "3.A.3"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.a.5": {
-											"title": "3.A.5"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.b.2": {
-											"title": "3.B.2"
-										},
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.4": {
-											"title": "3.B.4"
-										},
-										"3.d.2": {
-											"title": "3.D.2"
-										},
-										"3.d.1": {
-											"title": "3.D.1"
-										},
-										"3.c.3": {
-											"title": "3.C.3"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.d.5": {
-											"title": "3.D.5"
-										}
+										"3.A.3": {},
+										"3.A.7": {},
+										"3.B.1": {},
+										"3.A.5": {},
+										"3.B.3": {},
+										"3.A.4": {},
+										"3.B.6": {},
+										"3.C.2": {},
+										"3.B.2": {},
+										"3.B.8": {},
+										"3.B.4": {},
+										"3.D.2": {},
+										"3.D.1": {},
+										"3.C.3": {},
+										"3.B.5": {},
+										"3.D.5": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.a.2": {
-											"title": "2.A.2"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.a.7": {
-											"title": "2.A.7"
-										},
-										"2.b.1": {
-											"title": "2.B.1"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.d.2": {
-											"title": "2.D.2"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.4": {
-											"title": "2.B.4"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										}
+										"2.A.2": {},
+										"2.A.3": {},
+										"2.A.7": {},
+										"2.B.1": {},
+										"2.B.2": {},
+										"2.B.7": {},
+										"2.C.2": {},
+										"2.D.2": {},
+										"2.B.3": {},
+										"2.C.5": {},
+										"2.B.6": {},
+										"2.B.5": {},
+										"2.B.4": {},
+										"2.C.3": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.a.4": {
-											"title": "4.A.4"
-										},
-										"4.b.5": {
-											"title": "4.B.5"
-										},
-										"4.a.3": {
-											"title": "4.A.3"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										},
-										"4.b.4": {
-											"title": "4.B.4"
-										},
-										"4.c.2": {
-											"title": "4.C.2"
-										},
-										"4.c.3": {
-											"title": "4.C.3"
-										},
-										"4.c.4": {
-											"title": "4.C.4"
-										}
+										"4.A.4": {},
+										"4.B.5": {},
+										"4.A.3": {},
+										"4.B.2": {},
+										"4.B.4": {},
+										"4.C.2": {},
+										"4.C.3": {},
+										"4.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.c.2": {
-											"title": "8.C.2"
-										},
-										"8.d.3": {
-											"title": "8.D.3"
-										}
+										"8.B.5": {},
+										"8.C.2": {},
+										"8.D.3": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.c.1": {
-											"title": "10.C.1"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										}
+										"10.A.2": {},
+										"10.B.2": {},
+										"10.C.2": {},
+										"10.C.1": {},
+										"10.D.1": {},
+										"10.B.3": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.1": {
-											"title": "6.D.1"
-										},
-										"6.c.2": {
-											"title": "6.C.2"
-										},
-										"6.b.3": {
-											"title": "6.B.3"
-										},
-										"6.d.3": {
-											"title": "6.D.3"
-										}
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.1": {},
+										"6.C.2": {},
+										"6.B.3": {},
+										"6.D.3": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.d.1": {
-											"title": "5.D.1"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										}
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.D.1": {},
+										"5.A.4": {}
 									}
 								}
 							}
 						},
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.c.1": {
-											"title": "1.C.1"
-										},
-										"1.d.1": {
-											"title": "1.D.1"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.a.3": {
-											"title": "1.A.3"
-										},
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.4": {
-											"title": "1.C.4"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.C.1": {},
+										"1.D.1": {},
+										"1.B.1": {},
+										"1.A.3": {},
+										"1.A.7": {},
+										"1.B.2": {},
+										"1.C.4": {},
+										"1.D.2": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.5": {
-											"title": "9.D.5"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.4": {
-											"title": "9.B.4"
-										}
+										"9.D.5": {},
+										"9.C.4": {},
+										"9.B.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.c.2": {
-											"title": "7.C.2"
-										},
-										"7.a.3": {
-											"title": "7.A.3"
-										},
-										"7.a.4": {
-											"title": "7.A.4"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										}
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.A.2": {},
+										"7.B.2": {},
+										"7.C.2": {},
+										"7.A.3": {},
+										"7.A.4": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.C.3": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"5th-grade": {
-					"title": "5th grade",
+				"5th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.c.2": {
-											"title": "1.C.2"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.b.4": {
-											"title": "1.B.4"
-										},
-										"1.b.7": {
-											"title": "1.B.7"
-										},
-										"1.c.5": {
-											"title": "1.C.5"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.6": {
-											"title": "1.C.6"
-										},
-										"1.a.8": {
-											"title": "1.A.8"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										},
-										"1.b.8": {
-											"title": "1.B.8"
-										},
-										"1.c.7": {
-											"title": "1.C.7"
-										},
-										"1.a.9": {
-											"title": "1.A.9"
-										},
-										"1.b.5": {
-											"title": "1.B.5"
-										},
-										"1.a.4": {
-											"title": "1.A.4"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.A.7": {},
+										"1.C.2": {},
+										"1.B.1": {},
+										"1.B.4": {},
+										"1.B.7": {},
+										"1.C.5": {},
+										"1.D.2": {},
+										"1.B.2": {},
+										"1.C.6": {},
+										"1.A.8": {},
+										"1.A.2": {},
+										"1.B.8": {},
+										"1.C.7": {},
+										"1.A.9": {},
+										"1.B.5": {},
+										"1.A.4": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.2": {
-											"title": "9.D.2"
-										},
-										"9.c.3": {
-											"title": "9.C.3"
-										},
-										"9.c.7": {
-											"title": "9.C.7"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.3": {
-											"title": "9.B.3"
-										},
-										"9.c.6": {
-											"title": "9.C.6"
-										},
-										"9.a.6": {
-											"title": "9.A.6"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										}
+										"9.D.2": {},
+										"9.C.3": {},
+										"9.C.7": {},
+										"9.C.4": {},
+										"9.B.3": {},
+										"9.C.6": {},
+										"9.A.6": {},
+										"9.B.6": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.c.4": {
-											"title": "2.C.4"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.9": {
-											"title": "2.B.9"
-										},
-										"2.a.9": {
-											"title": "2.A.9"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.d.6": {
-											"title": "2.D.6"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										},
-										"2.b.8": {
-											"title": "2.B.8"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.a.1": {
-											"title": "2.A.1"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.d.1": {
-											"title": "2.D.1"
-										},
-										"2.d.4": {
-											"title": "2.D.4"
-										},
-										"2.d.7": {
-											"title": "2.D.7"
-										},
-										"2.d.8": {
-											"title": "2.D.8"
-										},
-										"2.c.1": {
-											"title": "2.C.1"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										}
+										"2.C.4": {},
+										"2.B.5": {},
+										"2.B.9": {},
+										"2.A.9": {},
+										"2.B.2": {},
+										"2.D.6": {},
+										"2.C.2": {},
+										"2.C.3": {},
+										"2.B.8": {},
+										"2.B.6": {},
+										"2.A.1": {},
+										"2.A.3": {},
+										"2.B.3": {},
+										"2.D.1": {},
+										"2.D.4": {},
+										"2.D.7": {},
+										"2.D.8": {},
+										"2.C.1": {},
+										"2.C.5": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.c.2": {
-											"title": "5.C.2"
-										},
-										"5.c.3": {
-											"title": "5.C.3"
-										},
-										"5.a.8": {
-											"title": "5.A.8"
-										},
-										"5.b.9": {
-											"title": "5.B.9"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.b.5": {
-											"title": "5.B.5"
-										},
-										"5.c.6": {
-											"title": "5.C.6"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.a.7": {
-											"title": "5.A.7"
-										},
-										"5.c.4": {
-											"title": "5.C.4"
-										}
+										"5.C.2": {},
+										"5.C.3": {},
+										"5.A.8": {},
+										"5.B.9": {},
+										"5.B.3": {},
+										"5.B.5": {},
+										"5.C.6": {},
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.A.7": {},
+										"5.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.6": {
-											"title": "8.B.6"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.a.4": {
-											"title": "8.A.4"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.b.2": {
-											"title": "8.B.2"
-										},
-										"8.a.3": {
-											"title": "8.A.3"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										},
-										"8.b.7": {
-											"title": "8.B.7"
-										},
-										"8.c.5": {
-											"title": "8.C.5"
-										},
-										"8.a.6": {
-											"title": "8.A.6"
-										},
-										"8.b.9": {
-											"title": "8.B.9"
-										}
+										"8.B.6": {},
+										"8.A.2": {},
+										"8.A.4": {},
+										"8.B.4": {},
+										"8.B.5": {},
+										"8.B.2": {},
+										"8.A.3": {},
+										"8.C.4": {},
+										"8.B.7": {},
+										"8.C.5": {},
+										"8.A.6": {},
+										"8.B.9": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.a.8": {
-											"title": "3.A.8"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.a.9": {
-											"title": "3.A.9"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.c.1": {
-											"title": "3.C.1"
-										},
-										"3.b.9": {
-											"title": "3.B.9"
-										}
+										"3.B.8": {},
+										"3.B.1": {},
+										"3.C.2": {},
+										"3.A.8": {},
+										"3.A.4": {},
+										"3.B.5": {},
+										"3.A.9": {},
+										"3.B.6": {},
+										"3.C.4": {},
+										"3.A.7": {},
+										"3.C.1": {},
+										"3.B.9": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.c.4": {
-											"title": "6.C.4"
-										},
-										"6.b.5": {
-											"title": "6.B.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										},
-										"6.c.3": {
-											"title": "6.C.3"
-										},
-										"6.a.9": {
-											"title": "6.A.9"
-										},
-										"6.c.1": {
-											"title": "6.C.1"
-										},
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.2": {
-											"title": "6.D.2"
-										},
-										"6.a.4": {
-											"title": "6.A.4"
-										},
-										"6.a.7": {
-											"title": "6.A.7"
-										},
-										"6.d.4": {
-											"title": "6.D.4"
-										}
+										"6.C.4": {},
+										"6.B.5": {},
+										"6.B.1": {},
+										"6.C.3": {},
+										"6.A.9": {},
+										"6.C.1": {},
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.2": {},
+										"6.A.4": {},
+										"6.A.7": {},
+										"6.D.4": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.7": {
-											"title": "10.A.7"
-										},
-										"10.a.8": {
-											"title": "10.A.8"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										},
-										"10.b.8": {
-											"title": "10.B.8"
-										},
-										"10.c.9": {
-											"title": "10.C.9"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.b.5": {
-											"title": "10.B.5"
-										},
-										"10.b.6": {
-											"title": "10.B.6"
-										},
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.c.4": {
-											"title": "10.C.4"
-										}
+										"10.A.5": {},
+										"10.A.7": {},
+										"10.A.8": {},
+										"10.B.3": {},
+										"10.B.8": {},
+										"10.C.9": {},
+										"10.C.2": {},
+										"10.B.5": {},
+										"10.B.6": {},
+										"10.D.2": {},
+										"10.D.1": {},
+										"10.C.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.3": {
-											"title": "7.B.3"
-										},
-										"7.b.1": {
-											"title": "7.B.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.d.4": {
-											"title": "7.D.4"
-										},
-										"7.b.4": {
-											"title": "7.B.4"
-										},
-										"7.d.2": {
-											"title": "7.D.2"
-										}
+										"7.A.2": {},
+										"7.B.3": {},
+										"7.B.1": {},
+										"7.C.3": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.B.9": {},
+										"7.D.4": {},
+										"7.B.4": {},
+										"7.D.2": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.7": {
-											"title": "4.C.7"
-										}
+										"4.C.7": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"6th-grade": {
-					"title": "6th grade",
+				"6th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.c.2": {
-											"title": "1.C.2"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.b.4": {
-											"title": "1.B.4"
-										},
-										"1.b.7": {
-											"title": "1.B.7"
-										},
-										"1.c.5": {
-											"title": "1.C.5"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.6": {
-											"title": "1.C.6"
-										},
-										"1.a.8": {
-											"title": "1.A.8"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										},
-										"1.b.8": {
-											"title": "1.B.8"
-										},
-										"1.c.7": {
-											"title": "1.C.7"
-										},
-										"1.a.9": {
-											"title": "1.A.9"
-										},
-										"1.b.5": {
-											"title": "1.B.5"
-										},
-										"1.a.4": {
-											"title": "1.A.4"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.A.7": {},
+										"1.C.2": {},
+										"1.B.1": {},
+										"1.B.4": {},
+										"1.B.7": {},
+										"1.C.5": {},
+										"1.D.2": {},
+										"1.B.2": {},
+										"1.C.6": {},
+										"1.A.8": {},
+										"1.A.2": {},
+										"1.B.8": {},
+										"1.C.7": {},
+										"1.A.9": {},
+										"1.B.5": {},
+										"1.A.4": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.2": {
-											"title": "9.D.2"
-										},
-										"9.c.3": {
-											"title": "9.C.3"
-										},
-										"9.c.7": {
-											"title": "9.C.7"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.3": {
-											"title": "9.B.3"
-										},
-										"9.c.6": {
-											"title": "9.C.6"
-										},
-										"9.a.6": {
-											"title": "9.A.6"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										}
+										"9.D.2": {},
+										"9.C.3": {},
+										"9.C.7": {},
+										"9.C.4": {},
+										"9.B.3": {},
+										"9.C.6": {},
+										"9.A.6": {},
+										"9.B.6": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.c.4": {
-											"title": "2.C.4"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.9": {
-											"title": "2.B.9"
-										},
-										"2.a.9": {
-											"title": "2.A.9"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.d.6": {
-											"title": "2.D.6"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										},
-										"2.b.8": {
-											"title": "2.B.8"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.a.1": {
-											"title": "2.A.1"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.d.1": {
-											"title": "2.D.1"
-										},
-										"2.d.4": {
-											"title": "2.D.4"
-										},
-										"2.d.7": {
-											"title": "2.D.7"
-										},
-										"2.d.8": {
-											"title": "2.D.8"
-										},
-										"2.c.1": {
-											"title": "2.C.1"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										}
+										"2.C.4": {},
+										"2.B.5": {},
+										"2.B.9": {},
+										"2.A.9": {},
+										"2.B.2": {},
+										"2.D.6": {},
+										"2.C.2": {},
+										"2.C.3": {},
+										"2.B.8": {},
+										"2.B.6": {},
+										"2.A.1": {},
+										"2.A.3": {},
+										"2.B.3": {},
+										"2.D.1": {},
+										"2.D.4": {},
+										"2.D.7": {},
+										"2.D.8": {},
+										"2.C.1": {},
+										"2.C.5": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.c.2": {
-											"title": "5.C.2"
-										},
-										"5.c.3": {
-											"title": "5.C.3"
-										},
-										"5.a.8": {
-											"title": "5.A.8"
-										},
-										"5.b.9": {
-											"title": "5.B.9"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.b.5": {
-											"title": "5.B.5"
-										},
-										"5.c.6": {
-											"title": "5.C.6"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.a.7": {
-											"title": "5.A.7"
-										},
-										"5.c.4": {
-											"title": "5.C.4"
-										}
+										"5.C.2": {},
+										"5.C.3": {},
+										"5.A.8": {},
+										"5.B.9": {},
+										"5.B.3": {},
+										"5.B.5": {},
+										"5.C.6": {},
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.A.7": {},
+										"5.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.6": {
-											"title": "8.B.6"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.a.4": {
-											"title": "8.A.4"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.b.2": {
-											"title": "8.B.2"
-										},
-										"8.a.3": {
-											"title": "8.A.3"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										},
-										"8.b.7": {
-											"title": "8.B.7"
-										},
-										"8.c.5": {
-											"title": "8.C.5"
-										},
-										"8.a.6": {
-											"title": "8.A.6"
-										},
-										"8.b.9": {
-											"title": "8.B.9"
-										}
+										"8.B.6": {},
+										"8.A.2": {},
+										"8.A.4": {},
+										"8.B.4": {},
+										"8.B.5": {},
+										"8.B.2": {},
+										"8.A.3": {},
+										"8.C.4": {},
+										"8.B.7": {},
+										"8.C.5": {},
+										"8.A.6": {},
+										"8.B.9": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.a.8": {
-											"title": "3.A.8"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.a.9": {
-											"title": "3.A.9"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.c.1": {
-											"title": "3.C.1"
-										},
-										"3.b.9": {
-											"title": "3.B.9"
-										}
+										"3.B.8": {},
+										"3.B.1": {},
+										"3.C.2": {},
+										"3.A.8": {},
+										"3.A.4": {},
+										"3.B.5": {},
+										"3.A.9": {},
+										"3.B.6": {},
+										"3.C.4": {},
+										"3.A.7": {},
+										"3.C.1": {},
+										"3.B.9": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.c.4": {
-											"title": "6.C.4"
-										},
-										"6.b.5": {
-											"title": "6.B.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										},
-										"6.c.3": {
-											"title": "6.C.3"
-										},
-										"6.a.9": {
-											"title": "6.A.9"
-										},
-										"6.c.1": {
-											"title": "6.C.1"
-										},
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.2": {
-											"title": "6.D.2"
-										},
-										"6.a.4": {
-											"title": "6.A.4"
-										},
-										"6.a.7": {
-											"title": "6.A.7"
-										},
-										"6.d.4": {
-											"title": "6.D.4"
-										}
+										"6.C.4": {},
+										"6.B.5": {},
+										"6.B.1": {},
+										"6.C.3": {},
+										"6.A.9": {},
+										"6.C.1": {},
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.2": {},
+										"6.A.4": {},
+										"6.A.7": {},
+										"6.D.4": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.7": {
-											"title": "10.A.7"
-										},
-										"10.a.8": {
-											"title": "10.A.8"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										},
-										"10.b.8": {
-											"title": "10.B.8"
-										},
-										"10.c.9": {
-											"title": "10.C.9"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.b.5": {
-											"title": "10.B.5"
-										},
-										"10.b.6": {
-											"title": "10.B.6"
-										},
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.c.4": {
-											"title": "10.C.4"
-										}
+										"10.A.5": {},
+										"10.A.7": {},
+										"10.A.8": {},
+										"10.B.3": {},
+										"10.B.8": {},
+										"10.C.9": {},
+										"10.C.2": {},
+										"10.B.5": {},
+										"10.B.6": {},
+										"10.D.2": {},
+										"10.D.1": {},
+										"10.C.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.3": {
-											"title": "7.B.3"
-										},
-										"7.b.1": {
-											"title": "7.B.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.d.4": {
-											"title": "7.D.4"
-										},
-										"7.b.4": {
-											"title": "7.B.4"
-										},
-										"7.d.2": {
-											"title": "7.D.2"
-										}
+										"7.A.2": {},
+										"7.B.3": {},
+										"7.B.1": {},
+										"7.C.3": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.B.9": {},
+										"7.D.4": {},
+										"7.B.4": {},
+										"7.D.2": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.7": {
-											"title": "4.C.7"
-										}
+										"4.C.7": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"7th-grade": {
-					"title": "7th grade",
+				"7th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.c.2": {
-											"title": "1.C.2"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.b.4": {
-											"title": "1.B.4"
-										},
-										"1.b.7": {
-											"title": "1.B.7"
-										},
-										"1.c.5": {
-											"title": "1.C.5"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.6": {
-											"title": "1.C.6"
-										},
-										"1.a.8": {
-											"title": "1.A.8"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										},
-										"1.b.8": {
-											"title": "1.B.8"
-										},
-										"1.c.7": {
-											"title": "1.C.7"
-										},
-										"1.a.9": {
-											"title": "1.A.9"
-										},
-										"1.b.5": {
-											"title": "1.B.5"
-										},
-										"1.a.4": {
-											"title": "1.A.4"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.A.7": {},
+										"1.C.2": {},
+										"1.B.1": {},
+										"1.B.4": {},
+										"1.B.7": {},
+										"1.C.5": {},
+										"1.D.2": {},
+										"1.B.2": {},
+										"1.C.6": {},
+										"1.A.8": {},
+										"1.A.2": {},
+										"1.B.8": {},
+										"1.C.7": {},
+										"1.A.9": {},
+										"1.B.5": {},
+										"1.A.4": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.2": {
-											"title": "9.D.2"
-										},
-										"9.c.3": {
-											"title": "9.C.3"
-										},
-										"9.c.7": {
-											"title": "9.C.7"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.3": {
-											"title": "9.B.3"
-										},
-										"9.c.6": {
-											"title": "9.C.6"
-										},
-										"9.a.6": {
-											"title": "9.A.6"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										}
+										"9.D.2": {},
+										"9.C.3": {},
+										"9.C.7": {},
+										"9.C.4": {},
+										"9.B.3": {},
+										"9.C.6": {},
+										"9.A.6": {},
+										"9.B.6": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.c.4": {
-											"title": "2.C.4"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.9": {
-											"title": "2.B.9"
-										},
-										"2.a.9": {
-											"title": "2.A.9"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.d.6": {
-											"title": "2.D.6"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										},
-										"2.b.8": {
-											"title": "2.B.8"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.a.1": {
-											"title": "2.A.1"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.d.1": {
-											"title": "2.D.1"
-										},
-										"2.d.4": {
-											"title": "2.D.4"
-										},
-										"2.d.7": {
-											"title": "2.D.7"
-										},
-										"2.d.8": {
-											"title": "2.D.8"
-										},
-										"2.c.1": {
-											"title": "2.C.1"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										}
+										"2.C.4": {},
+										"2.B.5": {},
+										"2.B.9": {},
+										"2.A.9": {},
+										"2.B.2": {},
+										"2.D.6": {},
+										"2.C.2": {},
+										"2.C.3": {},
+										"2.B.8": {},
+										"2.B.6": {},
+										"2.A.1": {},
+										"2.A.3": {},
+										"2.B.3": {},
+										"2.D.1": {},
+										"2.D.4": {},
+										"2.D.7": {},
+										"2.D.8": {},
+										"2.C.1": {},
+										"2.C.5": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.c.2": {
-											"title": "5.C.2"
-										},
-										"5.c.3": {
-											"title": "5.C.3"
-										},
-										"5.a.8": {
-											"title": "5.A.8"
-										},
-										"5.b.9": {
-											"title": "5.B.9"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.b.5": {
-											"title": "5.B.5"
-										},
-										"5.c.6": {
-											"title": "5.C.6"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.a.7": {
-											"title": "5.A.7"
-										},
-										"5.c.4": {
-											"title": "5.C.4"
-										}
+										"5.C.2": {},
+										"5.C.3": {},
+										"5.A.8": {},
+										"5.B.9": {},
+										"5.B.3": {},
+										"5.B.5": {},
+										"5.C.6": {},
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.A.7": {},
+										"5.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.6": {
-											"title": "8.B.6"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.a.4": {
-											"title": "8.A.4"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.b.2": {
-											"title": "8.B.2"
-										},
-										"8.a.3": {
-											"title": "8.A.3"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										},
-										"8.b.7": {
-											"title": "8.B.7"
-										},
-										"8.c.5": {
-											"title": "8.C.5"
-										},
-										"8.a.6": {
-											"title": "8.A.6"
-										},
-										"8.b.9": {
-											"title": "8.B.9"
-										}
+										"8.B.6": {},
+										"8.A.2": {},
+										"8.A.4": {},
+										"8.B.4": {},
+										"8.B.5": {},
+										"8.B.2": {},
+										"8.A.3": {},
+										"8.C.4": {},
+										"8.B.7": {},
+										"8.C.5": {},
+										"8.A.6": {},
+										"8.B.9": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.a.8": {
-											"title": "3.A.8"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.a.9": {
-											"title": "3.A.9"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.c.1": {
-											"title": "3.C.1"
-										},
-										"3.b.9": {
-											"title": "3.B.9"
-										}
+										"3.B.8": {},
+										"3.B.1": {},
+										"3.C.2": {},
+										"3.A.8": {},
+										"3.A.4": {},
+										"3.B.5": {},
+										"3.A.9": {},
+										"3.B.6": {},
+										"3.C.4": {},
+										"3.A.7": {},
+										"3.C.1": {},
+										"3.B.9": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.c.4": {
-											"title": "6.C.4"
-										},
-										"6.b.5": {
-											"title": "6.B.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										},
-										"6.c.3": {
-											"title": "6.C.3"
-										},
-										"6.a.9": {
-											"title": "6.A.9"
-										},
-										"6.c.1": {
-											"title": "6.C.1"
-										},
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.2": {
-											"title": "6.D.2"
-										},
-										"6.a.4": {
-											"title": "6.A.4"
-										},
-										"6.a.7": {
-											"title": "6.A.7"
-										},
-										"6.d.4": {
-											"title": "6.D.4"
-										}
+										"6.C.4": {},
+										"6.B.5": {},
+										"6.B.1": {},
+										"6.C.3": {},
+										"6.A.9": {},
+										"6.C.1": {},
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.2": {},
+										"6.A.4": {},
+										"6.A.7": {},
+										"6.D.4": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.7": {
-											"title": "10.A.7"
-										},
-										"10.a.8": {
-											"title": "10.A.8"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										},
-										"10.b.8": {
-											"title": "10.B.8"
-										},
-										"10.c.9": {
-											"title": "10.C.9"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.b.5": {
-											"title": "10.B.5"
-										},
-										"10.b.6": {
-											"title": "10.B.6"
-										},
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.c.4": {
-											"title": "10.C.4"
-										}
+										"10.A.5": {},
+										"10.A.7": {},
+										"10.A.8": {},
+										"10.B.3": {},
+										"10.B.8": {},
+										"10.C.9": {},
+										"10.C.2": {},
+										"10.B.5": {},
+										"10.B.6": {},
+										"10.D.2": {},
+										"10.D.1": {},
+										"10.C.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.3": {
-											"title": "7.B.3"
-										},
-										"7.b.1": {
-											"title": "7.B.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.d.4": {
-											"title": "7.D.4"
-										},
-										"7.b.4": {
-											"title": "7.B.4"
-										},
-										"7.d.2": {
-											"title": "7.D.2"
-										}
+										"7.A.2": {},
+										"7.B.3": {},
+										"7.B.1": {},
+										"7.C.3": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.B.9": {},
+										"7.D.4": {},
+										"7.B.4": {},
+										"7.D.2": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.7": {
-											"title": "4.C.7"
-										}
+										"4.C.7": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"8th-grade": {
-					"title": "8th grade",
+				"8th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.a.7": {
-											"title": "1.A.7"
-										},
-										"1.c.2": {
-											"title": "1.C.2"
-										},
-										"1.b.1": {
-											"title": "1.B.1"
-										},
-										"1.b.4": {
-											"title": "1.B.4"
-										},
-										"1.b.7": {
-											"title": "1.B.7"
-										},
-										"1.c.5": {
-											"title": "1.C.5"
-										},
-										"1.d.2": {
-											"title": "1.D.2"
-										},
-										"1.b.2": {
-											"title": "1.B.2"
-										},
-										"1.c.6": {
-											"title": "1.C.6"
-										},
-										"1.a.8": {
-											"title": "1.A.8"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										},
-										"1.b.8": {
-											"title": "1.B.8"
-										},
-										"1.c.7": {
-											"title": "1.C.7"
-										},
-										"1.a.9": {
-											"title": "1.A.9"
-										},
-										"1.b.5": {
-											"title": "1.B.5"
-										},
-										"1.a.4": {
-											"title": "1.A.4"
-										},
-										"1.d.3": {
-											"title": "1.D.3"
-										}
+										"1.A.7": {},
+										"1.C.2": {},
+										"1.B.1": {},
+										"1.B.4": {},
+										"1.B.7": {},
+										"1.C.5": {},
+										"1.D.2": {},
+										"1.B.2": {},
+										"1.C.6": {},
+										"1.A.8": {},
+										"1.A.2": {},
+										"1.B.8": {},
+										"1.C.7": {},
+										"1.A.9": {},
+										"1.B.5": {},
+										"1.A.4": {},
+										"1.D.3": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.d.2": {
-											"title": "9.D.2"
-										},
-										"9.c.3": {
-											"title": "9.C.3"
-										},
-										"9.c.7": {
-											"title": "9.C.7"
-										},
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.3": {
-											"title": "9.B.3"
-										},
-										"9.c.6": {
-											"title": "9.C.6"
-										},
-										"9.a.6": {
-											"title": "9.A.6"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										}
+										"9.D.2": {},
+										"9.C.3": {},
+										"9.C.7": {},
+										"9.C.4": {},
+										"9.B.3": {},
+										"9.C.6": {},
+										"9.A.6": {},
+										"9.B.6": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.c.4": {
-											"title": "2.C.4"
-										},
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.b.9": {
-											"title": "2.B.9"
-										},
-										"2.a.9": {
-											"title": "2.A.9"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.d.6": {
-											"title": "2.D.6"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										},
-										"2.c.3": {
-											"title": "2.C.3"
-										},
-										"2.b.8": {
-											"title": "2.B.8"
-										},
-										"2.b.6": {
-											"title": "2.B.6"
-										},
-										"2.a.1": {
-											"title": "2.A.1"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.d.1": {
-											"title": "2.D.1"
-										},
-										"2.d.4": {
-											"title": "2.D.4"
-										},
-										"2.d.7": {
-											"title": "2.D.7"
-										},
-										"2.d.8": {
-											"title": "2.D.8"
-										},
-										"2.c.1": {
-											"title": "2.C.1"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										}
+										"2.C.4": {},
+										"2.B.5": {},
+										"2.B.9": {},
+										"2.A.9": {},
+										"2.B.2": {},
+										"2.D.6": {},
+										"2.C.2": {},
+										"2.C.3": {},
+										"2.B.8": {},
+										"2.B.6": {},
+										"2.A.1": {},
+										"2.A.3": {},
+										"2.B.3": {},
+										"2.D.1": {},
+										"2.D.4": {},
+										"2.D.7": {},
+										"2.D.8": {},
+										"2.C.1": {},
+										"2.C.5": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.c.2": {
-											"title": "5.C.2"
-										},
-										"5.c.3": {
-											"title": "5.C.3"
-										},
-										"5.a.8": {
-											"title": "5.A.8"
-										},
-										"5.b.9": {
-											"title": "5.B.9"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.b.5": {
-											"title": "5.B.5"
-										},
-										"5.c.6": {
-											"title": "5.C.6"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.6": {
-											"title": "5.B.6"
-										},
-										"5.a.7": {
-											"title": "5.A.7"
-										},
-										"5.c.4": {
-											"title": "5.C.4"
-										}
+										"5.C.2": {},
+										"5.C.3": {},
+										"5.A.8": {},
+										"5.B.9": {},
+										"5.B.3": {},
+										"5.B.5": {},
+										"5.C.6": {},
+										"5.B.2": {},
+										"5.B.6": {},
+										"5.A.7": {},
+										"5.C.4": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.b.6": {
-											"title": "8.B.6"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.a.4": {
-											"title": "8.A.4"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.b.5": {
-											"title": "8.B.5"
-										},
-										"8.b.2": {
-											"title": "8.B.2"
-										},
-										"8.a.3": {
-											"title": "8.A.3"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										},
-										"8.b.7": {
-											"title": "8.B.7"
-										},
-										"8.c.5": {
-											"title": "8.C.5"
-										},
-										"8.a.6": {
-											"title": "8.A.6"
-										},
-										"8.b.9": {
-											"title": "8.B.9"
-										}
+										"8.B.6": {},
+										"8.A.2": {},
+										"8.A.4": {},
+										"8.B.4": {},
+										"8.B.5": {},
+										"8.B.2": {},
+										"8.A.3": {},
+										"8.C.4": {},
+										"8.B.7": {},
+										"8.C.5": {},
+										"8.A.6": {},
+										"8.B.9": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.a.8": {
-											"title": "3.A.8"
-										},
-										"3.a.4": {
-											"title": "3.A.4"
-										},
-										"3.b.5": {
-											"title": "3.B.5"
-										},
-										"3.a.9": {
-											"title": "3.A.9"
-										},
-										"3.b.6": {
-											"title": "3.B.6"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.a.7": {
-											"title": "3.A.7"
-										},
-										"3.c.1": {
-											"title": "3.C.1"
-										},
-										"3.b.9": {
-											"title": "3.B.9"
-										}
+										"3.B.8": {},
+										"3.B.1": {},
+										"3.C.2": {},
+										"3.A.8": {},
+										"3.A.4": {},
+										"3.B.5": {},
+										"3.A.9": {},
+										"3.B.6": {},
+										"3.C.4": {},
+										"3.A.7": {},
+										"3.C.1": {},
+										"3.B.9": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.c.4": {
-											"title": "6.C.4"
-										},
-										"6.b.5": {
-											"title": "6.B.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										},
-										"6.c.3": {
-											"title": "6.C.3"
-										},
-										"6.a.9": {
-											"title": "6.A.9"
-										},
-										"6.c.1": {
-											"title": "6.C.1"
-										},
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.b.4": {
-											"title": "6.B.4"
-										},
-										"6.d.2": {
-											"title": "6.D.2"
-										},
-										"6.a.4": {
-											"title": "6.A.4"
-										},
-										"6.a.7": {
-											"title": "6.A.7"
-										},
-										"6.d.4": {
-											"title": "6.D.4"
-										}
+										"6.C.4": {},
+										"6.B.5": {},
+										"6.B.1": {},
+										"6.C.3": {},
+										"6.A.9": {},
+										"6.C.1": {},
+										"6.B.2": {},
+										"6.B.4": {},
+										"6.D.2": {},
+										"6.A.4": {},
+										"6.A.7": {},
+										"6.D.4": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.7": {
-											"title": "10.A.7"
-										},
-										"10.a.8": {
-											"title": "10.A.8"
-										},
-										"10.b.3": {
-											"title": "10.B.3"
-										},
-										"10.b.8": {
-											"title": "10.B.8"
-										},
-										"10.c.9": {
-											"title": "10.C.9"
-										},
-										"10.c.2": {
-											"title": "10.C.2"
-										},
-										"10.b.5": {
-											"title": "10.B.5"
-										},
-										"10.b.6": {
-											"title": "10.B.6"
-										},
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.d.1": {
-											"title": "10.D.1"
-										},
-										"10.c.4": {
-											"title": "10.C.4"
-										}
+										"10.A.5": {},
+										"10.A.7": {},
+										"10.A.8": {},
+										"10.B.3": {},
+										"10.B.8": {},
+										"10.C.9": {},
+										"10.C.2": {},
+										"10.B.5": {},
+										"10.B.6": {},
+										"10.D.2": {},
+										"10.D.1": {},
+										"10.C.4": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.2": {
-											"title": "7.A.2"
-										},
-										"7.b.3": {
-											"title": "7.B.3"
-										},
-										"7.b.1": {
-											"title": "7.B.1"
-										},
-										"7.c.3": {
-											"title": "7.C.3"
-										},
-										"7.b.8": {
-											"title": "7.B.8"
-										},
-										"7.c.1": {
-											"title": "7.C.1"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.d.4": {
-											"title": "7.D.4"
-										},
-										"7.b.4": {
-											"title": "7.B.4"
-										},
-										"7.d.2": {
-											"title": "7.D.2"
-										}
+										"7.A.2": {},
+										"7.B.3": {},
+										"7.B.1": {},
+										"7.C.3": {},
+										"7.B.8": {},
+										"7.C.1": {},
+										"7.B.9": {},
+										"7.D.4": {},
+										"7.B.4": {},
+										"7.D.2": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.7": {
-											"title": "4.C.7"
-										}
+										"4.C.7": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"9th-grade": {
-					"title": "9th grade",
+				"9th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.b.3": {
-											"title": "1.B.3"
-										},
-										"1.a.6": {
-											"title": "1.A.6"
-										},
-										"1.a.1": {
-											"title": "1.A.1"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										}
+										"1.B.3": {},
+										"1.A.6": {},
+										"1.A.1": {},
+										"1.A.2": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.a.6": {
-											"title": "5.A.6"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.7": {
-											"title": "5.B.7"
-										}
+										"5.A.6": {},
+										"5.B.3": {},
+										"5.A.4": {},
+										"5.B.2": {},
+										"5.B.7": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.c.8": {
-											"title": "10.C.8"
-										},
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.4": {
-											"title": "10.B.4"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										}
+										"10.D.2": {},
+										"10.C.8": {},
+										"10.A.5": {},
+										"10.A.2": {},
+										"10.B.4": {},
+										"10.B.2": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.8": {
-											"title": "7.A.8"
-										},
-										"7.a.9": {
-											"title": "7.A.9"
-										},
-										"7.b.5": {
-											"title": "7.B.5"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.c.4": {
-											"title": "7.C.4"
-										},
-										"7.c.7": {
-											"title": "7.C.7"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.a.7": {
-											"title": "7.A.7"
-										},
-										"7.a.10": {
-											"title": "7.A.10"
-										}
+										"7.A.8": {},
+										"7.A.9": {},
+										"7.B.5": {},
+										"7.B.2": {},
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.C.4": {},
+										"7.C.7": {},
+										"7.B.9": {},
+										"7.A.7": {},
+										"7.A.10": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										}
+										"2.B.5": {},
+										"2.A.3": {},
+										"2.B.2": {},
+										"2.C.5": {},
+										"2.B.7": {},
+										"2.B.3": {},
+										"2.C.2": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.d.4": {
-											"title": "3.D.4"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.b.7": {
-											"title": "3.B.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										}
+										"3.B.8": {},
+										"3.D.4": {},
+										"3.C.2": {},
+										"3.C.4": {},
+										"3.B.7": {},
+										"3.B.1": {},
+										"3.B.3": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.d.1": {
-											"title": "8.D.1"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										}
+										"8.D.1": {},
+										"8.A.2": {},
+										"8.B.4": {},
+										"8.C.4": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.c.6": {
-											"title": "6.C.6"
-										},
-										"6.c.5": {
-											"title": "6.C.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										}
+										"6.B.2": {},
+										"6.C.6": {},
+										"6.C.5": {},
+										"6.B.1": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										},
-										"9.a.2": {
-											"title": "9.A.2"
-										},
-										"9.a.5": {
-											"title": "9.A.5"
-										},
-										"9.b.1": {
-											"title": "9.B.1"
-										},
-										"9.b.5": {
-											"title": "9.B.5"
-										},
-										"9.b.7": {
-											"title": "9.B.7"
-										},
-										"9.c.5": {
-											"title": "9.C.5"
-										},
-										"9.c.8": {
-											"title": "9.C.8"
-										}
+										"9.C.4": {},
+										"9.B.6": {},
+										"9.A.2": {},
+										"9.A.5": {},
+										"9.B.1": {},
+										"9.B.5": {},
+										"9.B.7": {},
+										"9.C.5": {},
+										"9.C.8": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.4": {
-											"title": "4.C.4"
-										},
-										"4.a.8": {
-											"title": "4.A.8"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										}
+										"4.C.4": {},
+										"4.A.8": {},
+										"4.B.2": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"10th-grade": {
-					"title": "10th grade",
+				"10th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.b.3": {
-											"title": "1.B.3"
-										},
-										"1.a.6": {
-											"title": "1.A.6"
-										},
-										"1.a.1": {
-											"title": "1.A.1"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										}
+										"1.B.3": {},
+										"1.A.6": {},
+										"1.A.1": {},
+										"1.A.2": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.a.6": {
-											"title": "5.A.6"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.7": {
-											"title": "5.B.7"
-										}
+										"5.A.6": {},
+										"5.B.3": {},
+										"5.A.4": {},
+										"5.B.2": {},
+										"5.B.7": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.c.8": {
-											"title": "10.C.8"
-										},
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.4": {
-											"title": "10.B.4"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										}
+										"10.D.2": {},
+										"10.C.8": {},
+										"10.A.5": {},
+										"10.A.2": {},
+										"10.B.4": {},
+										"10.B.2": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.8": {
-											"title": "7.A.8"
-										},
-										"7.a.9": {
-											"title": "7.A.9"
-										},
-										"7.b.5": {
-											"title": "7.B.5"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.c.4": {
-											"title": "7.C.4"
-										},
-										"7.c.7": {
-											"title": "7.C.7"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.a.7": {
-											"title": "7.A.7"
-										},
-										"7.a.10": {
-											"title": "7.A.10"
-										}
+										"7.A.8": {},
+										"7.A.9": {},
+										"7.B.5": {},
+										"7.B.2": {},
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.C.4": {},
+										"7.C.7": {},
+										"7.B.9": {},
+										"7.A.7": {},
+										"7.A.10": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										}
+										"2.B.5": {},
+										"2.A.3": {},
+										"2.B.2": {},
+										"2.C.5": {},
+										"2.B.7": {},
+										"2.B.3": {},
+										"2.C.2": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.d.4": {
-											"title": "3.D.4"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.b.7": {
-											"title": "3.B.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										}
+										"3.B.8": {},
+										"3.D.4": {},
+										"3.C.2": {},
+										"3.C.4": {},
+										"3.B.7": {},
+										"3.B.1": {},
+										"3.B.3": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.d.1": {
-											"title": "8.D.1"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										}
+										"8.D.1": {},
+										"8.A.2": {},
+										"8.B.4": {},
+										"8.C.4": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.c.6": {
-											"title": "6.C.6"
-										},
-										"6.c.5": {
-											"title": "6.C.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										}
+										"6.B.2": {},
+										"6.C.6": {},
+										"6.C.5": {},
+										"6.B.1": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										},
-										"9.a.2": {
-											"title": "9.A.2"
-										},
-										"9.a.5": {
-											"title": "9.A.5"
-										},
-										"9.b.1": {
-											"title": "9.B.1"
-										},
-										"9.b.5": {
-											"title": "9.B.5"
-										},
-										"9.b.7": {
-											"title": "9.B.7"
-										},
-										"9.c.5": {
-											"title": "9.C.5"
-										},
-										"9.c.8": {
-											"title": "9.C.8"
-										}
+										"9.C.4": {},
+										"9.B.6": {},
+										"9.A.2": {},
+										"9.A.5": {},
+										"9.B.1": {},
+										"9.B.5": {},
+										"9.B.7": {},
+										"9.C.5": {},
+										"9.C.8": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.4": {
-											"title": "4.C.4"
-										},
-										"4.a.8": {
-											"title": "4.A.8"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										}
+										"4.C.4": {},
+										"4.A.8": {},
+										"4.B.2": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"11th-grade": {
-					"title": "11th grade",
+				"11th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.b.3": {
-											"title": "1.B.3"
-										},
-										"1.a.6": {
-											"title": "1.A.6"
-										},
-										"1.a.1": {
-											"title": "1.A.1"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										}
+										"1.B.3": {},
+										"1.A.6": {},
+										"1.A.1": {},
+										"1.A.2": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.a.6": {
-											"title": "5.A.6"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.7": {
-											"title": "5.B.7"
-										}
+										"5.A.6": {},
+										"5.B.3": {},
+										"5.A.4": {},
+										"5.B.2": {},
+										"5.B.7": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.c.8": {
-											"title": "10.C.8"
-										},
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.4": {
-											"title": "10.B.4"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										}
+										"10.D.2": {},
+										"10.C.8": {},
+										"10.A.5": {},
+										"10.A.2": {},
+										"10.B.4": {},
+										"10.B.2": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.8": {
-											"title": "7.A.8"
-										},
-										"7.a.9": {
-											"title": "7.A.9"
-										},
-										"7.b.5": {
-											"title": "7.B.5"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.c.4": {
-											"title": "7.C.4"
-										},
-										"7.c.7": {
-											"title": "7.C.7"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.a.7": {
-											"title": "7.A.7"
-										},
-										"7.a.10": {
-											"title": "7.A.10"
-										}
+										"7.A.8": {},
+										"7.A.9": {},
+										"7.B.5": {},
+										"7.B.2": {},
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.C.4": {},
+										"7.C.7": {},
+										"7.B.9": {},
+										"7.A.7": {},
+										"7.A.10": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										}
+										"2.B.5": {},
+										"2.A.3": {},
+										"2.B.2": {},
+										"2.C.5": {},
+										"2.B.7": {},
+										"2.B.3": {},
+										"2.C.2": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.d.4": {
-											"title": "3.D.4"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.b.7": {
-											"title": "3.B.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										}
+										"3.B.8": {},
+										"3.D.4": {},
+										"3.C.2": {},
+										"3.C.4": {},
+										"3.B.7": {},
+										"3.B.1": {},
+										"3.B.3": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.d.1": {
-											"title": "8.D.1"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										}
+										"8.D.1": {},
+										"8.A.2": {},
+										"8.B.4": {},
+										"8.C.4": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.c.6": {
-											"title": "6.C.6"
-										},
-										"6.c.5": {
-											"title": "6.C.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										}
+										"6.B.2": {},
+										"6.C.6": {},
+										"6.C.5": {},
+										"6.B.1": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										},
-										"9.a.2": {
-											"title": "9.A.2"
-										},
-										"9.a.5": {
-											"title": "9.A.5"
-										},
-										"9.b.1": {
-											"title": "9.B.1"
-										},
-										"9.b.5": {
-											"title": "9.B.5"
-										},
-										"9.b.7": {
-											"title": "9.B.7"
-										},
-										"9.c.5": {
-											"title": "9.C.5"
-										},
-										"9.c.8": {
-											"title": "9.C.8"
-										}
+										"9.C.4": {},
+										"9.B.6": {},
+										"9.A.2": {},
+										"9.A.5": {},
+										"9.B.1": {},
+										"9.B.5": {},
+										"9.B.7": {},
+										"9.C.5": {},
+										"9.C.8": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.4": {
-											"title": "4.C.4"
-										},
-										"4.a.8": {
-											"title": "4.A.8"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										}
+										"4.C.4": {},
+										"4.A.8": {},
+										"4.B.2": {}
 									}
 								}
 							}
 						}
 					}
 				},
-				"12th-grade": {
-					"title": "12th grade",
+				"12th grade": {
 					"strands": {
-						"culture": {
-							"title": "Culture",
+						"Culture": {
 							"subStrands": {
-								"culture": {
-									"title": "Culture",
+								"Culture": {
 									"standards": {
-										"1.b.3": {
-											"title": "1.B.3"
-										},
-										"1.a.6": {
-											"title": "1.A.6"
-										},
-										"1.a.1": {
-											"title": "1.A.1"
-										},
-										"1.a.2": {
-											"title": "1.A.2"
-										}
+										"1.B.3": {},
+										"1.A.6": {},
+										"1.A.1": {},
+										"1.A.2": {}
 									}
 								}
 							}
 						},
-						"individuals%2C-groups%2C-and-institutions": {
-							"title": "Individuals, Groups, and Institutions",
+						"Individuals, Groups, and Institutions": {
 							"subStrands": {
-								"individuals%2C-groups%2C-and-institutions": {
-									"title": "Individuals, Groups, and Institutions",
+								"Individuals, Groups, and Institutions": {
 									"standards": {
-										"5.a.6": {
-											"title": "5.A.6"
-										},
-										"5.b.3": {
-											"title": "5.B.3"
-										},
-										"5.a.4": {
-											"title": "5.A.4"
-										},
-										"5.b.2": {
-											"title": "5.B.2"
-										},
-										"5.b.7": {
-											"title": "5.B.7"
-										}
+										"5.A.6": {},
+										"5.B.3": {},
+										"5.A.4": {},
+										"5.B.2": {},
+										"5.B.7": {}
 									}
 								}
 							}
 						},
-						"civic-ideals-and-practices": {
-							"title": "Civic Ideals and Practices",
+						"Civic Ideals and Practices": {
 							"subStrands": {
-								"civic-ideals-and-practices": {
-									"title": "Civic Ideals and Practices",
+								"Civic Ideals and Practices": {
 									"standards": {
-										"10.d.2": {
-											"title": "10.D.2"
-										},
-										"10.c.8": {
-											"title": "10.C.8"
-										},
-										"10.a.5": {
-											"title": "10.A.5"
-										},
-										"10.a.2": {
-											"title": "10.A.2"
-										},
-										"10.b.4": {
-											"title": "10.B.4"
-										},
-										"10.b.2": {
-											"title": "10.B.2"
-										}
+										"10.D.2": {},
+										"10.C.8": {},
+										"10.A.5": {},
+										"10.A.2": {},
+										"10.B.4": {},
+										"10.B.2": {}
 									}
 								}
 							}
 						},
-						"production%2C-distribution%2C-and-consumption": {
-							"title": "Production, Distribution, and Consumption",
+						"Production, Distribution, and Consumption": {
 							"subStrands": {
-								"production%2C-distribution%2C-and-consumption": {
-									"title": "Production, Distribution, and Consumption",
+								"Production, Distribution, and Consumption": {
 									"standards": {
-										"7.a.8": {
-											"title": "7.A.8"
-										},
-										"7.a.9": {
-											"title": "7.A.9"
-										},
-										"7.b.5": {
-											"title": "7.B.5"
-										},
-										"7.b.2": {
-											"title": "7.B.2"
-										},
-										"7.b.6": {
-											"title": "7.B.6"
-										},
-										"7.a.1": {
-											"title": "7.A.1"
-										},
-										"7.c.4": {
-											"title": "7.C.4"
-										},
-										"7.c.7": {
-											"title": "7.C.7"
-										},
-										"7.b.9": {
-											"title": "7.B.9"
-										},
-										"7.a.7": {
-											"title": "7.A.7"
-										},
-										"7.a.10": {
-											"title": "7.A.10"
-										}
+										"7.A.8": {},
+										"7.A.9": {},
+										"7.B.5": {},
+										"7.B.2": {},
+										"7.B.6": {},
+										"7.A.1": {},
+										"7.C.4": {},
+										"7.C.7": {},
+										"7.B.9": {},
+										"7.A.7": {},
+										"7.A.10": {}
 									}
 								}
 							}
 						},
-						"time%2C-continuity%2C-and-change": {
-							"title": "Time, Continuity, and Change",
+						"Time, Continuity, and Change": {
 							"subStrands": {
-								"time%2C-continuity%2C-and-change": {
-									"title": "Time, Continuity, and Change",
+								"Time, Continuity, and Change": {
 									"standards": {
-										"2.b.5": {
-											"title": "2.B.5"
-										},
-										"2.a.3": {
-											"title": "2.A.3"
-										},
-										"2.b.2": {
-											"title": "2.B.2"
-										},
-										"2.c.5": {
-											"title": "2.C.5"
-										},
-										"2.b.7": {
-											"title": "2.B.7"
-										},
-										"2.b.3": {
-											"title": "2.B.3"
-										},
-										"2.c.2": {
-											"title": "2.C.2"
-										}
+										"2.B.5": {},
+										"2.A.3": {},
+										"2.B.2": {},
+										"2.C.5": {},
+										"2.B.7": {},
+										"2.B.3": {},
+										"2.C.2": {}
 									}
 								}
 							}
 						},
-						"people%2C-places%2C-and-environments": {
-							"title": "People, Places, and Environments",
+						"People, Places, and Environments": {
 							"subStrands": {
-								"people%2C-places%2C-and-environments": {
-									"title": "People, Places, and Environments",
+								"People, Places, and Environments": {
 									"standards": {
-										"3.b.8": {
-											"title": "3.B.8"
-										},
-										"3.d.4": {
-											"title": "3.D.4"
-										},
-										"3.c.2": {
-											"title": "3.C.2"
-										},
-										"3.c.4": {
-											"title": "3.C.4"
-										},
-										"3.b.7": {
-											"title": "3.B.7"
-										},
-										"3.b.1": {
-											"title": "3.B.1"
-										},
-										"3.b.3": {
-											"title": "3.B.3"
-										}
+										"3.B.8": {},
+										"3.D.4": {},
+										"3.C.2": {},
+										"3.C.4": {},
+										"3.B.7": {},
+										"3.B.1": {},
+										"3.B.3": {}
 									}
 								}
 							}
 						},
-						"science%2C-technology%2C-and-society": {
-							"title": "Science, Technology, and Society",
+						"Science, Technology, and Society": {
 							"subStrands": {
-								"science%2C-technology%2C-and-society": {
-									"title": "Science, Technology, and Society",
+								"Science, Technology, and Society": {
 									"standards": {
-										"8.d.1": {
-											"title": "8.D.1"
-										},
-										"8.a.2": {
-											"title": "8.A.2"
-										},
-										"8.b.4": {
-											"title": "8.B.4"
-										},
-										"8.c.4": {
-											"title": "8.C.4"
-										}
+										"8.D.1": {},
+										"8.A.2": {},
+										"8.B.4": {},
+										"8.C.4": {}
 									}
 								}
 							}
 						},
-						"power%2C-authority%2C-and-governance": {
-							"title": "Power, Authority, and Governance",
+						"Power, Authority, and Governance": {
 							"subStrands": {
-								"power%2C-authority%2C-and-governance": {
-									"title": "Power, Authority, and Governance",
+								"Power, Authority, and Governance": {
 									"standards": {
-										"6.b.2": {
-											"title": "6.B.2"
-										},
-										"6.c.6": {
-											"title": "6.C.6"
-										},
-										"6.c.5": {
-											"title": "6.C.5"
-										},
-										"6.b.1": {
-											"title": "6.B.1"
-										}
+										"6.B.2": {},
+										"6.C.6": {},
+										"6.C.5": {},
+										"6.B.1": {}
 									}
 								}
 							}
 						},
-						"global-connections": {
-							"title": "Global Connections",
+						"Global Connections": {
 							"subStrands": {
-								"global-connections": {
-									"title": "Global Connections",
+								"Global Connections": {
 									"standards": {
-										"9.c.4": {
-											"title": "9.C.4"
-										},
-										"9.b.6": {
-											"title": "9.B.6"
-										},
-										"9.a.2": {
-											"title": "9.A.2"
-										},
-										"9.a.5": {
-											"title": "9.A.5"
-										},
-										"9.b.1": {
-											"title": "9.B.1"
-										},
-										"9.b.5": {
-											"title": "9.B.5"
-										},
-										"9.b.7": {
-											"title": "9.B.7"
-										},
-										"9.c.5": {
-											"title": "9.C.5"
-										},
-										"9.c.8": {
-											"title": "9.C.8"
-										}
+										"9.C.4": {},
+										"9.B.6": {},
+										"9.A.2": {},
+										"9.A.5": {},
+										"9.B.1": {},
+										"9.B.5": {},
+										"9.B.7": {},
+										"9.C.5": {},
+										"9.C.8": {}
 									}
 								}
 							}
 						},
-						"individual-development%2C-and-identity": {
-							"title": "Individual Development, and Identity",
+						"Individual Development, and Identity": {
 							"subStrands": {
-								"individual-development-and-identity": {
-									"title": "Individual Development and Identity",
+								"Individual Development and Identity": {
 									"standards": {
-										"4.c.4": {
-											"title": "4.C.4"
-										},
-										"4.a.8": {
-											"title": "4.A.8"
-										},
-										"4.b.2": {
-											"title": "4.B.2"
-										}
+										"4.C.4": {},
+										"4.A.8": {},
+										"4.B.2": {}
 									}
 								}
 							}
