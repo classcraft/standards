@@ -1,0 +1,5432 @@
+{
+	"title": "CCSS",
+	"subjects": {
+		"ela": {
+			"title": "ELA",
+			"grades": {
+				"kindergarten": {
+					"title": "Kindergarten",
+					"strands": {
+						"kindergarten": {
+							"title": "Kindergarten",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rf.k.2.a": {
+											"title": "CCSS.ELA-Literacy.RF.K.2.a"
+										},
+										"ccss.ela-literacy.rf.k.1.d": {
+											"title": "CCSS.ELA-Literacy.RF.K.1.d"
+										},
+										"ccss.ela-literacy.rl.k.6": {
+											"title": "CCSS.ELA-Literacy.RL.K.6"
+										},
+										"ccss.ela-literacy.ri.k.5": {
+											"title": "CCSS.ELA-Literacy.RI.K.5"
+										},
+										"ccss.ela-literacy.ri.k.6": {
+											"title": "CCSS.ELA-Literacy.RI.K.6"
+										},
+										"ccss.ela-literacy.rf.k.2.d": {
+											"title": "CCSS.ELA-Literacy.RF.K.2.d"
+										},
+										"ccss.ela-literacy.rf.k.3.c": {
+											"title": "CCSS.ELA-Literacy.RF.K.3.c"
+										},
+										"ccss.ela-literacy.rl.k.7": {
+											"title": "CCSS.ELA-Literacy.RL.K.7"
+										},
+										"ccss.ela-literacy.ri.k.7": {
+											"title": "CCSS.ELA-Literacy.RI.K.7"
+										},
+										"ccss.ela-literacy.rf.k.2.b": {
+											"title": "CCSS.ELA-Literacy.RF.K.2.b"
+										},
+										"ccss.ela-literacy.rf.k.2.e": {
+											"title": "CCSS.ELA-Literacy.RF.K.2.e"
+										},
+										"ccss.ela-literacy.rf.k.3.b": {
+											"title": "CCSS.ELA-Literacy.RF.K.3.b"
+										},
+										"ccss.ela-literacy.rl.k.2": {
+											"title": "CCSS.ELA-Literacy.RL.K.2"
+										},
+										"ccss.ela-literacy.rl.k.3": {
+											"title": "CCSS.ELA-Literacy.RL.K.3"
+										},
+										"ccss.ela-literacy.rf.k.3.a": {
+											"title": "CCSS.ELA-Literacy.RF.K.3.a"
+										},
+										"ccss.ela-literacy.rl.k.1": {
+											"title": "CCSS.ELA-Literacy.RL.K.1"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ri.k.8": {
+											"title": "CCSS.ELA-Literacy.RI.K.8"
+										},
+										"ccss.ela-literacy.ri.k.1": {
+											"title": "CCSS.ELA-Literacy.RI.K.1"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.k.1.a": {
+											"title": "CCSS.ELA-Literacy.L.K.1.a"
+										},
+										"ccss.ela-literacy.l.k.2.c": {
+											"title": "CCSS.ELA-Literacy.L.K.2.c"
+										},
+										"ccss.ela-literacy.l.k.2.d": {
+											"title": "CCSS.ELA-Literacy.L.K.2.d"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.k.5.b": {
+											"title": "CCSS.ELA-Literacy.L.K.5.b"
+										},
+										"ccss.ela-literacy.l.k.6": {
+											"title": "CCSS.ELA-Literacy.L.K.6"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										},
+										"ccss.ela-literacy.l.k.1.d": {
+											"title": "CCSS.ELA-Literacy.L.K.1.d"
+										},
+										"ccss.ela-literacy.l.k.1.e": {
+											"title": "CCSS.ELA-Literacy.L.K.1.e"
+										},
+										"ccss.ela-literacy.l.k.1.b": {
+											"title": "CCSS.ELA-Literacy.L.K.1.b"
+										},
+										"ccss.ela-literacy.l.k.4.b": {
+											"title": "CCSS.ELA-Literacy.L.K.4.b"
+										},
+										"ccss.ela-literacy.l.k.1.c": {
+											"title": "CCSS.ELA-Literacy.L.K.1.c"
+										},
+										"ccss.ela-literacy.l.k.2.a": {
+											"title": "CCSS.ELA-Literacy.L.K.2.a"
+										},
+										"ccss.ela-literacy.l.k.2.b": {
+											"title": "CCSS.ELA-Literacy.L.K.2.b"
+										},
+										"ccss.ela-literacy.l.k.5.d": {
+											"title": "CCSS.ELA-Literacy.L.K.5.d"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.k.3": {
+											"title": "CCSS.ELA-Literacy.W.K.3"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.k.2": {
+											"title": "CCSS.ELA-Literacy.SL.K.2"
+										},
+										"ccss.ela-literacy.sl.k.3": {
+											"title": "CCSS.ELA-Literacy.SL.K.3"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.k.4": {
+											"title": "CCSS.ELA-Literacy.SL.K.4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"1st-grade": {
+					"title": "1st grade",
+					"strands": {
+						"1st-grade": {
+							"title": "1st grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.1.1": {
+											"title": "CCSS.ELA-Literacy.RL.1.1"
+										},
+										"ccss.ela-literacy.rl.1.2": {
+											"title": "CCSS.ELA-Literacy.RL.1.2"
+										},
+										"ccss.ela-literacy.rl.1.3": {
+											"title": "CCSS.ELA-Literacy.RL.1.3"
+										},
+										"ccss.ela-literacy.rl.1.7": {
+											"title": "CCSS.ELA-Literacy.RL.1.7"
+										},
+										"ccss.ela-literacy.ri.1.7": {
+											"title": "CCSS.ELA-Literacy.RI.1.7"
+										},
+										"ccss.ela-literacy.rl.1.9": {
+											"title": "CCSS.ELA-Literacy.RL.1.9"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ri.1.3": {
+											"title": "CCSS.ELA-Literacy.RI.1.3"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rf.1.3.a": {
+											"title": "CCSS.ELA-Literacy.RF.1.3.a"
+										},
+										"ccss.ela-literacy.rf.1.1.a": {
+											"title": "CCSS.ELA-Literacy.RF.1.1.a"
+										},
+										"ccss.ela-literacy.ri.1.5": {
+											"title": "CCSS.ELA-Literacy.RI.1.5"
+										},
+										"ccss.ela-literacy.rf.1.2.a": {
+											"title": "CCSS.ELA-Literacy.RF.1.2.a"
+										},
+										"ccss.ela-literacy.rf.1.3.c": {
+											"title": "CCSS.ELA-Literacy.RF.1.3.c"
+										},
+										"ccss.ela-literacy.rf.1.3.g": {
+											"title": "CCSS.ELA-Literacy.RF.1.3.g"
+										},
+										"ccss.ela-literacy.ri.1.2": {
+											"title": "CCSS.ELA-Literacy.RI.1.2"
+										},
+										"ccss.ela-literacy.rf.1.2.c": {
+											"title": "CCSS.ELA-Literacy.RF.1.2.c"
+										},
+										"ccss.ela-literacy.rf.1.3.f": {
+											"title": "CCSS.ELA-Literacy.RF.1.3.f"
+										},
+										"ccss.ela-literacy.rf.1.2.b": {
+											"title": "CCSS.ELA-Literacy.RF.1.2.b"
+										},
+										"ccss.ela-literacy.rf.1.2.d": {
+											"title": "CCSS.ELA-Literacy.RF.1.2.d"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.1.1.b": {
+											"title": "CCSS.ELA-Literacy.L.1.1.b"
+										},
+										"ccss.ela-literacy.l.1.1.f": {
+											"title": "CCSS.ELA-Literacy.L.1.1.f"
+										},
+										"ccss.ela-literacy.l.1.2.a": {
+											"title": "CCSS.ELA-Literacy.L.1.2.a"
+										},
+										"ccss.ela-literacy.l.1.2.b": {
+											"title": "CCSS.ELA-Literacy.L.1.2.b"
+										},
+										"ccss.ela-literacy.l.1.2.e": {
+											"title": "CCSS.ELA-Literacy.L.1.2.e"
+										},
+										"ccss.ela-literacy.l.1.1.j": {
+											"title": "CCSS.ELA-Literacy.L.1.1.j"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.l.1.2.d": {
+											"title": "CCSS.ELA-Literacy.L.1.2.d"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.1.1.c": {
+											"title": "CCSS.ELA-Literacy.L.1.1.c"
+										},
+										"ccss.ela-literacy.l.1.4.c": {
+											"title": "CCSS.ELA-Literacy.L.1.4.c"
+										},
+										"ccss.ela-literacy.l.1.6": {
+											"title": "CCSS.ELA-Literacy.L.1.6"
+										},
+										"ccss.ela-literacy.l.1.1.i": {
+											"title": "CCSS.ELA-Literacy.L.1.1.i"
+										},
+										"ccss.ela-literacy.l.1.5.a": {
+											"title": "CCSS.ELA-Literacy.L.1.5.a"
+										},
+										"ccss.ela-literacy.l.1.5.b": {
+											"title": "CCSS.ELA-Literacy.L.1.5.b"
+										},
+										"ccss.ela-literacy.l.1.5.c": {
+											"title": "CCSS.ELA-Literacy.L.1.5.c"
+										},
+										"ccss.ela-literacy.l.1.1.e": {
+											"title": "CCSS.ELA-Literacy.L.1.1.e"
+										},
+										"ccss.ela-literacy.l.1.1.d": {
+											"title": "CCSS.ELA-Literacy.L.1.1.d"
+										},
+										"ccss.ela-literacy.l.1.1.g": {
+											"title": "CCSS.ELA-Literacy.L.1.1.g"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										},
+										"ccss.ela-literacy.l.1.1.h": {
+											"title": "CCSS.ELA-Literacy.L.1.1.h"
+										},
+										"ccss.ela-literacy.l.1.5.d": {
+											"title": "CCSS.ELA-Literacy.L.1.5.d"
+										},
+										"ccss.ela-literacy.l.1.2.c": {
+											"title": "CCSS.ELA-Literacy.L.1.2.c"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.1.4": {
+											"title": "CCSS.ELA-Literacy.SL.1.4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"2nd-grade": {
+					"title": "2nd grade",
+					"strands": {
+						"2nd-grade": {
+							"title": "2nd grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.2.2": {
+											"title": "CCSS.ELA-Literacy.RL.2.2"
+										},
+										"ccss.ela-literacy.rl.2.3": {
+											"title": "CCSS.ELA-Literacy.RL.2.3"
+										},
+										"ccss.ela-literacy.rl.2.7": {
+											"title": "CCSS.ELA-Literacy.RL.2.7"
+										},
+										"ccss.ela-literacy.rl.2.1": {
+											"title": "CCSS.ELA-Literacy.RL.2.1"
+										},
+										"ccss.ela-literacy.rf.2.4.c": {
+											"title": "CCSS.ELA-Literacy.RF.2.4.c"
+										},
+										"ccss.ela-literacy.rl.2.5": {
+											"title": "CCSS.ELA-Literacy.RL.2.5"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.ri.2.6": {
+											"title": "CCSS.ELA-Literacy.RI.2.6"
+										},
+										"ccss.ela-literacy.rf.2.3.e": {
+											"title": "CCSS.ELA-Literacy.RF.2.3.e"
+										},
+										"ccss.ela-literacy.rf.2.3.d": {
+											"title": "CCSS.ELA-Literacy.RF.2.3.d"
+										},
+										"ccss.ela-literacy.rf.2.3.b": {
+											"title": "CCSS.ELA-Literacy.RF.2.3.b"
+										},
+										"ccss.ela-literacy.rl.2.4": {
+											"title": "CCSS.ELA-Literacy.RL.2.4"
+										},
+										"ccss.ela-literacy.ri.2.2": {
+											"title": "CCSS.ELA-Literacy.RI.2.2"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ri.2.3": {
+											"title": "CCSS.ELA-Literacy.RI.2.3"
+										},
+										"ccss.ela-literacy.ri.2.9": {
+											"title": "CCSS.ELA-Literacy.RI.2.9"
+										},
+										"ccss.ela-literacy.ri.2.1": {
+											"title": "CCSS.ELA-Literacy.RI.2.1"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.rl.2.6": {
+											"title": "CCSS.ELA-Literacy.RL.2.6"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.ri.2.8": {
+											"title": "CCSS.ELA-Literacy.RI.2.8"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.2.1.b": {
+											"title": "CCSS.ELA-Literacy.L.2.1.b"
+										},
+										"ccss.ela-literacy.l.2.2.a": {
+											"title": "CCSS.ELA-Literacy.L.2.2.a"
+										},
+										"ccss.ela-literacy.l.2.4.d": {
+											"title": "CCSS.ELA-Literacy.L.2.4.d"
+										},
+										"ccss.ela-literacy.l.2.2.c": {
+											"title": "CCSS.ELA-Literacy.L.2.2.c"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.2.1.e": {
+											"title": "CCSS.ELA-Literacy.L.2.1.e"
+										},
+										"ccss.ela-literacy.l.2.6": {
+											"title": "CCSS.ELA-Literacy.L.2.6"
+										},
+										"ccss.ela-literacy.l.2.4.b": {
+											"title": "CCSS.ELA-Literacy.L.2.4.b"
+										},
+										"ccss.ela-literacy.l.2.4.c": {
+											"title": "CCSS.ELA-Literacy.L.2.4.c"
+										},
+										"ccss.ela-literacy.l.2.1.d": {
+											"title": "CCSS.ELA-Literacy.L.2.1.d"
+										},
+										"ccss.ela-literacy.l.2.5.b": {
+											"title": "CCSS.ELA-Literacy.L.2.5.b"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										},
+										"ccss.ela-literacy.l.2.4.a": {
+											"title": "CCSS.ELA-Literacy.L.2.4.a"
+										},
+										"ccss.ela-literacy.l.2.1.f": {
+											"title": "CCSS.ELA-Literacy.L.2.1.f"
+										},
+										"ccss.ela-literacy.l.2.1.c": {
+											"title": "CCSS.ELA-Literacy.L.2.1.c"
+										},
+										"ccss.ela-literacy.l.2.2.d": {
+											"title": "CCSS.ELA-Literacy.L.2.2.d"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"3rd-grade": {
+					"title": "3rd grade",
+					"strands": {
+						"3rd-grade": {
+							"title": "3rd grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.3.1": {
+											"title": "CCSS.ELA-Literacy.RL.3.1"
+										},
+										"ccss.ela-literacy.ri.3.2": {
+											"title": "CCSS.ELA-Literacy.RI.3.2"
+										},
+										"ccss.ela-literacy.ri.3.1": {
+											"title": "CCSS.ELA-Literacy.RI.3.1"
+										},
+										"ccss.ela-literacy.rl.3.3": {
+											"title": "CCSS.ELA-Literacy.RL.3.3"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.ri.3.4": {
+											"title": "CCSS.ELA-Literacy.RI.3.4"
+										},
+										"ccss.ela-literacy.rf.3.4.c": {
+											"title": "CCSS.ELA-Literacy.RF.3.4.c"
+										},
+										"ccss.ela-literacy.rf.3.3.a": {
+											"title": "CCSS.ELA-Literacy.RF.3.3.a"
+										},
+										"ccss.ela-literacy.rf.3.3.b": {
+											"title": "CCSS.ELA-Literacy.RF.3.3.b"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.rl.3.2": {
+											"title": "CCSS.ELA-Literacy.RL.3.2"
+										},
+										"ccss.ela-literacy.ri.3.3": {
+											"title": "CCSS.ELA-Literacy.RI.3.3"
+										},
+										"ccss.ela-literacy.ri.3.6": {
+											"title": "CCSS.ELA-Literacy.RI.3.6"
+										},
+										"ccss.ela-literacy.ri.3.8": {
+											"title": "CCSS.ELA-Literacy.RI.3.8"
+										},
+										"ccss.ela-literacy.rl.3.6": {
+											"title": "CCSS.ELA-Literacy.RL.3.6"
+										},
+										"ccss.ela-literacy.ri.3.9": {
+											"title": "CCSS.ELA-Literacy.RI.3.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.rl.3.4": {
+											"title": "CCSS.ELA-Literacy.RL.3.4"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.3.1.h": {
+											"title": "CCSS.ELA-Literacy.L.3.1.h"
+										},
+										"ccss.ela-literacy.l.3.1.a": {
+											"title": "CCSS.ELA-Literacy.L.3.1.a"
+										},
+										"ccss.ela-literacy.l.3.2.c": {
+											"title": "CCSS.ELA-Literacy.L.3.2.c"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.l.3.1.i": {
+											"title": "CCSS.ELA-Literacy.L.3.1.i"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.3.6": {
+											"title": "CCSS.ELA-Literacy.L.3.6"
+										},
+										"ccss.ela-literacy.l.3.4.a": {
+											"title": "CCSS.ELA-Literacy.L.3.4.a"
+										},
+										"ccss.ela-literacy.l.3.1.b": {
+											"title": "CCSS.ELA-Literacy.L.3.1.b"
+										},
+										"ccss.ela-literacy.l.3.1.d": {
+											"title": "CCSS.ELA-Literacy.L.3.1.d"
+										},
+										"ccss.ela-literacy.l.3.2.d": {
+											"title": "CCSS.ELA-Literacy.L.3.2.d"
+										},
+										"ccss.ela-literacy.l.3.2.f": {
+											"title": "CCSS.ELA-Literacy.L.3.2.f"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										},
+										"ccss.ela-literacy.l.3.5.a": {
+											"title": "CCSS.ELA-Literacy.L.3.5.a"
+										},
+										"ccss.ela-literacy.l.3.1.g": {
+											"title": "CCSS.ELA-Literacy.L.3.1.g"
+										},
+										"ccss.ela-literacy.l.3.1.e": {
+											"title": "CCSS.ELA-Literacy.L.3.1.e"
+										},
+										"ccss.ela-literacy.l.3.1.f": {
+											"title": "CCSS.ELA-Literacy.L.3.1.f"
+										},
+										"ccss.ela-literacy.l.3.2.b": {
+											"title": "CCSS.ELA-Literacy.L.3.2.b"
+										},
+										"ccss.ela-literacy.l.3.2.a": {
+											"title": "CCSS.ELA-Literacy.L.3.2.a"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.w.3.3.c": {
+											"title": "CCSS.ELA-Literacy.W.3.3.c"
+										},
+										"ccss.ela-literacy.w.3.3.b": {
+											"title": "CCSS.ELA-Literacy.W.3.3.b"
+										},
+										"ccss.ela-literacy.w.3.1.b": {
+											"title": "CCSS.ELA-Literacy.W.3.1.b"
+										},
+										"ccss.ela-literacy.w.3.1.d": {
+											"title": "CCSS.ELA-Literacy.W.3.1.d"
+										},
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.3.5": {
+											"title": "CCSS.ELA-Literacy.W.3.5"
+										},
+										"ccss.ela-literacy.w.3.1.a": {
+											"title": "CCSS.ELA-Literacy.W.3.1.a"
+										},
+										"ccss.ela-literacy.w.3.3.a": {
+											"title": "CCSS.ELA-Literacy.W.3.3.a"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.3.1.b": {
+											"title": "CCSS.ELA-Literacy.SL.3.1.b"
+										},
+										"ccss.ela-literacy.sl.3.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.3.1.d"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"4th-grade": {
+					"title": "4th grade",
+					"strands": {
+						"4th-grade": {
+							"title": "4th grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.rl.4.2": {
+											"title": "CCSS.ELA-Literacy.RL.4.2"
+										},
+										"ccss.ela-literacy.rl.4.3": {
+											"title": "CCSS.ELA-Literacy.RL.4.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.ri.4.2": {
+											"title": "CCSS.ELA-Literacy.RI.4.2"
+										},
+										"ccss.ela-literacy.ri.4.3": {
+											"title": "CCSS.ELA-Literacy.RI.4.3"
+										},
+										"ccss.ela-literacy.ri.4.8": {
+											"title": "CCSS.ELA-Literacy.RI.4.8"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.ri.4.4": {
+											"title": "CCSS.ELA-Literacy.RI.4.4"
+										},
+										"ccss.ela-literacy.rf.4.3.a": {
+											"title": "CCSS.ELA-Literacy.RF.4.3.a"
+										},
+										"ccss.ela-literacy.ri.4.1": {
+											"title": "CCSS.ELA-Literacy.RI.4.1"
+										},
+										"ccss.ela-literacy.ri.4.6": {
+											"title": "CCSS.ELA-Literacy.RI.4.6"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.rf.4.4.c": {
+											"title": "CCSS.ELA-Literacy.RF.4.4.c"
+										},
+										"ccss.ela-literacy.rl.4.1": {
+											"title": "CCSS.ELA-Literacy.RL.4.1"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.rl.4.4": {
+											"title": "CCSS.ELA-Literacy.RL.4.4"
+										},
+										"ccss.ela-literacy.ri.4.7": {
+											"title": "CCSS.ELA-Literacy.RI.4.7"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.l.4.4.a": {
+											"title": "CCSS.ELA-Literacy.L.4.4.a"
+										},
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.4.4.c": {
+											"title": "CCSS.ELA-Literacy.L.4.4.c"
+										},
+										"ccss.ela-literacy.l.4.5.a": {
+											"title": "CCSS.ELA-Literacy.L.4.5.a"
+										},
+										"ccss.ela-literacy.l.4.5.c": {
+											"title": "CCSS.ELA-Literacy.L.4.5.c"
+										},
+										"ccss.ela-literacy.l.4.1.g": {
+											"title": "CCSS.ELA-Literacy.L.4.1.g"
+										},
+										"ccss.ela-literacy.l.4.6": {
+											"title": "CCSS.ELA-Literacy.L.4.6"
+										},
+										"ccss.ela-literacy.l.4.2.a": {
+											"title": "CCSS.ELA-Literacy.L.4.2.a"
+										},
+										"ccss.ela-literacy.l.4.1.a": {
+											"title": "CCSS.ELA-Literacy.L.4.1.a"
+										},
+										"ccss.ela-literacy.l.4.5.b": {
+											"title": "CCSS.ELA-Literacy.L.4.5.b"
+										},
+										"ccss.ela-literacy.l.4.2.b": {
+											"title": "CCSS.ELA-Literacy.L.4.2.b"
+										},
+										"ccss.ela-literacy.l.4.4.b": {
+											"title": "CCSS.ELA-Literacy.L.4.4.b"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										},
+										"ccss.ela-literacy.l.4.2.c": {
+											"title": "CCSS.ELA-Literacy.L.4.2.c"
+										},
+										"ccss.ela-literacy.l.4.1.f": {
+											"title": "CCSS.ELA-Literacy.L.4.1.f"
+										},
+										"ccss.ela-literacy.l.4.3.b": {
+											"title": "CCSS.ELA-Literacy.L.4.3.b"
+										},
+										"ccss.ela-literacy.l.4.3.a": {
+											"title": "CCSS.ELA-Literacy.L.4.3.a"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.4.3.d": {
+											"title": "CCSS.ELA-Literacy.W.4.3.d"
+										},
+										"ccss.ela-literacy.w.4.2.c": {
+											"title": "CCSS.ELA-Literacy.W.4.2.c"
+										},
+										"ccss.ela-literacy.w.4.3.c": {
+											"title": "CCSS.ELA-Literacy.W.4.3.c"
+										},
+										"ccss.ela-literacy.w.4.3.b": {
+											"title": "CCSS.ELA-Literacy.W.4.3.b"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"5th-grade": {
+					"title": "5th grade",
+					"strands": {
+						"5th-grade": {
+							"title": "5th grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.5.1": {
+											"title": "CCSS.ELA-Literacy.RL.5.1"
+										},
+										"ccss.ela-literacy.rl.5.2": {
+											"title": "CCSS.ELA-Literacy.RL.5.2"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.5.4": {
+											"title": "CCSS.ELA-Literacy.RL.5.4"
+										},
+										"ccss.ela-literacy.ri.5.4": {
+											"title": "CCSS.ELA-Literacy.RI.5.4"
+										},
+										"ccss.ela-literacy.rf.5.3.a": {
+											"title": "CCSS.ELA-Literacy.RF.5.3.a"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ri.5.2": {
+											"title": "CCSS.ELA-Literacy.RI.5.2"
+										},
+										"ccss.ela-literacy.rf.5.4.c": {
+											"title": "CCSS.ELA-Literacy.RF.5.4.c"
+										},
+										"ccss.ela-literacy.ri.5.8": {
+											"title": "CCSS.ELA-Literacy.RI.5.8"
+										},
+										"ccss.ela-literacy.ri.5.1": {
+											"title": "CCSS.ELA-Literacy.RI.5.1"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.ri.5.3": {
+											"title": "CCSS.ELA-Literacy.RI.5.3"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.l.5.5.a": {
+											"title": "CCSS.ELA-Literacy.L.5.5.a"
+										},
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.5.4.a": {
+											"title": "CCSS.ELA-Literacy.L.5.4.a"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.l.5.5.c": {
+											"title": "CCSS.ELA-Literacy.L.5.5.c"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.5.1.b": {
+											"title": "CCSS.ELA-Literacy.L.5.1.b"
+										},
+										"ccss.ela-literacy.l.5.1.c": {
+											"title": "CCSS.ELA-Literacy.L.5.1.c"
+										},
+										"ccss.ela-literacy.l.5.6": {
+											"title": "CCSS.ELA-Literacy.L.5.6"
+										},
+										"ccss.ela-literacy.l.5.1.a": {
+											"title": "CCSS.ELA-Literacy.L.5.1.a"
+										},
+										"ccss.ela-literacy.l.5.5.b": {
+											"title": "CCSS.ELA-Literacy.L.5.5.b"
+										},
+										"ccss.ela-literacy.l.5.2.a": {
+											"title": "CCSS.ELA-Literacy.L.5.2.a"
+										},
+										"ccss.ela-literacy.l.5.2.b": {
+											"title": "CCSS.ELA-Literacy.L.5.2.b"
+										},
+										"ccss.ela-literacy.l.5.2.c": {
+											"title": "CCSS.ELA-Literacy.L.5.2.c"
+										},
+										"ccss.ela-literacy.l.5.4.c": {
+											"title": "CCSS.ELA-Literacy.L.5.4.c"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.5.3.b": {
+											"title": "CCSS.ELA-Literacy.W.5.3.b"
+										},
+										"ccss.ela-literacy.w.5.3.d": {
+											"title": "CCSS.ELA-Literacy.W.5.3.d"
+										},
+										"ccss.ela-literacy.w.5.3.a": {
+											"title": "CCSS.ELA-Literacy.W.5.3.a"
+										},
+										"ccss.ela-literacy.w.5.1.a": {
+											"title": "CCSS.ELA-Literacy.W.5.1.a"
+										},
+										"ccss.ela-literacy.w.5.1.c": {
+											"title": "CCSS.ELA-Literacy.W.5.1.c"
+										},
+										"ccss.ela-literacy.w.5.3.e": {
+											"title": "CCSS.ELA-Literacy.W.5.3.e"
+										},
+										"ccss.ela-literacy.w.5.1.b": {
+											"title": "CCSS.ELA-Literacy.W.5.1.b"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.5.2": {
+											"title": "CCSS.ELA-Literacy.SL.5.2"
+										},
+										"ccss.ela-literacy.sl.5.3": {
+											"title": "CCSS.ELA-Literacy.SL.5.3"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"6th-grade": {
+					"title": "6th grade",
+					"strands": {
+						"6th-grade": {
+							"title": "6th grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.6.2": {
+											"title": "CCSS.ELA-Literacy.RL.6.2"
+										},
+										"ccss.ela-literacy.ri.6.2": {
+											"title": "CCSS.ELA-Literacy.RI.6.2"
+										},
+										"ccss.ela-literacy.ri.6.3": {
+											"title": "CCSS.ELA-Literacy.RI.6.3"
+										},
+										"ccss.ela-literacy.ri.6.4": {
+											"title": "CCSS.ELA-Literacy.RI.6.4"
+										},
+										"ccss.ela-literacy.rst.6-8.2": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.2"
+										},
+										"ccss.ela-literacy.rst.6-8.7": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.7"
+										},
+										"ccss.ela-literacy.rh.6-8.2": {
+											"title": "CCSS.ELA-Literacy.RH.6-8.2"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.6.1": {
+											"title": "CCSS.ELA-Literacy.RL.6.1"
+										},
+										"ccss.ela-literacy.rl.6.4": {
+											"title": "CCSS.ELA-Literacy.RL.6.4"
+										},
+										"ccss.ela-literacy.ri.6.1": {
+											"title": "CCSS.ELA-Literacy.RI.6.1"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ri.6.6": {
+											"title": "CCSS.ELA-Literacy.RI.6.6"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.rst.6-8.6": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.6"
+										},
+										"ccss.ela-literacy.ri.6.5": {
+											"title": "CCSS.ELA-Literacy.RI.6.5"
+										},
+										"ccss.ela-literacy.rst.6-8.5": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.5"
+										},
+										"ccss.ela-literacy.rl.6.3": {
+											"title": "CCSS.ELA-Literacy.RL.6.3"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.l.6.4.a": {
+											"title": "CCSS.ELA-Literacy.L.6.4.a"
+										},
+										"ccss.ela-literacy.l.6.4.d": {
+											"title": "CCSS.ELA-Literacy.L.6.4.d"
+										},
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.w.6.3.a": {
+											"title": "CCSS.ELA-Literacy.W.6.3.a"
+										},
+										"ccss.ela-literacy.w.6.3.c": {
+											"title": "CCSS.ELA-Literacy.W.6.3.c"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.6.9.b": {
+											"title": "CCSS.ELA-Literacy.W.6.9.b"
+										},
+										"ccss.ela-literacy.w.6.10": {
+											"title": "CCSS.ELA-Literacy.W.6.10"
+										},
+										"ccss.ela-literacy.w.6.3.d": {
+											"title": "CCSS.ELA-Literacy.W.6.3.d"
+										},
+										"ccss.ela-literacy.w.6.1.c": {
+											"title": "CCSS.ELA-Literacy.W.6.1.c"
+										},
+										"ccss.ela-literacy.w.6.4": {
+											"title": "CCSS.ELA-Literacy.W.6.4"
+										},
+										"ccss.ela-literacy.w.6.2.d": {
+											"title": "CCSS.ELA-Literacy.W.6.2.d"
+										},
+										"ccss.ela-literacy.w.6.1.a": {
+											"title": "CCSS.ELA-Literacy.W.6.1.a"
+										},
+										"ccss.ela-literacy.w.6.1.b": {
+											"title": "CCSS.ELA-Literacy.W.6.1.b"
+										},
+										"ccss.ela-literacy.w.6.3.b": {
+											"title": "CCSS.ELA-Literacy.W.6.3.b"
+										},
+										"ccss.ela-literacy.w.6.2.c": {
+											"title": "CCSS.ELA-Literacy.W.6.2.c"
+										},
+										"ccss.ela-literacy.w.6.2.b": {
+											"title": "CCSS.ELA-Literacy.W.6.2.b"
+										},
+										"ccss.ela-literacy.w.6.8": {
+											"title": "CCSS.ELA-Literacy.W.6.8"
+										},
+										"ccss.ela-literacy.whst.6-8.2.c": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.2.c"
+										},
+										"ccss.ela-literacy.w.6.1.e": {
+											"title": "CCSS.ELA-Literacy.W.6.1.e"
+										},
+										"ccss.ela-literacy.w.6.3.e": {
+											"title": "CCSS.ELA-Literacy.W.6.3.e"
+										},
+										"ccss.ela-literacy.whst.6-8.1.a": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.a"
+										},
+										"ccss.ela-literacy.whst.6-8.1.b": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.b"
+										},
+										"ccss.ela-literacy.whst.6-8.1.e": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.e"
+										},
+										"ccss.ela-literacy.whst.6-8.1.c": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.c"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.sl.6.1.a": {
+											"title": "CCSS.ELA-Literacy.SL.6.1.a"
+										},
+										"ccss.ela-literacy.sl.6.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.6.1.c"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.6.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.6.1.d"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.6.2": {
+											"title": "CCSS.ELA-Literacy.SL.6.2"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"7th-grade": {
+					"title": "7th grade",
+					"strands": {
+						"7th-grade": {
+							"title": "7th grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.ri.7.1": {
+											"title": "CCSS.ELA-Literacy.RI.7.1"
+										},
+										"ccss.ela-literacy.ri.7.3": {
+											"title": "CCSS.ELA-Literacy.RI.7.3"
+										},
+										"ccss.ela-literacy.ri.7.4": {
+											"title": "CCSS.ELA-Literacy.RI.7.4"
+										},
+										"ccss.ela-literacy.rst.6-8.2": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.2"
+										},
+										"ccss.ela-literacy.rst.6-8.7": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.7"
+										},
+										"ccss.ela-literacy.rh.6-8.2": {
+											"title": "CCSS.ELA-Literacy.RH.6-8.2"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.7.6": {
+											"title": "CCSS.ELA-Literacy.RL.7.6"
+										},
+										"ccss.ela-literacy.rl.7.3": {
+											"title": "CCSS.ELA-Literacy.RL.7.3"
+										},
+										"ccss.ela-literacy.rl.7.1": {
+											"title": "CCSS.ELA-Literacy.RL.7.1"
+										},
+										"ccss.ela-literacy.rl.7.2": {
+											"title": "CCSS.ELA-Literacy.RL.7.2"
+										},
+										"ccss.ela-literacy.rl.7.4": {
+											"title": "CCSS.ELA-Literacy.RL.7.4"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ri.7.2": {
+											"title": "CCSS.ELA-Literacy.RI.7.2"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.ri.7.6": {
+											"title": "CCSS.ELA-Literacy.RI.7.6"
+										},
+										"ccss.ela-literacy.rst.6-8.6": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.6"
+										},
+										"ccss.ela-literacy.ri.7.5": {
+											"title": "CCSS.ELA-Literacy.RI.7.5"
+										},
+										"ccss.ela-literacy.rst.6-8.5": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.5"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.l.7.4.a": {
+											"title": "CCSS.ELA-Literacy.L.7.4.a"
+										},
+										"ccss.ela-literacy.l.7.4.d": {
+											"title": "CCSS.ELA-Literacy.L.7.4.d"
+										},
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.7.4.c": {
+											"title": "CCSS.ELA-Literacy.L.7.4.c"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.7.2.c": {
+											"title": "CCSS.ELA-Literacy.W.7.2.c"
+										},
+										"ccss.ela-literacy.w.7.3.c": {
+											"title": "CCSS.ELA-Literacy.W.7.3.c"
+										},
+										"ccss.ela-literacy.w.7.5": {
+											"title": "CCSS.ELA-Literacy.W.7.5"
+										},
+										"ccss.ela-literacy.whst.6-8.2.c": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.2.c"
+										},
+										"ccss.ela-literacy.w.7.3.e": {
+											"title": "CCSS.ELA-Literacy.W.7.3.e"
+										},
+										"ccss.ela-literacy.w.7.1.a": {
+											"title": "CCSS.ELA-Literacy.W.7.1.a"
+										},
+										"ccss.ela-literacy.w.7.1.b": {
+											"title": "CCSS.ELA-Literacy.W.7.1.b"
+										},
+										"ccss.ela-literacy.w.7.1.c": {
+											"title": "CCSS.ELA-Literacy.W.7.1.c"
+										},
+										"ccss.ela-literacy.whst.6-8.1.a": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.a"
+										},
+										"ccss.ela-literacy.whst.6-8.1.b": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.b"
+										},
+										"ccss.ela-literacy.whst.6-8.1.e": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.e"
+										},
+										"ccss.ela-literacy.whst.6-8.1.c": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.c"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.sl.7.2": {
+											"title": "CCSS.ELA-Literacy.SL.7.2"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.7.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.7.1.c"
+										},
+										"ccss.ela-literacy.sl.7.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.7.1.d"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"8th-grade": {
+					"title": "8th grade",
+					"strands": {
+						"8th-grade": {
+							"title": "8th grade",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rst.6-8.2": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.2"
+										},
+										"ccss.ela-literacy.rst.6-8.7": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.7"
+										},
+										"ccss.ela-literacy.rh.6-8.2": {
+											"title": "CCSS.ELA-Literacy.RH.6-8.2"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.8.4": {
+											"title": "CCSS.ELA-Literacy.RL.8.4"
+										},
+										"ccss.ela-literacy.ri.8.4": {
+											"title": "CCSS.ELA-Literacy.RI.8.4"
+										},
+										"ccss.ela-literacy.ri.8.1": {
+											"title": "CCSS.ELA-Literacy.RI.8.1"
+										},
+										"ccss.ela-literacy.ri.8.3": {
+											"title": "CCSS.ELA-Literacy.RI.8.3"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ri.8.9": {
+											"title": "CCSS.ELA-Literacy.RI.8.9"
+										},
+										"ccss.ela-literacy.rl.8.2": {
+											"title": "CCSS.ELA-Literacy.RL.8.2"
+										},
+										"ccss.ela-literacy.rl.8.5": {
+											"title": "CCSS.ELA-Literacy.RL.8.5"
+										},
+										"ccss.ela-literacy.ri.8.2": {
+											"title": "CCSS.ELA-Literacy.RI.8.2"
+										},
+										"ccss.ela-literacy.rl.8.1": {
+											"title": "CCSS.ELA-Literacy.RL.8.1"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										},
+										"ccss.ela-literacy.rst.6-8.6": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.6"
+										},
+										"ccss.ela-literacy.rst.6-8.5": {
+											"title": "CCSS.ELA-Literacy.RST.6-8.5"
+										}
+									}
+								},
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.l.8.5.c": {
+											"title": "CCSS.ELA-Literacy.L.8.5.c"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.8.6": {
+											"title": "CCSS.ELA-Literacy.L.8.6"
+										},
+										"ccss.ela-literacy.l.8.4.a": {
+											"title": "CCSS.ELA-Literacy.L.8.4.a"
+										},
+										"ccss.ela-literacy.l.8.1.b": {
+											"title": "CCSS.ELA-Literacy.L.8.1.b"
+										},
+										"ccss.ela-literacy.l.8.3.a": {
+											"title": "CCSS.ELA-Literacy.L.8.3.a"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										},
+										"ccss.ela-literacy.l.8.5.a": {
+											"title": "CCSS.ELA-Literacy.L.8.5.a"
+										},
+										"ccss.ela-literacy.l.8.4.d": {
+											"title": "CCSS.ELA-Literacy.L.8.4.d"
+										}
+									}
+								},
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.w.8.1.a": {
+											"title": "CCSS.ELA-Literacy.W.8.1.a"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.8.2.c": {
+											"title": "CCSS.ELA-Literacy.W.8.2.c"
+										},
+										"ccss.ela-literacy.w.8.3.c": {
+											"title": "CCSS.ELA-Literacy.W.8.3.c"
+										},
+										"ccss.ela-literacy.whst.6-8.2.c": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.2.c"
+										},
+										"ccss.ela-literacy.w.8.3.e": {
+											"title": "CCSS.ELA-Literacy.W.8.3.e"
+										},
+										"ccss.ela-literacy.w.8.1.b": {
+											"title": "CCSS.ELA-Literacy.W.8.1.b"
+										},
+										"ccss.ela-literacy.w.8.1.c": {
+											"title": "CCSS.ELA-Literacy.W.8.1.c"
+										},
+										"ccss.ela-literacy.whst.6-8.1.a": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.a"
+										},
+										"ccss.ela-literacy.whst.6-8.1.b": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.b"
+										},
+										"ccss.ela-literacy.whst.6-8.1.e": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.e"
+										},
+										"ccss.ela-literacy.whst.6-8.1.c": {
+											"title": "CCSS.ELA-Literacy.WHST.6-8.1.c"
+										}
+									}
+								},
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.8.4": {
+											"title": "CCSS.ELA-Literacy.SL.8.4"
+										},
+										"ccss.ela-literacy.sl.8.1.a": {
+											"title": "CCSS.ELA-Literacy.SL.8.1.a"
+										},
+										"ccss.ela-literacy.sl.8.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.8.1.c"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.8.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.8.1.d"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"9th-grade": {
+					"title": "9th grade",
+					"strands": {
+						"reading": {
+							"title": "Reading",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.9-10.1": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.1"
+										},
+										"ccss.ela-literacy.ri.9-10.1": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.1"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.rl.9-10.2": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.2"
+										},
+										"ccss.ela-literacy.rl.9-10.4": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.4"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.rl.9-10.3": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.3"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.7"
+										},
+										"ccss.ela-literacy.ri.9-10.2": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.2"
+										},
+										"ccss.ela-literacy.ri.9-10.3": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.3"
+										},
+										"ccss.ela-literacy.ri.9-10.4": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.4"
+										},
+										"ccss.ela-literacy.ri.9-10.6": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.6"
+										},
+										"ccss.ela-literacy.rh.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RH.9-10.7"
+										},
+										"ccss.ela-literacy.rst.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RST.9-10.7"
+										},
+										"ccss.ela-literacy.ri.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.7"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ri.9-10.8": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										}
+									}
+								}
+							}
+						},
+						"language": {
+							"title": "Language",
+							"subStrands": {
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.9-10.5.a": {
+											"title": "CCSS.ELA-Literacy.L.9-10.5.a"
+										},
+										"ccss.ela-literacy.l.9-10.1.b": {
+											"title": "CCSS.ELA-Literacy.L.9-10.1.b"
+										},
+										"ccss.ela-literacy.l.9-10.4.a": {
+											"title": "CCSS.ELA-Literacy.L.9-10.4.a"
+										},
+										"ccss.ela-literacy.l.9-10.4.d": {
+											"title": "CCSS.ELA-Literacy.L.9-10.4.d"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.9-10.2.a": {
+											"title": "CCSS.ELA-Literacy.L.9-10.2.a"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								}
+							}
+						},
+						"writing": {
+							"title": "Writing",
+							"subStrands": {
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.w.9-10.1.a": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.a"
+										},
+										"ccss.ela-literacy.w.9-10.1.b": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.b"
+										},
+										"ccss.ela-literacy.w.9-10.1.d": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.d"
+										},
+										"ccss.ela-literacy.w.9-10.2.b": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.b"
+										},
+										"ccss.ela-literacy.w.9-10.4": {
+											"title": "CCSS.ELA-Literacy.W.9-10.4"
+										},
+										"ccss.ela-literacy.w.9-10.5": {
+											"title": "CCSS.ELA-Literacy.W.9-10.5"
+										},
+										"ccss.ela-literacy.w.9-10.10": {
+											"title": "CCSS.ELA-Literacy.W.9-10.10"
+										},
+										"ccss.ela-literacy.whst.9-10.1.a": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.1.a"
+										},
+										"ccss.ela-literacy.whst.9-10.1.b": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.1.b"
+										},
+										"ccss.ela-literacy.whst.9-10.2.b": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.2.b"
+										},
+										"ccss.ela-literacy.whst.9-10.4": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.4"
+										},
+										"ccss.ela-literacy.whst.9-10.5": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.5"
+										},
+										"ccss.ela-literacy.whst.9-10.10": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.9-10.2.c": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.c"
+										},
+										"ccss.ela-literacy.w.9-10.1.e": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.e"
+										},
+										"ccss.ela-literacy.w.9-10.2.f": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.f"
+										},
+										"ccss.ela-literacy.w.9-10.3.e": {
+											"title": "CCSS.ELA-Literacy.W.9-10.3.e"
+										},
+										"ccss.ela-literacy.w.9-10.8": {
+											"title": "CCSS.ELA-Literacy.W.9-10.8"
+										},
+										"ccss.ela-literacy.w.9-10.1.c": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.c"
+										},
+										"ccss.ela-literacy.w.9-10.2.d": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.d"
+										},
+										"ccss.ela-literacy.w.9-10.3.b": {
+											"title": "CCSS.ELA-Literacy.W.9-10.3.b"
+										},
+										"ccss.ela-literacy.w.9-10.3.d": {
+											"title": "CCSS.ELA-Literacy.W.9-10.3.d"
+										},
+										"ccss.ela-literacy.w.9-10.6": {
+											"title": "CCSS.ELA-Literacy.W.9-10.6"
+										}
+									}
+								}
+							}
+						},
+						"speaking-and-listening": {
+							"title": "Speaking and Listening",
+							"subStrands": {
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.sl.9-10.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.1.c"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.9-10.1.a": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.1.a"
+										},
+										"ccss.ela-literacy.sl.9-10.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.1.d"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.9-10.3": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"10th-grade": {
+					"title": "10th grade",
+					"strands": {
+						"reading": {
+							"title": "Reading",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.rl.9-10.1": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.1"
+										},
+										"ccss.ela-literacy.ri.9-10.1": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.1"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.rl.9-10.2": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.2"
+										},
+										"ccss.ela-literacy.rl.9-10.4": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.4"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.rl.9-10.3": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.3"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RL.9-10.7"
+										},
+										"ccss.ela-literacy.ri.9-10.2": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.2"
+										},
+										"ccss.ela-literacy.ri.9-10.3": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.3"
+										},
+										"ccss.ela-literacy.ri.9-10.4": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.4"
+										},
+										"ccss.ela-literacy.ri.9-10.6": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.6"
+										},
+										"ccss.ela-literacy.rh.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RH.9-10.7"
+										},
+										"ccss.ela-literacy.rst.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RST.9-10.7"
+										},
+										"ccss.ela-literacy.ri.9-10.7": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.7"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ri.9-10.8": {
+											"title": "CCSS.ELA-Literacy.RI.9-10.8"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										}
+									}
+								}
+							}
+						},
+						"language": {
+							"title": "Language",
+							"subStrands": {
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.l.9-10.5.a": {
+											"title": "CCSS.ELA-Literacy.L.9-10.5.a"
+										},
+										"ccss.ela-literacy.l.9-10.1.b": {
+											"title": "CCSS.ELA-Literacy.L.9-10.1.b"
+										},
+										"ccss.ela-literacy.l.9-10.4.a": {
+											"title": "CCSS.ELA-Literacy.L.9-10.4.a"
+										},
+										"ccss.ela-literacy.l.9-10.4.d": {
+											"title": "CCSS.ELA-Literacy.L.9-10.4.d"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.l.9-10.2.a": {
+											"title": "CCSS.ELA-Literacy.L.9-10.2.a"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								}
+							}
+						},
+						"writing": {
+							"title": "Writing",
+							"subStrands": {
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.w.9-10.1.a": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.a"
+										},
+										"ccss.ela-literacy.w.9-10.1.b": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.b"
+										},
+										"ccss.ela-literacy.w.9-10.1.d": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.d"
+										},
+										"ccss.ela-literacy.w.9-10.2.b": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.b"
+										},
+										"ccss.ela-literacy.w.9-10.4": {
+											"title": "CCSS.ELA-Literacy.W.9-10.4"
+										},
+										"ccss.ela-literacy.w.9-10.5": {
+											"title": "CCSS.ELA-Literacy.W.9-10.5"
+										},
+										"ccss.ela-literacy.w.9-10.10": {
+											"title": "CCSS.ELA-Literacy.W.9-10.10"
+										},
+										"ccss.ela-literacy.whst.9-10.1.a": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.1.a"
+										},
+										"ccss.ela-literacy.whst.9-10.1.b": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.1.b"
+										},
+										"ccss.ela-literacy.whst.9-10.2.b": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.2.b"
+										},
+										"ccss.ela-literacy.whst.9-10.4": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.4"
+										},
+										"ccss.ela-literacy.whst.9-10.5": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.5"
+										},
+										"ccss.ela-literacy.whst.9-10.10": {
+											"title": "CCSS.ELA-Literacy.WHST.9-10.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.9-10.2.c": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.c"
+										},
+										"ccss.ela-literacy.w.9-10.1.e": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.e"
+										},
+										"ccss.ela-literacy.w.9-10.2.f": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.f"
+										},
+										"ccss.ela-literacy.w.9-10.3.e": {
+											"title": "CCSS.ELA-Literacy.W.9-10.3.e"
+										},
+										"ccss.ela-literacy.w.9-10.8": {
+											"title": "CCSS.ELA-Literacy.W.9-10.8"
+										},
+										"ccss.ela-literacy.w.9-10.1.c": {
+											"title": "CCSS.ELA-Literacy.W.9-10.1.c"
+										},
+										"ccss.ela-literacy.w.9-10.2.d": {
+											"title": "CCSS.ELA-Literacy.W.9-10.2.d"
+										},
+										"ccss.ela-literacy.w.9-10.3.b": {
+											"title": "CCSS.ELA-Literacy.W.9-10.3.b"
+										},
+										"ccss.ela-literacy.w.9-10.3.d": {
+											"title": "CCSS.ELA-Literacy.W.9-10.3.d"
+										},
+										"ccss.ela-literacy.w.9-10.6": {
+											"title": "CCSS.ELA-Literacy.W.9-10.6"
+										}
+									}
+								}
+							}
+						},
+						"speaking-and-listening": {
+							"title": "Speaking and Listening",
+							"subStrands": {
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.sl.9-10.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.1.c"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.sl.9-10.1.a": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.1.a"
+										},
+										"ccss.ela-literacy.sl.9-10.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.1.d"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										},
+										"ccss.ela-literacy.sl.9-10.3": {
+											"title": "CCSS.ELA-Literacy.SL.9-10.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"11th-grade": {
+					"title": "11th grade",
+					"strands": {
+						"reading": {
+							"title": "Reading",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.11-12.7": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.7"
+										},
+										"ccss.ela-literacy.rl.11-12.4": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.4"
+										},
+										"ccss.ela-literacy.ri.11-12.4": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.4"
+										},
+										"ccss.ela-literacy.rh.11-12.4": {
+											"title": "CCSS.ELA-Literacy.RH.11-12.4"
+										},
+										"ccss.ela-literacy.ri.11-12.1": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.1"
+										},
+										"ccss.ela-literacy.ri.11-12.3": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.3"
+										},
+										"ccss.ela-literacy.rl.11-12.1": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.1"
+										},
+										"ccss.ela-literacy.rl.11-12.2": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.2"
+										},
+										"ccss.ela-literacy.ri.11-12.6": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.6"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ri.11-12.2": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.2"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										}
+									}
+								}
+							}
+						},
+						"language": {
+							"title": "Language",
+							"subStrands": {
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.l.11-12.5.a": {
+											"title": "CCSS.ELA-Literacy.L.11-12.5.a"
+										},
+										"ccss.ela-literacy.l.11-12.4.a": {
+											"title": "CCSS.ELA-Literacy.L.11-12.4.a"
+										},
+										"ccss.ela-literacy.l.11-12.4.d": {
+											"title": "CCSS.ELA-Literacy.L.11-12.4.d"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								}
+							}
+						},
+						"writing": {
+							"title": "Writing",
+							"subStrands": {
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.w.11-12.3.b": {
+											"title": "CCSS.ELA-Literacy.W.11-12.3.b"
+										},
+										"ccss.ela-literacy.w.11-12.3.d": {
+											"title": "CCSS.ELA-Literacy.W.11-12.3.d"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.11-12.2.b": {
+											"title": "CCSS.ELA-Literacy.W.11-12.2.b"
+										},
+										"ccss.ela-literacy.w.11-12.1.a": {
+											"title": "CCSS.ELA-Literacy.W.11-12.1.a"
+										},
+										"ccss.ela-literacy.w.11-12.1.b": {
+											"title": "CCSS.ELA-Literacy.W.11-12.1.b"
+										},
+										"ccss.ela-literacy.w.11-12.2.c": {
+											"title": "CCSS.ELA-Literacy.W.11-12.2.c"
+										}
+									}
+								}
+							}
+						},
+						"speaking-and-listening": {
+							"title": "Speaking and Listening",
+							"subStrands": {
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.sl.11-12.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.11-12.1.c"
+										},
+										"ccss.ela-literacy.sl.11-12.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.11-12.1.d"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"12th-grade": {
+					"title": "12th grade",
+					"strands": {
+						"reading": {
+							"title": "Reading",
+							"subStrands": {
+								"reading": {
+									"title": "Reading",
+									"standards": {
+										"ccss.ela-literacy.ccra.r.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.2"
+										},
+										"ccss.ela-literacy.ccra.r.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.3"
+										},
+										"ccss.ela-literacy.ccra.r.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.1"
+										},
+										"ccss.ela-literacy.ccra.r.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.6"
+										},
+										"ccss.ela-literacy.ccra.r.7": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.7"
+										},
+										"ccss.ela-literacy.ccra.r.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.4"
+										},
+										"ccss.ela-literacy.rl.11-12.7": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.7"
+										},
+										"ccss.ela-literacy.rl.11-12.4": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.4"
+										},
+										"ccss.ela-literacy.ri.11-12.4": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.4"
+										},
+										"ccss.ela-literacy.rh.11-12.4": {
+											"title": "CCSS.ELA-Literacy.RH.11-12.4"
+										},
+										"ccss.ela-literacy.ri.11-12.1": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.1"
+										},
+										"ccss.ela-literacy.ri.11-12.3": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.3"
+										},
+										"ccss.ela-literacy.rl.11-12.1": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.1"
+										},
+										"ccss.ela-literacy.rl.11-12.2": {
+											"title": "CCSS.ELA-Literacy.RL.11-12.2"
+										},
+										"ccss.ela-literacy.ri.11-12.6": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.6"
+										},
+										"ccss.ela-literacy.ccra.r.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.9"
+										},
+										"ccss.ela-literacy.ccra.r.8": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.8"
+										},
+										"ccss.ela-literacy.ri.11-12.2": {
+											"title": "CCSS.ELA-Literacy.RI.11-12.2"
+										},
+										"ccss.ela-literacy.ccra.r.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.R.5"
+										}
+									}
+								}
+							}
+						},
+						"language": {
+							"title": "Language",
+							"subStrands": {
+								"language": {
+									"title": "Language",
+									"standards": {
+										"ccss.ela-literacy.ccra.l.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.4"
+										},
+										"ccss.ela-literacy.ccra.l.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.5"
+										},
+										"ccss.ela-literacy.ccra.l.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.2"
+										},
+										"ccss.ela-literacy.l.11-12.5.a": {
+											"title": "CCSS.ELA-Literacy.L.11-12.5.a"
+										},
+										"ccss.ela-literacy.l.11-12.4.a": {
+											"title": "CCSS.ELA-Literacy.L.11-12.4.a"
+										},
+										"ccss.ela-literacy.l.11-12.4.d": {
+											"title": "CCSS.ELA-Literacy.L.11-12.4.d"
+										},
+										"ccss.ela-literacy.ccra.l.6": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.6"
+										},
+										"ccss.ela-literacy.ccra.l.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.L.1"
+										}
+									}
+								}
+							}
+						},
+						"writing": {
+							"title": "Writing",
+							"subStrands": {
+								"writing": {
+									"title": "Writing",
+									"standards": {
+										"ccss.ela-literacy.ccra.w.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.1"
+										},
+										"ccss.ela-literacy.ccra.w.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.2"
+										},
+										"ccss.ela-literacy.ccra.w.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.4"
+										},
+										"ccss.ela-literacy.ccra.w.9": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.9"
+										},
+										"ccss.ela-literacy.ccra.w.10": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.10"
+										},
+										"ccss.ela-literacy.ccra.w.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.3"
+										},
+										"ccss.ela-literacy.w.11-12.3.b": {
+											"title": "CCSS.ELA-Literacy.W.11-12.3.b"
+										},
+										"ccss.ela-literacy.w.11-12.3.d": {
+											"title": "CCSS.ELA-Literacy.W.11-12.3.d"
+										},
+										"ccss.ela-literacy.ccra.w.5": {
+											"title": "CCSS.ELA-Literacy.CCRA.W.5"
+										},
+										"ccss.ela-literacy.w.11-12.2.b": {
+											"title": "CCSS.ELA-Literacy.W.11-12.2.b"
+										},
+										"ccss.ela-literacy.w.11-12.1.a": {
+											"title": "CCSS.ELA-Literacy.W.11-12.1.a"
+										},
+										"ccss.ela-literacy.w.11-12.1.b": {
+											"title": "CCSS.ELA-Literacy.W.11-12.1.b"
+										},
+										"ccss.ela-literacy.w.11-12.2.c": {
+											"title": "CCSS.ELA-Literacy.W.11-12.2.c"
+										}
+									}
+								}
+							}
+						},
+						"speaking-and-listening": {
+							"title": "Speaking and Listening",
+							"subStrands": {
+								"speaking-and-listening": {
+									"title": "Speaking and Listening",
+									"standards": {
+										"ccss.ela-literacy.ccra.sl.1": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.1"
+										},
+										"ccss.ela-literacy.sl.11-12.1.c": {
+											"title": "CCSS.ELA-Literacy.SL.11-12.1.c"
+										},
+										"ccss.ela-literacy.sl.11-12.1.d": {
+											"title": "CCSS.ELA-Literacy.SL.11-12.1.d"
+										},
+										"ccss.ela-literacy.ccra.sl.2": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.2"
+										},
+										"ccss.ela-literacy.ccra.sl.4": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.4"
+										},
+										"ccss.ela-literacy.ccra.sl.3": {
+											"title": "CCSS.ELA-Literacy.CCRA.SL.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"math": {
+			"title": "Math",
+			"grades": {
+				"kindergarten": {
+					"title": "Kindergarten",
+					"strands": {
+						"mathematical-practices": {
+							"title": "Mathematical Practices",
+							"subStrands": {
+								"make-sense-of-problems-and-persevere-in-solving-them.": {
+									"title": "Make sense of problems and persevere in solving them.",
+									"standards": {}
+								}
+							}
+						},
+						"kindergarten": {
+							"title": "Kindergarten",
+							"subStrands": {
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.k.g.a.2": {
+											"title": "CCSS.Math.Content.K.G.A.2"
+										},
+										"ccss.math.content.k.g.b.4": {
+											"title": "CCSS.Math.Content.K.G.B.4"
+										},
+										"ccss.math.content.k.g.a.1": {
+											"title": "CCSS.Math.Content.K.G.A.1"
+										},
+										"ccss.math.content.k.g.b.5": {
+											"title": "CCSS.Math.Content.K.G.B.5"
+										},
+										"ccss.math.content.k.g.a.3": {
+											"title": "CCSS.Math.Content.K.G.A.3"
+										},
+										"ccss.math.content.k.g.b.6": {
+											"title": "CCSS.Math.Content.K.G.B.6"
+										}
+									}
+								},
+								"operations-and-algebraic-thinking": {
+									"title": "Operations and Algebraic Thinking",
+									"standards": {
+										"ccss.math.content.k.oa.a.1": {
+											"title": "CCSS.Math.Content.K.OA.A.1"
+										},
+										"ccss.math.content.k.oa.a.2": {
+											"title": "CCSS.Math.Content.K.OA.A.2"
+										},
+										"ccss.math.content.k.oa.a.3": {
+											"title": "CCSS.Math.Content.K.OA.A.3"
+										},
+										"ccss.math.content.k.oa.a.4": {
+											"title": "CCSS.Math.Content.K.OA.A.4"
+										},
+										"ccss.math.content.k.oa.a.5": {
+											"title": "CCSS.Math.Content.K.OA.A.5"
+										}
+									}
+								},
+								"number-and-operations-in-base-ten": {
+									"title": "Number and Operations in Base Ten",
+									"standards": {
+										"ccss.math.content.k.nbt.a.1": {
+											"title": "CCSS.Math.Content.K.NBT.A.1"
+										}
+									}
+								},
+								"counting-and-cardinality": {
+									"title": "Counting and Cardinality",
+									"standards": {
+										"ccss.math.content.k.cc.a.3": {
+											"title": "CCSS.Math.Content.K.CC.A.3"
+										},
+										"ccss.math.content.k.cc.b.4.a": {
+											"title": "CCSS.Math.Content.K.CC.B.4.a"
+										},
+										"ccss.math.content.k.cc.b.4.b": {
+											"title": "CCSS.Math.Content.K.CC.B.4.b"
+										},
+										"ccss.math.content.k.cc.b.5": {
+											"title": "CCSS.Math.Content.K.CC.B.5"
+										},
+										"ccss.math.content.k.cc.c.6": {
+											"title": "CCSS.Math.Content.K.CC.C.6"
+										},
+										"ccss.math.content.k.cc.c.7": {
+											"title": "CCSS.Math.Content.K.CC.C.7"
+										},
+										"ccss.math.content.k.cc.a.1": {
+											"title": "CCSS.Math.Content.K.CC.A.1"
+										},
+										"ccss.math.content.k.cc.b.4.c": {
+											"title": "CCSS.Math.Content.K.CC.B.4.c"
+										},
+										"ccss.math.content.k.cc.a.2": {
+											"title": "CCSS.Math.Content.K.CC.A.2"
+										}
+									}
+								},
+								"measurement-and-data": {
+									"title": "Measurement and Data",
+									"standards": {
+										"ccss.math.content.k.md.b.3": {
+											"title": "CCSS.Math.Content.K.MD.B.3"
+										},
+										"ccss.math.content.k.md.a.1": {
+											"title": "CCSS.Math.Content.K.MD.A.1"
+										},
+										"ccss.math.content.k.md.a.2": {
+											"title": "CCSS.Math.Content.K.MD.A.2"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"1st-grade": {
+					"title": "1st grade",
+					"strands": {
+						"1st-grade": {
+							"title": "1st grade",
+							"subStrands": {
+								"measurement-and-data": {
+									"title": "Measurement and Data",
+									"standards": {
+										"ccss.math.content.1.md.b.3": {
+											"title": "CCSS.Math.Content.1.MD.B.3"
+										},
+										"ccss.math.content.1.md.a.1": {
+											"title": "CCSS.Math.Content.1.MD.A.1"
+										},
+										"ccss.math.content.1.md.a.2": {
+											"title": "CCSS.Math.Content.1.MD.A.2"
+										},
+										"ccss.math.content.1.md.c.4": {
+											"title": "CCSS.Math.Content.1.MD.C.4"
+										}
+									}
+								},
+								"operations-and-algebraic-thinking": {
+									"title": "Operations and Algebraic Thinking",
+									"standards": {
+										"ccss.math.content.1.oa.a.1": {
+											"title": "CCSS.Math.Content.1.OA.A.1"
+										},
+										"ccss.math.content.1.oa.a.2": {
+											"title": "CCSS.Math.Content.1.OA.A.2"
+										},
+										"ccss.math.content.1.oa.d.7": {
+											"title": "CCSS.Math.Content.1.OA.D.7"
+										},
+										"ccss.math.content.1.oa.d.8": {
+											"title": "CCSS.Math.Content.1.OA.D.8"
+										},
+										"ccss.math.content.1.oa.c.6": {
+											"title": "CCSS.Math.Content.1.OA.C.6"
+										},
+										"ccss.math.content.1.oa.b.3": {
+											"title": "CCSS.Math.Content.1.OA.B.3"
+										},
+										"ccss.math.content.1.oa.c.5": {
+											"title": "CCSS.Math.Content.1.OA.C.5"
+										},
+										"ccss.math.content.1.oa.b.4": {
+											"title": "CCSS.Math.Content.1.OA.B.4"
+										}
+									}
+								},
+								"number-and-operations-in-base-ten": {
+									"title": "Number and Operations in Base Ten",
+									"standards": {
+										"ccss.math.content.1.nbt.b.2.a": {
+											"title": "CCSS.Math.Content.1.NBT.B.2.a"
+										},
+										"ccss.math.content.1.nbt.b.2.b": {
+											"title": "CCSS.Math.Content.1.NBT.B.2.b"
+										},
+										"ccss.math.content.1.nbt.b.2.c": {
+											"title": "CCSS.Math.Content.1.NBT.B.2.c"
+										},
+										"ccss.math.content.1.nbt.c.4": {
+											"title": "CCSS.Math.Content.1.NBT.C.4"
+										},
+										"ccss.math.content.1.nbt.c.5": {
+											"title": "CCSS.Math.Content.1.NBT.C.5"
+										},
+										"ccss.math.content.1.nbt.a.1": {
+											"title": "CCSS.Math.Content.1.NBT.A.1"
+										},
+										"ccss.math.content.1.nbt.b.3": {
+											"title": "CCSS.Math.Content.1.NBT.B.3"
+										},
+										"ccss.math.content.1.nbt.c.6": {
+											"title": "CCSS.Math.Content.1.NBT.C.6"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.1.g.a.2": {
+											"title": "CCSS.Math.Content.1.G.A.2"
+										},
+										"ccss.math.content.1.g.a.3": {
+											"title": "CCSS.Math.Content.1.G.A.3"
+										},
+										"ccss.math.content.1.g.a.1": {
+											"title": "CCSS.Math.Content.1.G.A.1"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"2nd-grade": {
+					"title": "2nd grade",
+					"strands": {
+						"2nd-grade": {
+							"title": "2nd grade",
+							"subStrands": {
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.2.g.a.1": {
+											"title": "CCSS.Math.Content.2.G.A.1"
+										},
+										"ccss.math.content.2.g.a.2": {
+											"title": "CCSS.Math.Content.2.G.A.2"
+										},
+										"ccss.math.content.2.g.a.3": {
+											"title": "CCSS.Math.Content.2.G.A.3"
+										}
+									}
+								},
+								"measurement-and-data": {
+									"title": "Measurement and Data",
+									"standards": {
+										"ccss.math.content.2.md.c.8": {
+											"title": "CCSS.Math.Content.2.MD.C.8"
+										},
+										"ccss.math.content.2.md.d.10": {
+											"title": "CCSS.Math.Content.2.MD.D.10"
+										},
+										"ccss.math.content.2.md.c.7": {
+											"title": "CCSS.Math.Content.2.MD.C.7"
+										},
+										"ccss.math.content.2.md.d.9": {
+											"title": "CCSS.Math.Content.2.MD.D.9"
+										},
+										"ccss.math.content.2.md.a.1": {
+											"title": "CCSS.Math.Content.2.MD.A.1"
+										},
+										"ccss.math.content.2.md.a.3": {
+											"title": "CCSS.Math.Content.2.MD.A.3"
+										},
+										"ccss.math.content.2.md.b.5": {
+											"title": "CCSS.Math.Content.2.MD.B.5"
+										},
+										"ccss.math.content.2.md.b.6": {
+											"title": "CCSS.Math.Content.2.MD.B.6"
+										}
+									}
+								},
+								"number-and-operations-in-base-ten": {
+									"title": "Number and Operations in Base Ten",
+									"standards": {
+										"ccss.math.content.2.nbt.a.2": {
+											"title": "CCSS.Math.Content.2.NBT.A.2"
+										},
+										"ccss.math.content.2.nbt.b.5": {
+											"title": "CCSS.Math.Content.2.NBT.B.5"
+										},
+										"ccss.math.content.2.nbt.b.6": {
+											"title": "CCSS.Math.Content.2.NBT.B.6"
+										},
+										"ccss.math.content.2.nbt.b.7": {
+											"title": "CCSS.Math.Content.2.NBT.B.7"
+										},
+										"ccss.math.content.2.nbt.a.1.a": {
+											"title": "CCSS.Math.Content.2.NBT.A.1.a"
+										},
+										"ccss.math.content.2.nbt.a.1.b": {
+											"title": "CCSS.Math.Content.2.NBT.A.1.b"
+										},
+										"ccss.math.content.2.nbt.b.9": {
+											"title": "CCSS.Math.Content.2.NBT.B.9"
+										},
+										"ccss.math.content.2.nbt.a.3": {
+											"title": "CCSS.Math.Content.2.NBT.A.3"
+										},
+										"ccss.math.content.2.nbt.a.4": {
+											"title": "CCSS.Math.Content.2.NBT.A.4"
+										}
+									}
+								},
+								"operations-and-algebraic-thinking": {
+									"title": "Operations and Algebraic Thinking",
+									"standards": {
+										"ccss.math.content.2.oa.a.1": {
+											"title": "CCSS.Math.Content.2.OA.A.1"
+										},
+										"ccss.math.content.2.oa.b.2": {
+											"title": "CCSS.Math.Content.2.OA.B.2"
+										},
+										"ccss.math.content.2.oa.c.3": {
+											"title": "CCSS.Math.Content.2.OA.C.3"
+										},
+										"ccss.math.content.2.oa.c.4": {
+											"title": "CCSS.Math.Content.2.OA.C.4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"3rd-grade": {
+					"title": "3rd grade",
+					"strands": {
+						"3rd-grade": {
+							"title": "3rd grade",
+							"subStrands": {
+								"measurement-and-data": {
+									"title": "Measurement and Data",
+									"standards": {
+										"ccss.math.content.3.md.d.8": {
+											"title": "CCSS.Math.Content.3.MD.D.8"
+										},
+										"ccss.math.content.3.md.a.1": {
+											"title": "CCSS.Math.Content.3.MD.A.1"
+										},
+										"ccss.math.content.3.md.c.5.a": {
+											"title": "CCSS.Math.Content.3.MD.C.5.a"
+										},
+										"ccss.math.content.3.md.c.5.b": {
+											"title": "CCSS.Math.Content.3.MD.C.5.b"
+										},
+										"ccss.math.content.3.md.c.6": {
+											"title": "CCSS.Math.Content.3.MD.C.6"
+										},
+										"ccss.math.content.3.md.c.7.a": {
+											"title": "CCSS.Math.Content.3.MD.C.7.a"
+										},
+										"ccss.math.content.3.md.c.7.b": {
+											"title": "CCSS.Math.Content.3.MD.C.7.b"
+										},
+										"ccss.math.content.3.md.b.3": {
+											"title": "CCSS.Math.Content.3.MD.B.3"
+										},
+										"ccss.math.content.3.md.b.4": {
+											"title": "CCSS.Math.Content.3.MD.B.4"
+										},
+										"ccss.math.content.3.md.c.7.d": {
+											"title": "CCSS.Math.Content.3.MD.C.7.d"
+										}
+									}
+								},
+								"number-and-operations-fractions": {
+									"title": "Number and Operations-Fractions",
+									"standards": {
+										"ccss.math.content.3.nf.a.1": {
+											"title": "CCSS.Math.Content.3.NF.A.1"
+										},
+										"ccss.math.content.3.nf.a.2.a": {
+											"title": "CCSS.Math.Content.3.NF.A.2.a"
+										},
+										"ccss.math.content.3.nf.a.2.b": {
+											"title": "CCSS.Math.Content.3.NF.A.2.b"
+										},
+										"ccss.math.content.3.nf.a.3.a": {
+											"title": "CCSS.Math.Content.3.NF.A.3.a"
+										},
+										"ccss.math.content.3.nf.a.3.b": {
+											"title": "CCSS.Math.Content.3.NF.A.3.b"
+										},
+										"ccss.math.content.3.nf.a.3.d": {
+											"title": "CCSS.Math.Content.3.NF.A.3.d"
+										},
+										"ccss.math.content.3.nf.a.3.c": {
+											"title": "CCSS.Math.Content.3.NF.A.3.c"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.3.g.a.2": {
+											"title": "CCSS.Math.Content.3.G.A.2"
+										},
+										"ccss.math.content.3.g.a.1": {
+											"title": "CCSS.Math.Content.3.G.A.1"
+										}
+									}
+								},
+								"operations-and-algebraic-thinking": {
+									"title": "Operations and Algebraic Thinking",
+									"standards": {
+										"ccss.math.content.3.oa.a.1": {
+											"title": "CCSS.Math.Content.3.OA.A.1"
+										},
+										"ccss.math.content.3.oa.b.5": {
+											"title": "CCSS.Math.Content.3.OA.B.5"
+										},
+										"ccss.math.content.3.oa.c.7": {
+											"title": "CCSS.Math.Content.3.OA.C.7"
+										},
+										"ccss.math.content.3.oa.a.3": {
+											"title": "CCSS.Math.Content.3.OA.A.3"
+										},
+										"ccss.math.content.3.oa.a.4": {
+											"title": "CCSS.Math.Content.3.OA.A.4"
+										},
+										"ccss.math.content.3.oa.d.8": {
+											"title": "CCSS.Math.Content.3.OA.D.8"
+										},
+										"ccss.math.content.3.oa.a.2": {
+											"title": "CCSS.Math.Content.3.OA.A.2"
+										},
+										"ccss.math.content.3.oa.d.9": {
+											"title": "CCSS.Math.Content.3.OA.D.9"
+										},
+										"ccss.math.content.3.oa.b.6": {
+											"title": "CCSS.Math.Content.3.OA.B.6"
+										}
+									}
+								},
+								"number-and-operations-in-base-ten": {
+									"title": "Number and Operations in Base Ten",
+									"standards": {
+										"ccss.math.content.3.nbt.a.1": {
+											"title": "CCSS.Math.Content.3.NBT.A.1"
+										},
+										"ccss.math.content.3.nbt.a.2": {
+											"title": "CCSS.Math.Content.3.NBT.A.2"
+										},
+										"ccss.math.content.3.nbt.a.3": {
+											"title": "CCSS.Math.Content.3.NBT.A.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"4th-grade": {
+					"title": "4th grade",
+					"strands": {
+						"4th-grade": {
+							"title": "4th grade",
+							"subStrands": {
+								"operations-and-algebraic-thinking": {
+									"title": "Operations and Algebraic Thinking",
+									"standards": {
+										"ccss.math.content.4.oa.b.4": {
+											"title": "CCSS.Math.Content.4.OA.B.4"
+										},
+										"ccss.math.content.4.oa.a.2": {
+											"title": "CCSS.Math.Content.4.OA.A.2"
+										},
+										"ccss.math.content.4.oa.a.3": {
+											"title": "CCSS.Math.Content.4.OA.A.3"
+										},
+										"ccss.math.content.4.oa.a.1": {
+											"title": "CCSS.Math.Content.4.OA.A.1"
+										},
+										"ccss.math.content.4.oa.c.5": {
+											"title": "CCSS.Math.Content.4.OA.C.5"
+										}
+									}
+								},
+								"number-and-operations-in-base-ten": {
+									"title": "Number and Operations in Base Ten",
+									"standards": {
+										"ccss.math.content.4.nbt.b.5": {
+											"title": "CCSS.Math.Content.4.NBT.B.5"
+										},
+										"ccss.math.content.4.nbt.b.6": {
+											"title": "CCSS.Math.Content.4.NBT.B.6"
+										},
+										"ccss.math.content.4.nbt.b.4": {
+											"title": "CCSS.Math.Content.4.NBT.B.4"
+										},
+										"ccss.math.content.4.nbt.a.1": {
+											"title": "CCSS.Math.Content.4.NBT.A.1"
+										},
+										"ccss.math.content.4.nbt.a.2": {
+											"title": "CCSS.Math.Content.4.NBT.A.2"
+										},
+										"ccss.math.content.4.nbt.a.3": {
+											"title": "CCSS.Math.Content.4.NBT.A.3"
+										}
+									}
+								},
+								"number-and-operations-fractions": {
+									"title": "Number and Operations-Fractions",
+									"standards": {
+										"ccss.math.content.4.nf.a.1": {
+											"title": "CCSS.Math.Content.4.NF.A.1"
+										},
+										"ccss.math.content.4.nf.a.2": {
+											"title": "CCSS.Math.Content.4.NF.A.2"
+										},
+										"ccss.math.content.4.nf.b.3.a": {
+											"title": "CCSS.Math.Content.4.NF.B.3.a"
+										},
+										"ccss.math.content.4.nf.c.5": {
+											"title": "CCSS.Math.Content.4.NF.C.5"
+										},
+										"ccss.math.content.4.nf.b.4.a": {
+											"title": "CCSS.Math.Content.4.NF.B.4.a"
+										},
+										"ccss.math.content.4.nf.b.4.b": {
+											"title": "CCSS.Math.Content.4.NF.B.4.b"
+										},
+										"ccss.math.content.4.nf.b.4.c": {
+											"title": "CCSS.Math.Content.4.NF.B.4.c"
+										},
+										"ccss.math.content.4.nf.c.7": {
+											"title": "CCSS.Math.Content.4.NF.C.7"
+										},
+										"ccss.math.content.4.nf.b.3.c": {
+											"title": "CCSS.Math.Content.4.NF.B.3.c"
+										},
+										"ccss.math.content.4.nf.c.6": {
+											"title": "CCSS.Math.Content.4.NF.C.6"
+										},
+										"ccss.math.content.4.nf.b.3.d": {
+											"title": "CCSS.Math.Content.4.NF.B.3.d"
+										},
+										"ccss.math.content.4.nf.b.3.b": {
+											"title": "CCSS.Math.Content.4.NF.B.3.b"
+										}
+									}
+								},
+								"measurement-and-data": {
+									"title": "Measurement and Data",
+									"standards": {
+										"ccss.math.content.4.md.c.7": {
+											"title": "CCSS.Math.Content.4.MD.C.7"
+										},
+										"ccss.math.content.4.md.a.1": {
+											"title": "CCSS.Math.Content.4.MD.A.1"
+										},
+										"ccss.math.content.4.md.a.2": {
+											"title": "CCSS.Math.Content.4.MD.A.2"
+										},
+										"ccss.math.content.4.md.a.3": {
+											"title": "CCSS.Math.Content.4.MD.A.3"
+										},
+										"ccss.math.content.4.md.c.5.a": {
+											"title": "CCSS.Math.Content.4.MD.C.5.a"
+										},
+										"ccss.math.content.4.md.c.5.b": {
+											"title": "CCSS.Math.Content.4.MD.C.5.b"
+										},
+										"ccss.math.content.4.md.c.6": {
+											"title": "CCSS.Math.Content.4.MD.C.6"
+										},
+										"ccss.math.content.4.md.b.4": {
+											"title": "CCSS.Math.Content.4.MD.B.4"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.4.g.a.2": {
+											"title": "CCSS.Math.Content.4.G.A.2"
+										},
+										"ccss.math.content.4.g.a.1": {
+											"title": "CCSS.Math.Content.4.G.A.1"
+										},
+										"ccss.math.content.4.g.a.3": {
+											"title": "CCSS.Math.Content.4.G.A.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"5th-grade": {
+					"title": "5th grade",
+					"strands": {
+						"5th-grade": {
+							"title": "5th grade",
+							"subStrands": {
+								"number-and-operations-in-base-ten": {
+									"title": "Number and Operations in Base Ten",
+									"standards": {
+										"ccss.math.content.5.nbt.a.3.b": {
+											"title": "CCSS.Math.Content.5.NBT.A.3.b"
+										},
+										"ccss.math.content.5.nbt.b.7": {
+											"title": "CCSS.Math.Content.5.NBT.B.7"
+										},
+										"ccss.math.content.5.nbt.a.4": {
+											"title": "CCSS.Math.Content.5.NBT.A.4"
+										},
+										"ccss.math.content.5.nbt.a.1": {
+											"title": "CCSS.Math.Content.5.NBT.A.1"
+										},
+										"ccss.math.content.5.nbt.b.5": {
+											"title": "CCSS.Math.Content.5.NBT.B.5"
+										},
+										"ccss.math.content.5.nbt.b.6": {
+											"title": "CCSS.Math.Content.5.NBT.B.6"
+										},
+										"ccss.math.content.5.nbt.a.2": {
+											"title": "CCSS.Math.Content.5.NBT.A.2"
+										}
+									}
+								},
+								"operations-and-algebraic-thinking": {
+									"title": "Operations and Algebraic Thinking",
+									"standards": {
+										"ccss.math.content.5.oa.a.2": {
+											"title": "CCSS.Math.Content.5.OA.A.2"
+										},
+										"ccss.math.content.5.oa.b.3": {
+											"title": "CCSS.Math.Content.5.OA.B.3"
+										},
+										"ccss.math.content.5.oa.a.1": {
+											"title": "CCSS.Math.Content.5.OA.A.1"
+										}
+									}
+								},
+								"number-and-operations-fractions": {
+									"title": "Number and Operations-Fractions",
+									"standards": {
+										"ccss.math.content.5.nf.a.1": {
+											"title": "CCSS.Math.Content.5.NF.A.1"
+										},
+										"ccss.math.content.5.nf.a.2": {
+											"title": "CCSS.Math.Content.5.NF.A.2"
+										},
+										"ccss.math.content.5.nf.b.5.b": {
+											"title": "CCSS.Math.Content.5.NF.B.5.b"
+										},
+										"ccss.math.content.5.nf.b.6": {
+											"title": "CCSS.Math.Content.5.NF.B.6"
+										},
+										"ccss.math.content.5.nf.b.4.a": {
+											"title": "CCSS.Math.Content.5.NF.B.4.a"
+										}
+									}
+								},
+								"measurement-and-data": {
+									"title": "Measurement and Data",
+									"standards": {
+										"ccss.math.content.5.md.c.5.a": {
+											"title": "CCSS.Math.Content.5.MD.C.5.a"
+										},
+										"ccss.math.content.5.md.a.1": {
+											"title": "CCSS.Math.Content.5.MD.A.1"
+										},
+										"ccss.math.content.5.md.c.3.a": {
+											"title": "CCSS.Math.Content.5.MD.C.3.a"
+										},
+										"ccss.math.content.5.md.c.3.b": {
+											"title": "CCSS.Math.Content.5.MD.C.3.b"
+										},
+										"ccss.math.content.5.md.c.4": {
+											"title": "CCSS.Math.Content.5.MD.C.4"
+										},
+										"ccss.math.content.5.md.c.5.b": {
+											"title": "CCSS.Math.Content.5.MD.C.5.b"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.5.g.a.1": {
+											"title": "CCSS.Math.Content.5.G.A.1"
+										},
+										"ccss.math.content.5.g.a.2": {
+											"title": "CCSS.Math.Content.5.G.A.2"
+										},
+										"ccss.math.content.5.g.b.4": {
+											"title": "CCSS.Math.Content.5.G.B.4"
+										},
+										"ccss.math.content.5.g.b.3": {
+											"title": "CCSS.Math.Content.5.G.B.3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"6th-grade": {
+					"title": "6th grade",
+					"strands": {
+						"6th-grade": {
+							"title": "6th grade",
+							"subStrands": {
+								"statistics-and-probability": {
+									"title": "Statistics and Probability",
+									"standards": {
+										"ccss.math.content.6.sp.b.5.c": {
+											"title": "CCSS.Math.Content.6.SP.B.5.c"
+										},
+										"ccss.math.content.6.sp.b.4": {
+											"title": "CCSS.Math.Content.6.SP.B.4"
+										},
+										"ccss.math.content.6.sp.a.3": {
+											"title": "CCSS.Math.Content.6.SP.A.3"
+										},
+										"ccss.math.content.6.sp.a.2": {
+											"title": "CCSS.Math.Content.6.SP.A.2"
+										}
+									}
+								},
+								"the-number-system": {
+									"title": "The Number System",
+									"standards": {
+										"ccss.math.content.6.ns.b.3": {
+											"title": "CCSS.Math.Content.6.NS.B.3"
+										},
+										"ccss.math.content.6.ns.c.6.c": {
+											"title": "CCSS.Math.Content.6.NS.C.6.c"
+										},
+										"ccss.math.content.6.ns.c.7.a": {
+											"title": "CCSS.Math.Content.6.NS.C.7.a"
+										},
+										"ccss.math.content.6.ns.c.7.b": {
+											"title": "CCSS.Math.Content.6.NS.C.7.b"
+										},
+										"ccss.math.content.6.ns.c.6.b": {
+											"title": "CCSS.Math.Content.6.NS.C.6.b"
+										},
+										"ccss.math.content.6.ns.c.8": {
+											"title": "CCSS.Math.Content.6.NS.C.8"
+										},
+										"ccss.math.content.6.ns.a.1": {
+											"title": "CCSS.Math.Content.6.NS.A.1"
+										},
+										"ccss.math.content.6.ns.b.2": {
+											"title": "CCSS.Math.Content.6.NS.B.2"
+										},
+										"ccss.math.content.6.ns.b.4": {
+											"title": "CCSS.Math.Content.6.NS.B.4"
+										},
+										"ccss.math.content.6.ns.c.5": {
+											"title": "CCSS.Math.Content.6.NS.C.5"
+										},
+										"ccss.math.content.6.ns.c.6.a": {
+											"title": "CCSS.Math.Content.6.NS.C.6.a"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.6.g.a.1": {
+											"title": "CCSS.Math.Content.6.G.A.1"
+										},
+										"ccss.math.content.6.g.a.2": {
+											"title": "CCSS.Math.Content.6.G.A.2"
+										},
+										"ccss.math.content.6.g.a.4": {
+											"title": "CCSS.Math.Content.6.G.A.4"
+										},
+										"ccss.math.content.6.g.a.3": {
+											"title": "CCSS.Math.Content.6.G.A.3"
+										}
+									}
+								},
+								"ratios-and-proportional-relationships": {
+									"title": "Ratios and Proportional Relationships",
+									"standards": {
+										"ccss.math.content.6.rp.a.3.c": {
+											"title": "CCSS.Math.Content.6.RP.A.3.c"
+										},
+										"ccss.math.content.6.rp.a.1": {
+											"title": "CCSS.Math.Content.6.RP.A.1"
+										},
+										"ccss.math.content.6.rp.a.2": {
+											"title": "CCSS.Math.Content.6.RP.A.2"
+										},
+										"ccss.math.content.6.rp.a.3.b": {
+											"title": "CCSS.Math.Content.6.RP.A.3.b"
+										},
+										"ccss.math.content.6.rp.a.3.d": {
+											"title": "CCSS.Math.Content.6.RP.A.3.d"
+										},
+										"ccss.math.content.6.rp.a.3.a": {
+											"title": "CCSS.Math.Content.6.RP.A.3.a"
+										}
+									}
+								},
+								"expressions-and-equations": {
+									"title": "Expressions and Equations",
+									"standards": {
+										"ccss.math.content.6.ee.a.2.c": {
+											"title": "CCSS.Math.Content.6.EE.A.2.c"
+										},
+										"ccss.math.content.6.ee.b.8": {
+											"title": "CCSS.Math.Content.6.EE.B.8"
+										},
+										"ccss.math.content.6.ee.a.3": {
+											"title": "CCSS.Math.Content.6.EE.A.3"
+										},
+										"ccss.math.content.6.ee.a.2.a": {
+											"title": "CCSS.Math.Content.6.EE.A.2.a"
+										},
+										"ccss.math.content.6.ee.a.2.b": {
+											"title": "CCSS.Math.Content.6.EE.A.2.b"
+										},
+										"ccss.math.content.6.ee.b.6": {
+											"title": "CCSS.Math.Content.6.EE.B.6"
+										},
+										"ccss.math.content.6.ee.b.7": {
+											"title": "CCSS.Math.Content.6.EE.B.7"
+										},
+										"ccss.math.content.6.ee.a.1": {
+											"title": "CCSS.Math.Content.6.EE.A.1"
+										},
+										"ccss.math.content.6.ee.b.5": {
+											"title": "CCSS.Math.Content.6.EE.B.5"
+										},
+										"ccss.math.content.6.ee.c.9": {
+											"title": "CCSS.Math.Content.6.EE.C.9"
+										},
+										"ccss.math.content.6.ee.a.4": {
+											"title": "CCSS.Math.Content.6.EE.A.4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"7th-grade": {
+					"title": "7th grade",
+					"strands": {
+						"7th-grade": {
+							"title": "7th grade",
+							"subStrands": {
+								"statistics-and-probability": {
+									"title": "Statistics and Probability",
+									"standards": {
+										"ccss.math.content.7.sp.a.1": {
+											"title": "CCSS.Math.Content.7.SP.A.1"
+										},
+										"ccss.math.content.7.sp.a.2": {
+											"title": "CCSS.Math.Content.7.SP.A.2"
+										},
+										"ccss.math.content.7.sp.c.7.a": {
+											"title": "CCSS.Math.Content.7.SP.C.7.a"
+										},
+										"ccss.math.content.7.sp.c.7.b": {
+											"title": "CCSS.Math.Content.7.SP.C.7.b"
+										},
+										"ccss.math.content.7.sp.c.5": {
+											"title": "CCSS.Math.Content.7.SP.C.5"
+										},
+										"ccss.math.content.7.sp.c.8.a": {
+											"title": "CCSS.Math.Content.7.SP.C.8.a"
+										},
+										"ccss.math.content.7.sp.c.8.b": {
+											"title": "CCSS.Math.Content.7.SP.C.8.b"
+										}
+									}
+								},
+								"ratios-and-proportional-relationships": {
+									"title": "Ratios and Proportional Relationships",
+									"standards": {
+										"ccss.math.content.7.rp.a.3": {
+											"title": "CCSS.Math.Content.7.RP.A.3"
+										},
+										"ccss.math.content.7.rp.a.2.a": {
+											"title": "CCSS.Math.Content.7.RP.A.2.a"
+										},
+										"ccss.math.content.7.rp.a.2.b": {
+											"title": "CCSS.Math.Content.7.RP.A.2.b"
+										},
+										"ccss.math.content.7.rp.a.2.c": {
+											"title": "CCSS.Math.Content.7.RP.A.2.c"
+										},
+										"ccss.math.content.7.rp.a.2.d": {
+											"title": "CCSS.Math.Content.7.RP.A.2.d"
+										},
+										"ccss.math.content.7.rp.a.1": {
+											"title": "CCSS.Math.Content.7.RP.A.1"
+										}
+									}
+								},
+								"the-number-system": {
+									"title": "The Number System",
+									"standards": {
+										"ccss.math.content.7.ns.a.2.d": {
+											"title": "CCSS.Math.Content.7.NS.A.2.d"
+										},
+										"ccss.math.content.7.ns.a.3": {
+											"title": "CCSS.Math.Content.7.NS.A.3"
+										},
+										"ccss.math.content.7.ns.a.1.c": {
+											"title": "CCSS.Math.Content.7.NS.A.1.c"
+										},
+										"ccss.math.content.7.ns.a.1.d": {
+											"title": "CCSS.Math.Content.7.NS.A.1.d"
+										},
+										"ccss.math.content.7.ns.a.2.a": {
+											"title": "CCSS.Math.Content.7.NS.A.2.a"
+										},
+										"ccss.math.content.7.ns.a.2.c": {
+											"title": "CCSS.Math.Content.7.NS.A.2.c"
+										},
+										"ccss.math.content.7.ns.a.1.b": {
+											"title": "CCSS.Math.Content.7.NS.A.1.b"
+										}
+									}
+								},
+								"expressions-and-equations": {
+									"title": "Expressions and Equations",
+									"standards": {
+										"ccss.math.content.7.ee.b.3": {
+											"title": "CCSS.Math.Content.7.EE.B.3"
+										},
+										"ccss.math.content.7.ee.a.1": {
+											"title": "CCSS.Math.Content.7.EE.A.1"
+										},
+										"ccss.math.content.7.ee.b.4.a": {
+											"title": "CCSS.Math.Content.7.EE.B.4.a"
+										},
+										"ccss.math.content.7.ee.b.4.b": {
+											"title": "CCSS.Math.Content.7.EE.B.4.b"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.7.g.b.4": {
+											"title": "CCSS.Math.Content.7.G.B.4"
+										},
+										"ccss.math.content.7.g.b.5": {
+											"title": "CCSS.Math.Content.7.G.B.5"
+										},
+										"ccss.math.content.7.g.b.6": {
+											"title": "CCSS.Math.Content.7.G.B.6"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"8th-grade": {
+					"title": "8th grade",
+					"strands": {
+						"8th-grade": {
+							"title": "8th grade",
+							"subStrands": {
+								"expressions-and-equations": {
+									"title": "Expressions and Equations",
+									"standards": {
+										"ccss.math.content.8.ee.a.1": {
+											"title": "CCSS.Math.Content.8.EE.A.1"
+										},
+										"ccss.math.content.8.ee.a.3": {
+											"title": "CCSS.Math.Content.8.EE.A.3"
+										},
+										"ccss.math.content.8.ee.a.4": {
+											"title": "CCSS.Math.Content.8.EE.A.4"
+										},
+										"ccss.math.content.8.ee.b.6": {
+											"title": "CCSS.Math.Content.8.EE.B.6"
+										},
+										"ccss.math.content.8.ee.c.7.b": {
+											"title": "CCSS.Math.Content.8.EE.C.7.b"
+										},
+										"ccss.math.content.8.ee.c.7.a": {
+											"title": "CCSS.Math.Content.8.EE.C.7.a"
+										},
+										"ccss.math.content.8.ee.b.5": {
+											"title": "CCSS.Math.Content.8.EE.B.5"
+										},
+										"ccss.math.content.8.ee.a.2": {
+											"title": "CCSS.Math.Content.8.EE.A.2"
+										},
+										"ccss.math.content.8.ee.c.8.a": {
+											"title": "CCSS.Math.Content.8.EE.C.8.a"
+										},
+										"ccss.math.content.8.ee.c.8.b": {
+											"title": "CCSS.Math.Content.8.EE.C.8.b"
+										},
+										"ccss.math.content.8.ee.c.8.c": {
+											"title": "CCSS.Math.Content.8.EE.C.8.c"
+										}
+									}
+								},
+								"the-number-system": {
+									"title": "The Number System",
+									"standards": {
+										"ccss.math.content.8.ns.a.1": {
+											"title": "CCSS.Math.Content.8.NS.A.1"
+										},
+										"ccss.math.content.8.ns.a.2": {
+											"title": "CCSS.Math.Content.8.NS.A.2"
+										}
+									}
+								},
+								"statistics-and-probability": {
+									"title": "Statistics and Probability",
+									"standards": {
+										"ccss.math.content.8.sp.a.1": {
+											"title": "CCSS.Math.Content.8.SP.A.1"
+										},
+										"ccss.math.content.8.sp.a.2": {
+											"title": "CCSS.Math.Content.8.SP.A.2"
+										},
+										"ccss.math.content.8.sp.a.3": {
+											"title": "CCSS.Math.Content.8.SP.A.3"
+										},
+										"ccss.math.content.8.sp.a.4": {
+											"title": "CCSS.Math.Content.8.SP.A.4"
+										}
+									}
+								},
+								"functions": {
+									"title": "Functions",
+									"standards": {
+										"ccss.math.content.8.f.b.4": {
+											"title": "CCSS.Math.Content.8.F.B.4"
+										},
+										"ccss.math.content.8.f.b.5": {
+											"title": "CCSS.Math.Content.8.F.B.5"
+										},
+										"ccss.math.content.8.f.a.3": {
+											"title": "CCSS.Math.Content.8.F.A.3"
+										},
+										"ccss.math.content.8.f.a.1": {
+											"title": "CCSS.Math.Content.8.F.A.1"
+										},
+										"ccss.math.content.8.f.a.2": {
+											"title": "CCSS.Math.Content.8.F.A.2"
+										}
+									}
+								},
+								"geometry": {
+									"title": "Geometry",
+									"standards": {
+										"ccss.math.content.8.g.a.1.a": {
+											"title": "CCSS.Math.Content.8.G.A.1.a"
+										},
+										"ccss.math.content.8.g.a.1.b": {
+											"title": "CCSS.Math.Content.8.G.A.1.b"
+										},
+										"ccss.math.content.8.g.a.1.c": {
+											"title": "CCSS.Math.Content.8.G.A.1.c"
+										},
+										"ccss.math.content.8.g.a.2": {
+											"title": "CCSS.Math.Content.8.G.A.2"
+										},
+										"ccss.math.content.8.g.a.3": {
+											"title": "CCSS.Math.Content.8.G.A.3"
+										},
+										"ccss.math.content.8.g.a.4": {
+											"title": "CCSS.Math.Content.8.G.A.4"
+										},
+										"ccss.math.content.8.g.b.7": {
+											"title": "CCSS.Math.Content.8.G.B.7"
+										},
+										"ccss.math.content.8.g.b.8": {
+											"title": "CCSS.Math.Content.8.G.B.8"
+										},
+										"ccss.math.content.8.g.a.5": {
+											"title": "CCSS.Math.Content.8.G.A.5"
+										},
+										"ccss.math.content.8.g.c.9": {
+											"title": "CCSS.Math.Content.8.G.C.9"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"9th-grade": {
+					"title": "9th grade",
+					"strands": {
+						"geometry": {
+							"title": "Geometry",
+							"subStrands": {
+								"congruence": {
+									"title": "Congruence",
+									"standards": {
+										"ccss.math.content.hsg-co.c.10": {
+											"title": "CCSS.Math.Content.HSG-CO.C.10"
+										},
+										"ccss.math.content.hsg-co.b.6": {
+											"title": "CCSS.Math.Content.HSG-CO.B.6"
+										},
+										"ccss.math.content.hsg-co.b.7": {
+											"title": "CCSS.Math.Content.HSG-CO.B.7"
+										},
+										"ccss.math.content.hsg-co.b.8": {
+											"title": "CCSS.Math.Content.HSG-CO.B.8"
+										},
+										"ccss.math.content.hsg-co.a.1": {
+											"title": "CCSS.Math.Content.HSG-CO.A.1"
+										},
+										"ccss.math.content.hsg-co.c.11": {
+											"title": "CCSS.Math.Content.HSG-CO.C.11"
+										},
+										"ccss.math.content.hsg-co.a.2": {
+											"title": "CCSS.Math.Content.HSG-CO.A.2"
+										},
+										"ccss.math.content.hsg-co.a.3": {
+											"title": "CCSS.Math.Content.HSG-CO.A.3"
+										},
+										"ccss.math.content.hsg-co.a.4": {
+											"title": "CCSS.Math.Content.HSG-CO.A.4"
+										},
+										"ccss.math.content.hsg-co.a.5": {
+											"title": "CCSS.Math.Content.HSG-CO.A.5"
+										},
+										"ccss.math.content.hsg-co.c.9": {
+											"title": "CCSS.Math.Content.HSG-CO.C.9"
+										},
+										"ccss.math.content.hsg-co.d.12": {
+											"title": "CCSS.Math.Content.HSG-CO.D.12"
+										}
+									}
+								},
+								"similarity%2C-right-triangles%2C-and-trigonometry": {
+									"title": "Similarity, Right Triangles, and Trigonometry",
+									"standards": {
+										"ccss.math.content.hsg-srt.b.5": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.5"
+										},
+										"ccss.math.content.hsg-srt.c.6": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.6"
+										},
+										"ccss.math.content.hsg-srt.c.8": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.8"
+										},
+										"ccss.math.content.hsg-srt.a.2": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.2"
+										},
+										"ccss.math.content.hsg-srt.a.3": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.3"
+										},
+										"ccss.math.content.hsg-srt.b.4": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.4"
+										},
+										"ccss.math.content.hsg-srt.c.7": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.7"
+										},
+										"ccss.math.content.hsg-srt.d.10": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.10"
+										},
+										"ccss.math.content.hsg-srt.d.11": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.11"
+										}
+									}
+								},
+								"circles": {
+									"title": "Circles",
+									"standards": {
+										"ccss.math.content.hsg-c.b.5": {
+											"title": "CCSS.Math.Content.HSG-C.B.5"
+										},
+										"ccss.math.content.hsg-c.a.2": {
+											"title": "CCSS.Math.Content.HSG-C.A.2"
+										},
+										"ccss.math.content.hsg-c.a.3": {
+											"title": "CCSS.Math.Content.HSG-C.A.3"
+										}
+									}
+								},
+								"expressing-geometric-properties-with-equations": {
+									"title": "Expressing Geometric Properties with Equations",
+									"standards": {
+										"ccss.math.content.hsg-gpe.b.4": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.4"
+										},
+										"ccss.math.content.hsg-gpe.b.7": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.7"
+										},
+										"ccss.math.content.hsg-gpe.b.5": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.5"
+										}
+									}
+								},
+								"geometric-measurement-and-dimension": {
+									"title": "Geometric Measurement and Dimension",
+									"standards": {
+										"ccss.math.content.hsg-gmd.a.3": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.3"
+										},
+										"ccss.math.content.hsg-gmd.a.1": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.1"
+										},
+										"ccss.math.content.hsg-gmd.b.4": {
+											"title": "CCSS.Math.Content.HSG-GMD.B.4"
+										}
+									}
+								}
+							}
+						},
+						"functions": {
+							"title": "Functions",
+							"subStrands": {
+								"interpreting-functions": {
+									"title": "Interpreting Functions",
+									"standards": {
+										"ccss.math.content.hsf-if.a.1": {
+											"title": "CCSS.Math.Content.HSF-IF.A.1"
+										},
+										"ccss.math.content.hsf-if.c.7.e": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.e"
+										},
+										"ccss.math.content.hsf-if.c.7.c": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.c"
+										},
+										"ccss.math.content.hsf-if.c.7.d": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.d"
+										},
+										"ccss.math.content.hsf-if.c.7.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.a"
+										},
+										"ccss.math.content.hsf-if.b.6": {
+											"title": "CCSS.Math.Content.HSF-IF.B.6"
+										},
+										"ccss.math.content.hsf-if.c.8.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.a"
+										},
+										"ccss.math.content.hsf-if.c.8.b": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.b"
+										},
+										"ccss.math.content.hsf-if.a.2": {
+											"title": "CCSS.Math.Content.HSF-IF.A.2"
+										}
+									}
+								},
+								"trigonometric-functions": {
+									"title": "Trigonometric Functions",
+									"standards": {
+										"ccss.math.content.hsf-tf.a.1": {
+											"title": "CCSS.Math.Content.HSF-TF.A.1"
+										},
+										"ccss.math.content.hsf-tf.a.2": {
+											"title": "CCSS.Math.Content.HSF-TF.A.2"
+										},
+										"ccss.math.content.hsf-tf.a.3": {
+											"title": "CCSS.Math.Content.HSF-TF.A.3"
+										},
+										"ccss.math.content.hsf-tf.b.5": {
+											"title": "CCSS.Math.Content.HSF-TF.B.5"
+										}
+									}
+								},
+								"building-functions": {
+									"title": "Building Functions",
+									"standards": {
+										"ccss.math.content.hsf-bf.b.5": {
+											"title": "CCSS.Math.Content.HSF-BF.B.5"
+										},
+										"ccss.math.content.hsf-bf.b.3": {
+											"title": "CCSS.Math.Content.HSF-BF.B.3"
+										},
+										"ccss.math.content.hsf-bf.b.4.a": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.a"
+										},
+										"ccss.math.content.hsf-bf.b.4.b": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.b"
+										},
+										"ccss.math.content.hsf-bf.b.4.c": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.c"
+										}
+									}
+								},
+								"linear%2C-quadratic%2C-and-exponential-models": {
+									"title": "Linear, Quadratic, and Exponential Models",
+									"standards": {
+										"ccss.math.content.hsf-le.a.4": {
+											"title": "CCSS.Math.Content.HSF-LE.A.4"
+										},
+										"ccss.math.content.hsf-le.a.1.b": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.b"
+										},
+										"ccss.math.content.hsf-le.a.2": {
+											"title": "CCSS.Math.Content.HSF-LE.A.2"
+										},
+										"ccss.math.content.hsf-le.b.5": {
+											"title": "CCSS.Math.Content.HSF-LE.B.5"
+										},
+										"ccss.math.content.hsf-le.a.1.c": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.c"
+										},
+										"ccss.math.content.hsf-le.a.3": {
+											"title": "CCSS.Math.Content.HSF-LE.A.3"
+										}
+									}
+								}
+							}
+						},
+						"algebra": {
+							"title": "Algebra",
+							"subStrands": {
+								"reasoning-with-equations-and-inequalities": {
+									"title": "Reasoning with Equations and Inequalities",
+									"standards": {
+										"ccss.math.content.hsa-rei.b.3": {
+											"title": "CCSS.Math.Content.HSA-REI.B.3"
+										},
+										"ccss.math.content.hsa-rei.d.10": {
+											"title": "CCSS.Math.Content.HSA-REI.D.10"
+										},
+										"ccss.math.content.hsa-rei.c.5": {
+											"title": "CCSS.Math.Content.HSA-REI.C.5"
+										},
+										"ccss.math.content.hsa-rei.c.6": {
+											"title": "CCSS.Math.Content.HSA-REI.C.6"
+										},
+										"ccss.math.content.hsa-rei.b.4.b": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.b"
+										},
+										"ccss.math.content.hsa-rei.a.1": {
+											"title": "CCSS.Math.Content.HSA-REI.A.1"
+										},
+										"ccss.math.content.hsa-rei.d.12": {
+											"title": "CCSS.Math.Content.HSA-REI.D.12"
+										},
+										"ccss.math.content.hsa-rei.a.2": {
+											"title": "CCSS.Math.Content.HSA-REI.A.2"
+										},
+										"ccss.math.content.hsa-rei.b.4.a": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.a"
+										}
+									}
+								},
+								"creating-equations": {
+									"title": "Creating Equations",
+									"standards": {
+										"ccss.math.content.hsa-ced.a.2": {
+											"title": "CCSS.Math.Content.HSA-CED.A.2"
+										},
+										"ccss.math.content.hsa-ced.a.1": {
+											"title": "CCSS.Math.Content.HSA-CED.A.1"
+										}
+									}
+								},
+								"arithmetic-with-polynomials-and-rational-expressions": {
+									"title": "Arithmetic with Polynomials and Rational Expressions",
+									"standards": {
+										"ccss.math.content.hsa-apr.a.1": {
+											"title": "CCSS.Math.Content.HSA-APR.A.1"
+										},
+										"ccss.math.content.hsa-apr.b.2": {
+											"title": "CCSS.Math.Content.HSA-APR.B.2"
+										}
+									}
+								},
+								"seeing-structure-in-expressions": {
+									"title": "Seeing Structure in Expressions",
+									"standards": {
+										"ccss.math.content.hsa-sse.a.2": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.2"
+										},
+										"ccss.math.content.hsa-sse.b.3.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.a"
+										},
+										"ccss.math.content.hsa-sse.b.3.b": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.b"
+										},
+										"ccss.math.content.hsa-sse.a.1.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.1.a"
+										}
+									}
+								}
+							}
+						},
+						"statistics-and-probability": {
+							"title": "Statistics and Probability",
+							"subStrands": {
+								"interpreting-categorical-and-quantitative-data": {
+									"title": "Interpreting Categorical and Quantitative Data",
+									"standards": {
+										"ccss.math.content.hss-id.c.7": {
+											"title": "CCSS.Math.Content.HSS-ID.C.7"
+										},
+										"ccss.math.content.hss-id.b.6.c": {
+											"title": "CCSS.Math.Content.HSS-ID.B.6.c"
+										},
+										"ccss.math.content.hss-id.a.1": {
+											"title": "CCSS.Math.Content.HSS-ID.A.1"
+										},
+										"ccss.math.content.hss-id.a.3": {
+											"title": "CCSS.Math.Content.HSS-ID.A.3"
+										},
+										"ccss.math.content.hss-id.a.4": {
+											"title": "CCSS.Math.Content.HSS-ID.A.4"
+										}
+									}
+								},
+								"making-inferences-and-justifying-conclusions": {
+									"title": "Making Inferences and Justifying Conclusions",
+									"standards": {
+										"ccss.math.content.hss-ic.b.6": {
+											"title": "CCSS.Math.Content.HSS-IC.B.6"
+										}
+									}
+								},
+								"conditional-probability-and-the-rules-of-probability": {
+									"title": "Conditional Probability and the Rules of Probability",
+									"standards": {
+										"ccss.math.content.hss-cp.a.1": {
+											"title": "CCSS.Math.Content.HSS-CP.A.1"
+										},
+										"ccss.math.content.hss-cp.a.2": {
+											"title": "CCSS.Math.Content.HSS-CP.A.2"
+										},
+										"ccss.math.content.hss-cp.a.3": {
+											"title": "CCSS.Math.Content.HSS-CP.A.3"
+										},
+										"ccss.math.content.hss-cp.a.4": {
+											"title": "CCSS.Math.Content.HSS-CP.A.4"
+										},
+										"ccss.math.content.hss-cp.a.5": {
+											"title": "CCSS.Math.Content.HSS-CP.A.5"
+										},
+										"ccss.math.content.hss-cp.b.6": {
+											"title": "CCSS.Math.Content.HSS-CP.B.6"
+										}
+									}
+								}
+							}
+						},
+						"numbers-and-quantity": {
+							"title": "Numbers and Quantity",
+							"subStrands": {
+								"the-real-number-system": {
+									"title": "The Real Number System",
+									"standards": {
+										"ccss.math.content.hsn-rn.a.2": {
+											"title": "CCSS.Math.Content.HSN-RN.A.2"
+										},
+										"ccss.math.content.hsn-rn.a.1": {
+											"title": "CCSS.Math.Content.HSN-RN.A.1"
+										}
+									}
+								},
+								"the-complex-number-system": {
+									"title": "The Complex Number System",
+									"standards": {
+										"ccss.math.content.hsn-cn.a.1": {
+											"title": "CCSS.Math.Content.HSN-CN.A.1"
+										},
+										"ccss.math.content.hsn-cn.a.3": {
+											"title": "CCSS.Math.Content.HSN-CN.A.3"
+										},
+										"ccss.math.content.hsn-cn.a.2": {
+											"title": "CCSS.Math.Content.HSN-CN.A.2"
+										},
+										"ccss.math.content.hsn-cn.c.7": {
+											"title": "CCSS.Math.Content.HSN-CN.C.7"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"10th-grade": {
+					"title": "10th grade",
+					"strands": {
+						"geometry": {
+							"title": "Geometry",
+							"subStrands": {
+								"congruence": {
+									"title": "Congruence",
+									"standards": {
+										"ccss.math.content.hsg-co.c.10": {
+											"title": "CCSS.Math.Content.HSG-CO.C.10"
+										},
+										"ccss.math.content.hsg-co.b.6": {
+											"title": "CCSS.Math.Content.HSG-CO.B.6"
+										},
+										"ccss.math.content.hsg-co.b.7": {
+											"title": "CCSS.Math.Content.HSG-CO.B.7"
+										},
+										"ccss.math.content.hsg-co.b.8": {
+											"title": "CCSS.Math.Content.HSG-CO.B.8"
+										},
+										"ccss.math.content.hsg-co.a.1": {
+											"title": "CCSS.Math.Content.HSG-CO.A.1"
+										},
+										"ccss.math.content.hsg-co.c.11": {
+											"title": "CCSS.Math.Content.HSG-CO.C.11"
+										},
+										"ccss.math.content.hsg-co.a.2": {
+											"title": "CCSS.Math.Content.HSG-CO.A.2"
+										},
+										"ccss.math.content.hsg-co.a.3": {
+											"title": "CCSS.Math.Content.HSG-CO.A.3"
+										},
+										"ccss.math.content.hsg-co.a.4": {
+											"title": "CCSS.Math.Content.HSG-CO.A.4"
+										},
+										"ccss.math.content.hsg-co.a.5": {
+											"title": "CCSS.Math.Content.HSG-CO.A.5"
+										},
+										"ccss.math.content.hsg-co.c.9": {
+											"title": "CCSS.Math.Content.HSG-CO.C.9"
+										},
+										"ccss.math.content.hsg-co.d.12": {
+											"title": "CCSS.Math.Content.HSG-CO.D.12"
+										}
+									}
+								},
+								"similarity%2C-right-triangles%2C-and-trigonometry": {
+									"title": "Similarity, Right Triangles, and Trigonometry",
+									"standards": {
+										"ccss.math.content.hsg-srt.b.5": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.5"
+										},
+										"ccss.math.content.hsg-srt.c.6": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.6"
+										},
+										"ccss.math.content.hsg-srt.c.8": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.8"
+										},
+										"ccss.math.content.hsg-srt.a.2": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.2"
+										},
+										"ccss.math.content.hsg-srt.a.3": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.3"
+										},
+										"ccss.math.content.hsg-srt.b.4": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.4"
+										},
+										"ccss.math.content.hsg-srt.c.7": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.7"
+										},
+										"ccss.math.content.hsg-srt.d.10": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.10"
+										},
+										"ccss.math.content.hsg-srt.d.11": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.11"
+										}
+									}
+								},
+								"circles": {
+									"title": "Circles",
+									"standards": {
+										"ccss.math.content.hsg-c.b.5": {
+											"title": "CCSS.Math.Content.HSG-C.B.5"
+										},
+										"ccss.math.content.hsg-c.a.2": {
+											"title": "CCSS.Math.Content.HSG-C.A.2"
+										},
+										"ccss.math.content.hsg-c.a.3": {
+											"title": "CCSS.Math.Content.HSG-C.A.3"
+										}
+									}
+								},
+								"expressing-geometric-properties-with-equations": {
+									"title": "Expressing Geometric Properties with Equations",
+									"standards": {
+										"ccss.math.content.hsg-gpe.b.4": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.4"
+										},
+										"ccss.math.content.hsg-gpe.b.7": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.7"
+										},
+										"ccss.math.content.hsg-gpe.b.5": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.5"
+										}
+									}
+								},
+								"geometric-measurement-and-dimension": {
+									"title": "Geometric Measurement and Dimension",
+									"standards": {
+										"ccss.math.content.hsg-gmd.a.3": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.3"
+										},
+										"ccss.math.content.hsg-gmd.a.1": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.1"
+										},
+										"ccss.math.content.hsg-gmd.b.4": {
+											"title": "CCSS.Math.Content.HSG-GMD.B.4"
+										}
+									}
+								}
+							}
+						},
+						"functions": {
+							"title": "Functions",
+							"subStrands": {
+								"interpreting-functions": {
+									"title": "Interpreting Functions",
+									"standards": {
+										"ccss.math.content.hsf-if.a.1": {
+											"title": "CCSS.Math.Content.HSF-IF.A.1"
+										},
+										"ccss.math.content.hsf-if.c.7.e": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.e"
+										},
+										"ccss.math.content.hsf-if.c.7.c": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.c"
+										},
+										"ccss.math.content.hsf-if.c.7.d": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.d"
+										},
+										"ccss.math.content.hsf-if.c.7.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.a"
+										},
+										"ccss.math.content.hsf-if.b.6": {
+											"title": "CCSS.Math.Content.HSF-IF.B.6"
+										},
+										"ccss.math.content.hsf-if.c.8.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.a"
+										},
+										"ccss.math.content.hsf-if.c.8.b": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.b"
+										},
+										"ccss.math.content.hsf-if.a.2": {
+											"title": "CCSS.Math.Content.HSF-IF.A.2"
+										}
+									}
+								},
+								"trigonometric-functions": {
+									"title": "Trigonometric Functions",
+									"standards": {
+										"ccss.math.content.hsf-tf.a.1": {
+											"title": "CCSS.Math.Content.HSF-TF.A.1"
+										},
+										"ccss.math.content.hsf-tf.a.2": {
+											"title": "CCSS.Math.Content.HSF-TF.A.2"
+										},
+										"ccss.math.content.hsf-tf.a.3": {
+											"title": "CCSS.Math.Content.HSF-TF.A.3"
+										},
+										"ccss.math.content.hsf-tf.b.5": {
+											"title": "CCSS.Math.Content.HSF-TF.B.5"
+										}
+									}
+								},
+								"building-functions": {
+									"title": "Building Functions",
+									"standards": {
+										"ccss.math.content.hsf-bf.b.5": {
+											"title": "CCSS.Math.Content.HSF-BF.B.5"
+										},
+										"ccss.math.content.hsf-bf.b.3": {
+											"title": "CCSS.Math.Content.HSF-BF.B.3"
+										},
+										"ccss.math.content.hsf-bf.b.4.a": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.a"
+										},
+										"ccss.math.content.hsf-bf.b.4.b": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.b"
+										},
+										"ccss.math.content.hsf-bf.b.4.c": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.c"
+										}
+									}
+								},
+								"linear%2C-quadratic%2C-and-exponential-models": {
+									"title": "Linear, Quadratic, and Exponential Models",
+									"standards": {
+										"ccss.math.content.hsf-le.a.4": {
+											"title": "CCSS.Math.Content.HSF-LE.A.4"
+										},
+										"ccss.math.content.hsf-le.a.1.b": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.b"
+										},
+										"ccss.math.content.hsf-le.a.2": {
+											"title": "CCSS.Math.Content.HSF-LE.A.2"
+										},
+										"ccss.math.content.hsf-le.b.5": {
+											"title": "CCSS.Math.Content.HSF-LE.B.5"
+										},
+										"ccss.math.content.hsf-le.a.1.c": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.c"
+										},
+										"ccss.math.content.hsf-le.a.3": {
+											"title": "CCSS.Math.Content.HSF-LE.A.3"
+										}
+									}
+								}
+							}
+						},
+						"algebra": {
+							"title": "Algebra",
+							"subStrands": {
+								"reasoning-with-equations-and-inequalities": {
+									"title": "Reasoning with Equations and Inequalities",
+									"standards": {
+										"ccss.math.content.hsa-rei.b.3": {
+											"title": "CCSS.Math.Content.HSA-REI.B.3"
+										},
+										"ccss.math.content.hsa-rei.d.10": {
+											"title": "CCSS.Math.Content.HSA-REI.D.10"
+										},
+										"ccss.math.content.hsa-rei.c.5": {
+											"title": "CCSS.Math.Content.HSA-REI.C.5"
+										},
+										"ccss.math.content.hsa-rei.c.6": {
+											"title": "CCSS.Math.Content.HSA-REI.C.6"
+										},
+										"ccss.math.content.hsa-rei.b.4.b": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.b"
+										},
+										"ccss.math.content.hsa-rei.a.1": {
+											"title": "CCSS.Math.Content.HSA-REI.A.1"
+										},
+										"ccss.math.content.hsa-rei.d.12": {
+											"title": "CCSS.Math.Content.HSA-REI.D.12"
+										},
+										"ccss.math.content.hsa-rei.a.2": {
+											"title": "CCSS.Math.Content.HSA-REI.A.2"
+										},
+										"ccss.math.content.hsa-rei.b.4.a": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.a"
+										}
+									}
+								},
+								"creating-equations": {
+									"title": "Creating Equations",
+									"standards": {
+										"ccss.math.content.hsa-ced.a.2": {
+											"title": "CCSS.Math.Content.HSA-CED.A.2"
+										},
+										"ccss.math.content.hsa-ced.a.1": {
+											"title": "CCSS.Math.Content.HSA-CED.A.1"
+										}
+									}
+								},
+								"arithmetic-with-polynomials-and-rational-expressions": {
+									"title": "Arithmetic with Polynomials and Rational Expressions",
+									"standards": {
+										"ccss.math.content.hsa-apr.a.1": {
+											"title": "CCSS.Math.Content.HSA-APR.A.1"
+										},
+										"ccss.math.content.hsa-apr.b.2": {
+											"title": "CCSS.Math.Content.HSA-APR.B.2"
+										}
+									}
+								},
+								"seeing-structure-in-expressions": {
+									"title": "Seeing Structure in Expressions",
+									"standards": {
+										"ccss.math.content.hsa-sse.a.2": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.2"
+										},
+										"ccss.math.content.hsa-sse.b.3.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.a"
+										},
+										"ccss.math.content.hsa-sse.b.3.b": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.b"
+										},
+										"ccss.math.content.hsa-sse.a.1.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.1.a"
+										}
+									}
+								}
+							}
+						},
+						"statistics-and-probability": {
+							"title": "Statistics and Probability",
+							"subStrands": {
+								"interpreting-categorical-and-quantitative-data": {
+									"title": "Interpreting Categorical and Quantitative Data",
+									"standards": {
+										"ccss.math.content.hss-id.c.7": {
+											"title": "CCSS.Math.Content.HSS-ID.C.7"
+										},
+										"ccss.math.content.hss-id.b.6.c": {
+											"title": "CCSS.Math.Content.HSS-ID.B.6.c"
+										},
+										"ccss.math.content.hss-id.a.1": {
+											"title": "CCSS.Math.Content.HSS-ID.A.1"
+										},
+										"ccss.math.content.hss-id.a.3": {
+											"title": "CCSS.Math.Content.HSS-ID.A.3"
+										},
+										"ccss.math.content.hss-id.a.4": {
+											"title": "CCSS.Math.Content.HSS-ID.A.4"
+										}
+									}
+								},
+								"making-inferences-and-justifying-conclusions": {
+									"title": "Making Inferences and Justifying Conclusions",
+									"standards": {
+										"ccss.math.content.hss-ic.b.6": {
+											"title": "CCSS.Math.Content.HSS-IC.B.6"
+										}
+									}
+								},
+								"conditional-probability-and-the-rules-of-probability": {
+									"title": "Conditional Probability and the Rules of Probability",
+									"standards": {
+										"ccss.math.content.hss-cp.a.1": {
+											"title": "CCSS.Math.Content.HSS-CP.A.1"
+										},
+										"ccss.math.content.hss-cp.a.2": {
+											"title": "CCSS.Math.Content.HSS-CP.A.2"
+										},
+										"ccss.math.content.hss-cp.a.3": {
+											"title": "CCSS.Math.Content.HSS-CP.A.3"
+										},
+										"ccss.math.content.hss-cp.a.4": {
+											"title": "CCSS.Math.Content.HSS-CP.A.4"
+										},
+										"ccss.math.content.hss-cp.a.5": {
+											"title": "CCSS.Math.Content.HSS-CP.A.5"
+										},
+										"ccss.math.content.hss-cp.b.6": {
+											"title": "CCSS.Math.Content.HSS-CP.B.6"
+										}
+									}
+								}
+							}
+						},
+						"numbers-and-quantity": {
+							"title": "Numbers and Quantity",
+							"subStrands": {
+								"the-real-number-system": {
+									"title": "The Real Number System",
+									"standards": {
+										"ccss.math.content.hsn-rn.a.2": {
+											"title": "CCSS.Math.Content.HSN-RN.A.2"
+										},
+										"ccss.math.content.hsn-rn.a.1": {
+											"title": "CCSS.Math.Content.HSN-RN.A.1"
+										}
+									}
+								},
+								"the-complex-number-system": {
+									"title": "The Complex Number System",
+									"standards": {
+										"ccss.math.content.hsn-cn.a.1": {
+											"title": "CCSS.Math.Content.HSN-CN.A.1"
+										},
+										"ccss.math.content.hsn-cn.a.3": {
+											"title": "CCSS.Math.Content.HSN-CN.A.3"
+										},
+										"ccss.math.content.hsn-cn.a.2": {
+											"title": "CCSS.Math.Content.HSN-CN.A.2"
+										},
+										"ccss.math.content.hsn-cn.c.7": {
+											"title": "CCSS.Math.Content.HSN-CN.C.7"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"11th-grade": {
+					"title": "11th grade",
+					"strands": {
+						"geometry": {
+							"title": "Geometry",
+							"subStrands": {
+								"congruence": {
+									"title": "Congruence",
+									"standards": {
+										"ccss.math.content.hsg-co.c.10": {
+											"title": "CCSS.Math.Content.HSG-CO.C.10"
+										},
+										"ccss.math.content.hsg-co.b.6": {
+											"title": "CCSS.Math.Content.HSG-CO.B.6"
+										},
+										"ccss.math.content.hsg-co.b.7": {
+											"title": "CCSS.Math.Content.HSG-CO.B.7"
+										},
+										"ccss.math.content.hsg-co.b.8": {
+											"title": "CCSS.Math.Content.HSG-CO.B.8"
+										},
+										"ccss.math.content.hsg-co.a.1": {
+											"title": "CCSS.Math.Content.HSG-CO.A.1"
+										},
+										"ccss.math.content.hsg-co.c.11": {
+											"title": "CCSS.Math.Content.HSG-CO.C.11"
+										},
+										"ccss.math.content.hsg-co.a.2": {
+											"title": "CCSS.Math.Content.HSG-CO.A.2"
+										},
+										"ccss.math.content.hsg-co.a.3": {
+											"title": "CCSS.Math.Content.HSG-CO.A.3"
+										},
+										"ccss.math.content.hsg-co.a.4": {
+											"title": "CCSS.Math.Content.HSG-CO.A.4"
+										},
+										"ccss.math.content.hsg-co.a.5": {
+											"title": "CCSS.Math.Content.HSG-CO.A.5"
+										},
+										"ccss.math.content.hsg-co.c.9": {
+											"title": "CCSS.Math.Content.HSG-CO.C.9"
+										},
+										"ccss.math.content.hsg-co.d.12": {
+											"title": "CCSS.Math.Content.HSG-CO.D.12"
+										}
+									}
+								},
+								"similarity%2C-right-triangles%2C-and-trigonometry": {
+									"title": "Similarity, Right Triangles, and Trigonometry",
+									"standards": {
+										"ccss.math.content.hsg-srt.b.5": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.5"
+										},
+										"ccss.math.content.hsg-srt.c.6": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.6"
+										},
+										"ccss.math.content.hsg-srt.c.8": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.8"
+										},
+										"ccss.math.content.hsg-srt.a.2": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.2"
+										},
+										"ccss.math.content.hsg-srt.a.3": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.3"
+										},
+										"ccss.math.content.hsg-srt.b.4": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.4"
+										},
+										"ccss.math.content.hsg-srt.c.7": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.7"
+										},
+										"ccss.math.content.hsg-srt.d.10": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.10"
+										},
+										"ccss.math.content.hsg-srt.d.11": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.11"
+										}
+									}
+								},
+								"circles": {
+									"title": "Circles",
+									"standards": {
+										"ccss.math.content.hsg-c.b.5": {
+											"title": "CCSS.Math.Content.HSG-C.B.5"
+										},
+										"ccss.math.content.hsg-c.a.2": {
+											"title": "CCSS.Math.Content.HSG-C.A.2"
+										},
+										"ccss.math.content.hsg-c.a.3": {
+											"title": "CCSS.Math.Content.HSG-C.A.3"
+										}
+									}
+								},
+								"expressing-geometric-properties-with-equations": {
+									"title": "Expressing Geometric Properties with Equations",
+									"standards": {
+										"ccss.math.content.hsg-gpe.b.4": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.4"
+										},
+										"ccss.math.content.hsg-gpe.b.7": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.7"
+										},
+										"ccss.math.content.hsg-gpe.b.5": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.5"
+										}
+									}
+								},
+								"geometric-measurement-and-dimension": {
+									"title": "Geometric Measurement and Dimension",
+									"standards": {
+										"ccss.math.content.hsg-gmd.a.3": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.3"
+										},
+										"ccss.math.content.hsg-gmd.a.1": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.1"
+										},
+										"ccss.math.content.hsg-gmd.b.4": {
+											"title": "CCSS.Math.Content.HSG-GMD.B.4"
+										}
+									}
+								}
+							}
+						},
+						"functions": {
+							"title": "Functions",
+							"subStrands": {
+								"interpreting-functions": {
+									"title": "Interpreting Functions",
+									"standards": {
+										"ccss.math.content.hsf-if.a.1": {
+											"title": "CCSS.Math.Content.HSF-IF.A.1"
+										},
+										"ccss.math.content.hsf-if.c.7.e": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.e"
+										},
+										"ccss.math.content.hsf-if.c.7.c": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.c"
+										},
+										"ccss.math.content.hsf-if.c.7.d": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.d"
+										},
+										"ccss.math.content.hsf-if.c.7.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.a"
+										},
+										"ccss.math.content.hsf-if.b.6": {
+											"title": "CCSS.Math.Content.HSF-IF.B.6"
+										},
+										"ccss.math.content.hsf-if.c.8.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.a"
+										},
+										"ccss.math.content.hsf-if.c.8.b": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.b"
+										},
+										"ccss.math.content.hsf-if.a.2": {
+											"title": "CCSS.Math.Content.HSF-IF.A.2"
+										}
+									}
+								},
+								"trigonometric-functions": {
+									"title": "Trigonometric Functions",
+									"standards": {
+										"ccss.math.content.hsf-tf.a.1": {
+											"title": "CCSS.Math.Content.HSF-TF.A.1"
+										},
+										"ccss.math.content.hsf-tf.a.2": {
+											"title": "CCSS.Math.Content.HSF-TF.A.2"
+										},
+										"ccss.math.content.hsf-tf.a.3": {
+											"title": "CCSS.Math.Content.HSF-TF.A.3"
+										},
+										"ccss.math.content.hsf-tf.b.5": {
+											"title": "CCSS.Math.Content.HSF-TF.B.5"
+										}
+									}
+								},
+								"building-functions": {
+									"title": "Building Functions",
+									"standards": {
+										"ccss.math.content.hsf-bf.b.5": {
+											"title": "CCSS.Math.Content.HSF-BF.B.5"
+										},
+										"ccss.math.content.hsf-bf.b.3": {
+											"title": "CCSS.Math.Content.HSF-BF.B.3"
+										},
+										"ccss.math.content.hsf-bf.b.4.a": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.a"
+										},
+										"ccss.math.content.hsf-bf.b.4.b": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.b"
+										},
+										"ccss.math.content.hsf-bf.b.4.c": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.c"
+										}
+									}
+								},
+								"linear%2C-quadratic%2C-and-exponential-models": {
+									"title": "Linear, Quadratic, and Exponential Models",
+									"standards": {
+										"ccss.math.content.hsf-le.a.4": {
+											"title": "CCSS.Math.Content.HSF-LE.A.4"
+										},
+										"ccss.math.content.hsf-le.a.1.b": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.b"
+										},
+										"ccss.math.content.hsf-le.a.2": {
+											"title": "CCSS.Math.Content.HSF-LE.A.2"
+										},
+										"ccss.math.content.hsf-le.b.5": {
+											"title": "CCSS.Math.Content.HSF-LE.B.5"
+										},
+										"ccss.math.content.hsf-le.a.1.c": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.c"
+										},
+										"ccss.math.content.hsf-le.a.3": {
+											"title": "CCSS.Math.Content.HSF-LE.A.3"
+										}
+									}
+								}
+							}
+						},
+						"algebra": {
+							"title": "Algebra",
+							"subStrands": {
+								"reasoning-with-equations-and-inequalities": {
+									"title": "Reasoning with Equations and Inequalities",
+									"standards": {
+										"ccss.math.content.hsa-rei.b.3": {
+											"title": "CCSS.Math.Content.HSA-REI.B.3"
+										},
+										"ccss.math.content.hsa-rei.d.10": {
+											"title": "CCSS.Math.Content.HSA-REI.D.10"
+										},
+										"ccss.math.content.hsa-rei.c.5": {
+											"title": "CCSS.Math.Content.HSA-REI.C.5"
+										},
+										"ccss.math.content.hsa-rei.c.6": {
+											"title": "CCSS.Math.Content.HSA-REI.C.6"
+										},
+										"ccss.math.content.hsa-rei.b.4.b": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.b"
+										},
+										"ccss.math.content.hsa-rei.a.1": {
+											"title": "CCSS.Math.Content.HSA-REI.A.1"
+										},
+										"ccss.math.content.hsa-rei.d.12": {
+											"title": "CCSS.Math.Content.HSA-REI.D.12"
+										},
+										"ccss.math.content.hsa-rei.a.2": {
+											"title": "CCSS.Math.Content.HSA-REI.A.2"
+										},
+										"ccss.math.content.hsa-rei.b.4.a": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.a"
+										}
+									}
+								},
+								"creating-equations": {
+									"title": "Creating Equations",
+									"standards": {
+										"ccss.math.content.hsa-ced.a.2": {
+											"title": "CCSS.Math.Content.HSA-CED.A.2"
+										},
+										"ccss.math.content.hsa-ced.a.1": {
+											"title": "CCSS.Math.Content.HSA-CED.A.1"
+										}
+									}
+								},
+								"arithmetic-with-polynomials-and-rational-expressions": {
+									"title": "Arithmetic with Polynomials and Rational Expressions",
+									"standards": {
+										"ccss.math.content.hsa-apr.a.1": {
+											"title": "CCSS.Math.Content.HSA-APR.A.1"
+										},
+										"ccss.math.content.hsa-apr.b.2": {
+											"title": "CCSS.Math.Content.HSA-APR.B.2"
+										}
+									}
+								},
+								"seeing-structure-in-expressions": {
+									"title": "Seeing Structure in Expressions",
+									"standards": {
+										"ccss.math.content.hsa-sse.a.2": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.2"
+										},
+										"ccss.math.content.hsa-sse.b.3.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.a"
+										},
+										"ccss.math.content.hsa-sse.b.3.b": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.b"
+										},
+										"ccss.math.content.hsa-sse.a.1.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.1.a"
+										}
+									}
+								}
+							}
+						},
+						"statistics-and-probability": {
+							"title": "Statistics and Probability",
+							"subStrands": {
+								"interpreting-categorical-and-quantitative-data": {
+									"title": "Interpreting Categorical and Quantitative Data",
+									"standards": {
+										"ccss.math.content.hss-id.c.7": {
+											"title": "CCSS.Math.Content.HSS-ID.C.7"
+										},
+										"ccss.math.content.hss-id.b.6.c": {
+											"title": "CCSS.Math.Content.HSS-ID.B.6.c"
+										},
+										"ccss.math.content.hss-id.a.1": {
+											"title": "CCSS.Math.Content.HSS-ID.A.1"
+										},
+										"ccss.math.content.hss-id.a.3": {
+											"title": "CCSS.Math.Content.HSS-ID.A.3"
+										},
+										"ccss.math.content.hss-id.a.4": {
+											"title": "CCSS.Math.Content.HSS-ID.A.4"
+										}
+									}
+								},
+								"making-inferences-and-justifying-conclusions": {
+									"title": "Making Inferences and Justifying Conclusions",
+									"standards": {
+										"ccss.math.content.hss-ic.b.6": {
+											"title": "CCSS.Math.Content.HSS-IC.B.6"
+										}
+									}
+								},
+								"conditional-probability-and-the-rules-of-probability": {
+									"title": "Conditional Probability and the Rules of Probability",
+									"standards": {
+										"ccss.math.content.hss-cp.a.1": {
+											"title": "CCSS.Math.Content.HSS-CP.A.1"
+										},
+										"ccss.math.content.hss-cp.a.2": {
+											"title": "CCSS.Math.Content.HSS-CP.A.2"
+										},
+										"ccss.math.content.hss-cp.a.3": {
+											"title": "CCSS.Math.Content.HSS-CP.A.3"
+										},
+										"ccss.math.content.hss-cp.a.4": {
+											"title": "CCSS.Math.Content.HSS-CP.A.4"
+										},
+										"ccss.math.content.hss-cp.a.5": {
+											"title": "CCSS.Math.Content.HSS-CP.A.5"
+										},
+										"ccss.math.content.hss-cp.b.6": {
+											"title": "CCSS.Math.Content.HSS-CP.B.6"
+										}
+									}
+								}
+							}
+						},
+						"numbers-and-quantity": {
+							"title": "Numbers and Quantity",
+							"subStrands": {
+								"the-real-number-system": {
+									"title": "The Real Number System",
+									"standards": {
+										"ccss.math.content.hsn-rn.a.2": {
+											"title": "CCSS.Math.Content.HSN-RN.A.2"
+										},
+										"ccss.math.content.hsn-rn.a.1": {
+											"title": "CCSS.Math.Content.HSN-RN.A.1"
+										}
+									}
+								},
+								"the-complex-number-system": {
+									"title": "The Complex Number System",
+									"standards": {
+										"ccss.math.content.hsn-cn.a.1": {
+											"title": "CCSS.Math.Content.HSN-CN.A.1"
+										},
+										"ccss.math.content.hsn-cn.a.3": {
+											"title": "CCSS.Math.Content.HSN-CN.A.3"
+										},
+										"ccss.math.content.hsn-cn.a.2": {
+											"title": "CCSS.Math.Content.HSN-CN.A.2"
+										},
+										"ccss.math.content.hsn-cn.c.7": {
+											"title": "CCSS.Math.Content.HSN-CN.C.7"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"12th-grade": {
+					"title": "12th grade",
+					"strands": {
+						"geometry": {
+							"title": "Geometry",
+							"subStrands": {
+								"congruence": {
+									"title": "Congruence",
+									"standards": {
+										"ccss.math.content.hsg-co.c.10": {
+											"title": "CCSS.Math.Content.HSG-CO.C.10"
+										},
+										"ccss.math.content.hsg-co.b.6": {
+											"title": "CCSS.Math.Content.HSG-CO.B.6"
+										},
+										"ccss.math.content.hsg-co.b.7": {
+											"title": "CCSS.Math.Content.HSG-CO.B.7"
+										},
+										"ccss.math.content.hsg-co.b.8": {
+											"title": "CCSS.Math.Content.HSG-CO.B.8"
+										},
+										"ccss.math.content.hsg-co.a.1": {
+											"title": "CCSS.Math.Content.HSG-CO.A.1"
+										},
+										"ccss.math.content.hsg-co.c.11": {
+											"title": "CCSS.Math.Content.HSG-CO.C.11"
+										},
+										"ccss.math.content.hsg-co.a.2": {
+											"title": "CCSS.Math.Content.HSG-CO.A.2"
+										},
+										"ccss.math.content.hsg-co.a.3": {
+											"title": "CCSS.Math.Content.HSG-CO.A.3"
+										},
+										"ccss.math.content.hsg-co.a.4": {
+											"title": "CCSS.Math.Content.HSG-CO.A.4"
+										},
+										"ccss.math.content.hsg-co.a.5": {
+											"title": "CCSS.Math.Content.HSG-CO.A.5"
+										},
+										"ccss.math.content.hsg-co.c.9": {
+											"title": "CCSS.Math.Content.HSG-CO.C.9"
+										},
+										"ccss.math.content.hsg-co.d.12": {
+											"title": "CCSS.Math.Content.HSG-CO.D.12"
+										}
+									}
+								},
+								"similarity%2C-right-triangles%2C-and-trigonometry": {
+									"title": "Similarity, Right Triangles, and Trigonometry",
+									"standards": {
+										"ccss.math.content.hsg-srt.b.5": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.5"
+										},
+										"ccss.math.content.hsg-srt.c.6": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.6"
+										},
+										"ccss.math.content.hsg-srt.c.8": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.8"
+										},
+										"ccss.math.content.hsg-srt.a.2": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.2"
+										},
+										"ccss.math.content.hsg-srt.a.3": {
+											"title": "CCSS.Math.Content.HSG-SRT.A.3"
+										},
+										"ccss.math.content.hsg-srt.b.4": {
+											"title": "CCSS.Math.Content.HSG-SRT.B.4"
+										},
+										"ccss.math.content.hsg-srt.c.7": {
+											"title": "CCSS.Math.Content.HSG-SRT.C.7"
+										},
+										"ccss.math.content.hsg-srt.d.10": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.10"
+										},
+										"ccss.math.content.hsg-srt.d.11": {
+											"title": "CCSS.Math.Content.HSG-SRT.D.11"
+										}
+									}
+								},
+								"circles": {
+									"title": "Circles",
+									"standards": {
+										"ccss.math.content.hsg-c.b.5": {
+											"title": "CCSS.Math.Content.HSG-C.B.5"
+										},
+										"ccss.math.content.hsg-c.a.2": {
+											"title": "CCSS.Math.Content.HSG-C.A.2"
+										},
+										"ccss.math.content.hsg-c.a.3": {
+											"title": "CCSS.Math.Content.HSG-C.A.3"
+										}
+									}
+								},
+								"expressing-geometric-properties-with-equations": {
+									"title": "Expressing Geometric Properties with Equations",
+									"standards": {
+										"ccss.math.content.hsg-gpe.b.4": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.4"
+										},
+										"ccss.math.content.hsg-gpe.b.7": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.7"
+										},
+										"ccss.math.content.hsg-gpe.b.5": {
+											"title": "CCSS.Math.Content.HSG-GPE.B.5"
+										}
+									}
+								},
+								"geometric-measurement-and-dimension": {
+									"title": "Geometric Measurement and Dimension",
+									"standards": {
+										"ccss.math.content.hsg-gmd.a.3": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.3"
+										},
+										"ccss.math.content.hsg-gmd.a.1": {
+											"title": "CCSS.Math.Content.HSG-GMD.A.1"
+										},
+										"ccss.math.content.hsg-gmd.b.4": {
+											"title": "CCSS.Math.Content.HSG-GMD.B.4"
+										}
+									}
+								}
+							}
+						},
+						"functions": {
+							"title": "Functions",
+							"subStrands": {
+								"interpreting-functions": {
+									"title": "Interpreting Functions",
+									"standards": {
+										"ccss.math.content.hsf-if.a.1": {
+											"title": "CCSS.Math.Content.HSF-IF.A.1"
+										},
+										"ccss.math.content.hsf-if.c.7.e": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.e"
+										},
+										"ccss.math.content.hsf-if.c.7.c": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.c"
+										},
+										"ccss.math.content.hsf-if.c.7.d": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.d"
+										},
+										"ccss.math.content.hsf-if.c.7.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.7.a"
+										},
+										"ccss.math.content.hsf-if.b.6": {
+											"title": "CCSS.Math.Content.HSF-IF.B.6"
+										},
+										"ccss.math.content.hsf-if.c.8.a": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.a"
+										},
+										"ccss.math.content.hsf-if.c.8.b": {
+											"title": "CCSS.Math.Content.HSF-IF.C.8.b"
+										},
+										"ccss.math.content.hsf-if.a.2": {
+											"title": "CCSS.Math.Content.HSF-IF.A.2"
+										}
+									}
+								},
+								"trigonometric-functions": {
+									"title": "Trigonometric Functions",
+									"standards": {
+										"ccss.math.content.hsf-tf.a.1": {
+											"title": "CCSS.Math.Content.HSF-TF.A.1"
+										},
+										"ccss.math.content.hsf-tf.a.2": {
+											"title": "CCSS.Math.Content.HSF-TF.A.2"
+										},
+										"ccss.math.content.hsf-tf.a.3": {
+											"title": "CCSS.Math.Content.HSF-TF.A.3"
+										},
+										"ccss.math.content.hsf-tf.b.5": {
+											"title": "CCSS.Math.Content.HSF-TF.B.5"
+										}
+									}
+								},
+								"building-functions": {
+									"title": "Building Functions",
+									"standards": {
+										"ccss.math.content.hsf-bf.b.5": {
+											"title": "CCSS.Math.Content.HSF-BF.B.5"
+										},
+										"ccss.math.content.hsf-bf.b.3": {
+											"title": "CCSS.Math.Content.HSF-BF.B.3"
+										},
+										"ccss.math.content.hsf-bf.b.4.a": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.a"
+										},
+										"ccss.math.content.hsf-bf.b.4.b": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.b"
+										},
+										"ccss.math.content.hsf-bf.b.4.c": {
+											"title": "CCSS.Math.Content.HSF-BF.B.4.c"
+										}
+									}
+								},
+								"linear%2C-quadratic%2C-and-exponential-models": {
+									"title": "Linear, Quadratic, and Exponential Models",
+									"standards": {
+										"ccss.math.content.hsf-le.a.4": {
+											"title": "CCSS.Math.Content.HSF-LE.A.4"
+										},
+										"ccss.math.content.hsf-le.a.1.b": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.b"
+										},
+										"ccss.math.content.hsf-le.a.2": {
+											"title": "CCSS.Math.Content.HSF-LE.A.2"
+										},
+										"ccss.math.content.hsf-le.b.5": {
+											"title": "CCSS.Math.Content.HSF-LE.B.5"
+										},
+										"ccss.math.content.hsf-le.a.1.c": {
+											"title": "CCSS.Math.Content.HSF-LE.A.1.c"
+										},
+										"ccss.math.content.hsf-le.a.3": {
+											"title": "CCSS.Math.Content.HSF-LE.A.3"
+										}
+									}
+								}
+							}
+						},
+						"algebra": {
+							"title": "Algebra",
+							"subStrands": {
+								"reasoning-with-equations-and-inequalities": {
+									"title": "Reasoning with Equations and Inequalities",
+									"standards": {
+										"ccss.math.content.hsa-rei.b.3": {
+											"title": "CCSS.Math.Content.HSA-REI.B.3"
+										},
+										"ccss.math.content.hsa-rei.d.10": {
+											"title": "CCSS.Math.Content.HSA-REI.D.10"
+										},
+										"ccss.math.content.hsa-rei.c.5": {
+											"title": "CCSS.Math.Content.HSA-REI.C.5"
+										},
+										"ccss.math.content.hsa-rei.c.6": {
+											"title": "CCSS.Math.Content.HSA-REI.C.6"
+										},
+										"ccss.math.content.hsa-rei.b.4.b": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.b"
+										},
+										"ccss.math.content.hsa-rei.a.1": {
+											"title": "CCSS.Math.Content.HSA-REI.A.1"
+										},
+										"ccss.math.content.hsa-rei.d.12": {
+											"title": "CCSS.Math.Content.HSA-REI.D.12"
+										},
+										"ccss.math.content.hsa-rei.a.2": {
+											"title": "CCSS.Math.Content.HSA-REI.A.2"
+										},
+										"ccss.math.content.hsa-rei.b.4.a": {
+											"title": "CCSS.Math.Content.HSA-REI.B.4.a"
+										}
+									}
+								},
+								"creating-equations": {
+									"title": "Creating Equations",
+									"standards": {
+										"ccss.math.content.hsa-ced.a.2": {
+											"title": "CCSS.Math.Content.HSA-CED.A.2"
+										},
+										"ccss.math.content.hsa-ced.a.1": {
+											"title": "CCSS.Math.Content.HSA-CED.A.1"
+										}
+									}
+								},
+								"arithmetic-with-polynomials-and-rational-expressions": {
+									"title": "Arithmetic with Polynomials and Rational Expressions",
+									"standards": {
+										"ccss.math.content.hsa-apr.a.1": {
+											"title": "CCSS.Math.Content.HSA-APR.A.1"
+										},
+										"ccss.math.content.hsa-apr.b.2": {
+											"title": "CCSS.Math.Content.HSA-APR.B.2"
+										}
+									}
+								},
+								"seeing-structure-in-expressions": {
+									"title": "Seeing Structure in Expressions",
+									"standards": {
+										"ccss.math.content.hsa-sse.a.2": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.2"
+										},
+										"ccss.math.content.hsa-sse.b.3.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.a"
+										},
+										"ccss.math.content.hsa-sse.b.3.b": {
+											"title": "CCSS.Math.Content.HSA-SSE.B.3.b"
+										},
+										"ccss.math.content.hsa-sse.a.1.a": {
+											"title": "CCSS.Math.Content.HSA-SSE.A.1.a"
+										}
+									}
+								}
+							}
+						},
+						"statistics-and-probability": {
+							"title": "Statistics and Probability",
+							"subStrands": {
+								"interpreting-categorical-and-quantitative-data": {
+									"title": "Interpreting Categorical and Quantitative Data",
+									"standards": {
+										"ccss.math.content.hss-id.c.7": {
+											"title": "CCSS.Math.Content.HSS-ID.C.7"
+										},
+										"ccss.math.content.hss-id.b.6.c": {
+											"title": "CCSS.Math.Content.HSS-ID.B.6.c"
+										},
+										"ccss.math.content.hss-id.a.1": {
+											"title": "CCSS.Math.Content.HSS-ID.A.1"
+										},
+										"ccss.math.content.hss-id.a.3": {
+											"title": "CCSS.Math.Content.HSS-ID.A.3"
+										},
+										"ccss.math.content.hss-id.a.4": {
+											"title": "CCSS.Math.Content.HSS-ID.A.4"
+										}
+									}
+								},
+								"making-inferences-and-justifying-conclusions": {
+									"title": "Making Inferences and Justifying Conclusions",
+									"standards": {
+										"ccss.math.content.hss-ic.b.6": {
+											"title": "CCSS.Math.Content.HSS-IC.B.6"
+										}
+									}
+								},
+								"conditional-probability-and-the-rules-of-probability": {
+									"title": "Conditional Probability and the Rules of Probability",
+									"standards": {
+										"ccss.math.content.hss-cp.a.1": {
+											"title": "CCSS.Math.Content.HSS-CP.A.1"
+										},
+										"ccss.math.content.hss-cp.a.2": {
+											"title": "CCSS.Math.Content.HSS-CP.A.2"
+										},
+										"ccss.math.content.hss-cp.a.3": {
+											"title": "CCSS.Math.Content.HSS-CP.A.3"
+										},
+										"ccss.math.content.hss-cp.a.4": {
+											"title": "CCSS.Math.Content.HSS-CP.A.4"
+										},
+										"ccss.math.content.hss-cp.a.5": {
+											"title": "CCSS.Math.Content.HSS-CP.A.5"
+										},
+										"ccss.math.content.hss-cp.b.6": {
+											"title": "CCSS.Math.Content.HSS-CP.B.6"
+										}
+									}
+								}
+							}
+						},
+						"numbers-and-quantity": {
+							"title": "Numbers and Quantity",
+							"subStrands": {
+								"the-real-number-system": {
+									"title": "The Real Number System",
+									"standards": {
+										"ccss.math.content.hsn-rn.a.2": {
+											"title": "CCSS.Math.Content.HSN-RN.A.2"
+										},
+										"ccss.math.content.hsn-rn.a.1": {
+											"title": "CCSS.Math.Content.HSN-RN.A.1"
+										}
+									}
+								},
+								"the-complex-number-system": {
+									"title": "The Complex Number System",
+									"standards": {
+										"ccss.math.content.hsn-cn.a.1": {
+											"title": "CCSS.Math.Content.HSN-CN.A.1"
+										},
+										"ccss.math.content.hsn-cn.a.3": {
+											"title": "CCSS.Math.Content.HSN-CN.A.3"
+										},
+										"ccss.math.content.hsn-cn.a.2": {
+											"title": "CCSS.Math.Content.HSN-CN.A.2"
+										},
+										"ccss.math.content.hsn-cn.c.7": {
+											"title": "CCSS.Math.Content.HSN-CN.C.7"
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

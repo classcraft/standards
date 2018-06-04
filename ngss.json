@@ -1,0 +1,2168 @@
+{
+	"title": "NGSS",
+	"subjects": {
+		"science": {
+			"title": "Science",
+			"grades": {
+				"kindergarten": {
+					"title": "Kindergarten",
+					"strands": {
+						"kindergarten": {
+							"title": "Kindergarten",
+							"subStrands": {
+								"interdependent-relationships-in-ecosystems%3A-animals%2C-plants%2C-and-their-environment": {
+									"title": "Interdependent Relationships in Ecosystems: Animals, Plants, and Their Environment",
+									"standards": {
+										"k-ess3-3": {
+											"title": "K-ESS3-3"
+										},
+										"k-ls1-1": {
+											"title": "K-LS1-1"
+										},
+										"k-ess3-1": {
+											"title": "K-ESS3-1"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"k-ess2-1": {
+											"title": "K-ESS2-1"
+										},
+										"k-ess3-2": {
+											"title": "K-ESS3-2"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"1st-grade": {
+					"title": "1st grade",
+					"strands": {
+						"1st-grade": {
+							"title": "1st grade",
+							"subStrands": {
+								"space-systems%3A-patterns-and-cycles": {
+									"title": "Space Systems: Patterns and Cycles",
+									"standards": {
+										"1-ess1-1": {
+											"title": "1-ESS1-1"
+										}
+									}
+								},
+								"structure%2C-function%2C-and-information-processing": {
+									"title": "Structure, Function, and Information Processing",
+									"standards": {
+										"1-ls1-1": {
+											"title": "1-LS1-1"
+										},
+										"1-ls1-2": {
+											"title": "1-LS1-2"
+										},
+										"1-ls3-1": {
+											"title": "1-LS3-1"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"2nd-grade": {
+					"title": "2nd grade",
+					"strands": {
+						"2nd-grade": {
+							"title": "2nd grade",
+							"subStrands": {
+								"earth%27s-systems%3A-processes-that-shape-the-earth": {
+									"title": "Earth's Systems: Processes that Shape the Earth",
+									"standards": {
+										"2-ess2-3": {
+											"title": "2-ESS2-3"
+										},
+										"2-ess2-2": {
+											"title": "2-ESS2-2"
+										},
+										"2-ess1-1": {
+											"title": "2-ESS1-1"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"2-ls2-2": {
+											"title": "2-LS2-2"
+										},
+										"2-ls4-1": {
+											"title": "2-LS4-1"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"2-ps1-4": {
+											"title": "2-PS1-4"
+										},
+										"2-ps1-1": {
+											"title": "2-PS1-1"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"3rd-grade": {
+					"title": "3rd grade",
+					"strands": {
+						"3rd-grade": {
+							"title": "3rd grade",
+							"subStrands": {
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"3-ls2-1": {
+											"title": "3-LS2-1"
+										},
+										"3-ls4-3": {
+											"title": "3-LS4-3"
+										}
+									}
+								},
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"3-5-ets1-3": {
+											"title": "3-5-ETS1-3"
+										}
+									}
+								},
+								"inheritance-and-variation-of-traits%3A-life-cycles-and-traits": {
+									"title": "Inheritance and Variation of Traits: Life Cycles and Traits",
+									"standards": {
+										"3-ls1-1": {
+											"title": "3-LS1-1"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"3-ess3-1": {
+											"title": "3-ESS3-1"
+										},
+										"3-ess2-1": {
+											"title": "3-ESS2-1"
+										},
+										"3-ess2-2": {
+											"title": "3-ESS2-2"
+										}
+									}
+								},
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"3-ps2-3": {
+											"title": "3-PS2-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"4th-grade": {
+					"title": "4th grade",
+					"strands": {
+						"4th-grade": {
+							"title": "4th grade",
+							"subStrands": {
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"4-ps3-2": {
+											"title": "4-PS3-2"
+										},
+										"4-ess3-1": {
+											"title": "4-ESS3-1"
+										}
+									}
+								},
+								"earth%27s-systems%3A-processes-that-shape-the-earth": {
+									"title": "Earth's Systems: Processes that Shape the Earth",
+									"standards": {
+										"4-ess2-1": {
+											"title": "4-ESS2-1"
+										},
+										"4-ess2-2": {
+											"title": "4-ESS2-2"
+										}
+									}
+								},
+								"structure%2C-function%2C-and-information-processing": {
+									"title": "Structure, Function, and Information Processing",
+									"standards": {
+										"4-ls1-1": {
+											"title": "4-LS1-1"
+										},
+										"4-ps4-2": {
+											"title": "4-PS4-2"
+										}
+									}
+								}
+							}
+						},
+						"3rd-grade": {
+							"title": "3rd grade",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"3-5-ets1-3": {
+											"title": "3-5-ETS1-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"5th-grade": {
+					"title": "5th grade",
+					"strands": {
+						"5th-grade": {
+							"title": "5th grade",
+							"subStrands": {
+								"space-systems%3A-stars-and-the-solar-system": {
+									"title": "Space Systems: Stars and the Solar System",
+									"standards": {
+										"5-ps2-1": {
+											"title": "5-PS2-1"
+										},
+										"5-ess1-1": {
+											"title": "5-ESS1-1"
+										},
+										"5-ess1-2": {
+											"title": "5-ESS1-2"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"5-ls2-1": {
+											"title": "5-LS2-1"
+										},
+										"5-ps3-1": {
+											"title": "5-PS3-1"
+										},
+										"5-ls1-1": {
+											"title": "5-LS1-1"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"5-ps1-1": {
+											"title": "5-PS1-1"
+										},
+										"5-ps1-4": {
+											"title": "5-PS1-4"
+										}
+									}
+								},
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"5-ess2-1": {
+											"title": "5-ESS2-1"
+										},
+										"5-ess2-2": {
+											"title": "5-ESS2-2"
+										},
+										"5-ess3-1": {
+											"title": "5-ESS3-1"
+										}
+									}
+								}
+							}
+						},
+						"3rd-grade": {
+							"title": "3rd grade",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"3-5-ets1-3": {
+											"title": "3-5-ETS1-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"6th-grade": {
+					"title": "6th grade",
+					"strands": {
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"growth%2C-development%2C-and-reproduction-of-organisms": {
+									"title": "Growth, Development, and Reproduction of Organisms",
+									"standards": {
+										"ms-ls1-4": {
+											"title": "MS-LS1-4"
+										},
+										"ms-ls3-1": {
+											"title": "MS-LS3-1"
+										},
+										"ms-ls3-2": {
+											"title": "MS-LS3-2"
+										},
+										"ms-ls4-5": {
+											"title": "MS-LS4-5"
+										},
+										"ms-ls1-5": {
+											"title": "MS-LS1-5"
+										}
+									}
+								},
+								"natural-selection-and-adaptations": {
+									"title": "Natural Selection and Adaptations",
+									"standards": {
+										"ms-ls4-4": {
+											"title": "MS-LS4-4"
+										},
+										"ms-ls4-2": {
+											"title": "MS-LS4-2"
+										},
+										"ms-ls4-1": {
+											"title": "MS-LS4-1"
+										},
+										"ms-ls4-6": {
+											"title": "MS-LS4-6"
+										}
+									}
+								},
+								"structure%2C-function%2C-and-information-processing": {
+									"title": "Structure, Function, and Information Processing",
+									"standards": {
+										"ms-ls1-1": {
+											"title": "MS-LS1-1"
+										},
+										"ms-ls1-2": {
+											"title": "MS-LS1-2"
+										},
+										"ms-ls1-3": {
+											"title": "MS-LS1-3"
+										},
+										"ms-ls1-8": {
+											"title": "MS-LS1-8"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"ms-ls2-2": {
+											"title": "MS-LS2-2"
+										},
+										"ms-ls2-5": {
+											"title": "MS-LS2-5"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"ms-ls1-6": {
+											"title": "MS-LS1-6"
+										},
+										"ms-ls2-3": {
+											"title": "MS-LS2-3"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"ms-ess3-1": {
+											"title": "MS-ESS3-1"
+										},
+										"ms-ess2-4": {
+											"title": "MS-ESS2-4"
+										}
+									}
+								},
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"ms-ess2-3": {
+											"title": "MS-ESS2-3"
+										},
+										"ms-ess2-2": {
+											"title": "MS-ESS2-2"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"ms-ess1-2": {
+											"title": "MS-ESS1-2"
+										},
+										"ms-ess1-3": {
+											"title": "MS-ESS1-3"
+										},
+										"ms-ess1-1": {
+											"title": "MS-ESS1-1"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"ms-ess2-5": {
+											"title": "MS-ESS2-5"
+										},
+										"ms-ess3-5": {
+											"title": "MS-ESS3-5"
+										},
+										"ms-ess2-6": {
+											"title": "MS-ESS2-6"
+										}
+									}
+								},
+								"human-impacts": {
+									"title": "Human Impacts",
+									"standards": {
+										"ms-ess3-3": {
+											"title": "MS-ESS3-3"
+										},
+										"ms-ess3-4": {
+											"title": "MS-ESS3-4"
+										},
+										"ms-ess3-2": {
+											"title": "MS-ESS3-2"
+										}
+									}
+								}
+							}
+						},
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"ms-ps2-1": {
+											"title": "MS-PS2-1"
+										},
+										"ms-ps2-2": {
+											"title": "MS-PS2-2"
+										},
+										"ms-ps2-4": {
+											"title": "MS-PS2-4"
+										},
+										"ms-ps2-5": {
+											"title": "MS-PS2-5"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"ms-ps3-2": {
+											"title": "MS-PS3-2"
+										},
+										"ms-ps3-4": {
+											"title": "MS-PS3-4"
+										},
+										"ms-ps3-1": {
+											"title": "MS-PS3-1"
+										},
+										"ms-ps3-5": {
+											"title": "MS-PS3-5"
+										},
+										"ms-ps3-3": {
+											"title": "MS-PS3-3"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"ms-ps1-4": {
+											"title": "MS-PS1-4"
+										},
+										"ms-ps1-3": {
+											"title": "MS-PS1-3"
+										},
+										"ms-ps1-1": {
+											"title": "MS-PS1-1"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"ms-ps4-2": {
+											"title": "MS-PS4-2"
+										},
+										"ms-ps4-1": {
+											"title": "MS-PS4-1"
+										}
+									}
+								},
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"ms-ps1-2": {
+											"title": "MS-PS1-2"
+										},
+										"ms-ps1-5": {
+											"title": "MS-PS1-5"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"ms-ets1-4": {
+											"title": "MS-ETS1-4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"7th-grade": {
+					"title": "7th grade",
+					"strands": {
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"growth%2C-development%2C-and-reproduction-of-organisms": {
+									"title": "Growth, Development, and Reproduction of Organisms",
+									"standards": {
+										"ms-ls1-4": {
+											"title": "MS-LS1-4"
+										},
+										"ms-ls3-1": {
+											"title": "MS-LS3-1"
+										},
+										"ms-ls3-2": {
+											"title": "MS-LS3-2"
+										},
+										"ms-ls4-5": {
+											"title": "MS-LS4-5"
+										},
+										"ms-ls1-5": {
+											"title": "MS-LS1-5"
+										}
+									}
+								},
+								"natural-selection-and-adaptations": {
+									"title": "Natural Selection and Adaptations",
+									"standards": {
+										"ms-ls4-4": {
+											"title": "MS-LS4-4"
+										},
+										"ms-ls4-2": {
+											"title": "MS-LS4-2"
+										},
+										"ms-ls4-1": {
+											"title": "MS-LS4-1"
+										},
+										"ms-ls4-6": {
+											"title": "MS-LS4-6"
+										}
+									}
+								},
+								"structure%2C-function%2C-and-information-processing": {
+									"title": "Structure, Function, and Information Processing",
+									"standards": {
+										"ms-ls1-1": {
+											"title": "MS-LS1-1"
+										},
+										"ms-ls1-2": {
+											"title": "MS-LS1-2"
+										},
+										"ms-ls1-3": {
+											"title": "MS-LS1-3"
+										},
+										"ms-ls1-8": {
+											"title": "MS-LS1-8"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"ms-ls2-2": {
+											"title": "MS-LS2-2"
+										},
+										"ms-ls2-5": {
+											"title": "MS-LS2-5"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"ms-ls1-6": {
+											"title": "MS-LS1-6"
+										},
+										"ms-ls2-3": {
+											"title": "MS-LS2-3"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"ms-ess3-1": {
+											"title": "MS-ESS3-1"
+										},
+										"ms-ess2-4": {
+											"title": "MS-ESS2-4"
+										}
+									}
+								},
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"ms-ess2-3": {
+											"title": "MS-ESS2-3"
+										},
+										"ms-ess2-2": {
+											"title": "MS-ESS2-2"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"ms-ess1-2": {
+											"title": "MS-ESS1-2"
+										},
+										"ms-ess1-3": {
+											"title": "MS-ESS1-3"
+										},
+										"ms-ess1-1": {
+											"title": "MS-ESS1-1"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"ms-ess2-5": {
+											"title": "MS-ESS2-5"
+										},
+										"ms-ess3-5": {
+											"title": "MS-ESS3-5"
+										},
+										"ms-ess2-6": {
+											"title": "MS-ESS2-6"
+										}
+									}
+								},
+								"human-impacts": {
+									"title": "Human Impacts",
+									"standards": {
+										"ms-ess3-3": {
+											"title": "MS-ESS3-3"
+										},
+										"ms-ess3-4": {
+											"title": "MS-ESS3-4"
+										},
+										"ms-ess3-2": {
+											"title": "MS-ESS3-2"
+										}
+									}
+								}
+							}
+						},
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"ms-ps2-1": {
+											"title": "MS-PS2-1"
+										},
+										"ms-ps2-2": {
+											"title": "MS-PS2-2"
+										},
+										"ms-ps2-4": {
+											"title": "MS-PS2-4"
+										},
+										"ms-ps2-5": {
+											"title": "MS-PS2-5"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"ms-ps3-2": {
+											"title": "MS-PS3-2"
+										},
+										"ms-ps3-4": {
+											"title": "MS-PS3-4"
+										},
+										"ms-ps3-1": {
+											"title": "MS-PS3-1"
+										},
+										"ms-ps3-5": {
+											"title": "MS-PS3-5"
+										},
+										"ms-ps3-3": {
+											"title": "MS-PS3-3"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"ms-ps1-4": {
+											"title": "MS-PS1-4"
+										},
+										"ms-ps1-3": {
+											"title": "MS-PS1-3"
+										},
+										"ms-ps1-1": {
+											"title": "MS-PS1-1"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"ms-ps4-2": {
+											"title": "MS-PS4-2"
+										},
+										"ms-ps4-1": {
+											"title": "MS-PS4-1"
+										}
+									}
+								},
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"ms-ps1-2": {
+											"title": "MS-PS1-2"
+										},
+										"ms-ps1-5": {
+											"title": "MS-PS1-5"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"ms-ets1-4": {
+											"title": "MS-ETS1-4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"8th-grade": {
+					"title": "8th grade",
+					"strands": {
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"growth%2C-development%2C-and-reproduction-of-organisms": {
+									"title": "Growth, Development, and Reproduction of Organisms",
+									"standards": {
+										"ms-ls1-4": {
+											"title": "MS-LS1-4"
+										},
+										"ms-ls3-1": {
+											"title": "MS-LS3-1"
+										},
+										"ms-ls3-2": {
+											"title": "MS-LS3-2"
+										},
+										"ms-ls4-5": {
+											"title": "MS-LS4-5"
+										},
+										"ms-ls1-5": {
+											"title": "MS-LS1-5"
+										}
+									}
+								},
+								"natural-selection-and-adaptations": {
+									"title": "Natural Selection and Adaptations",
+									"standards": {
+										"ms-ls4-4": {
+											"title": "MS-LS4-4"
+										},
+										"ms-ls4-2": {
+											"title": "MS-LS4-2"
+										},
+										"ms-ls4-1": {
+											"title": "MS-LS4-1"
+										},
+										"ms-ls4-6": {
+											"title": "MS-LS4-6"
+										}
+									}
+								},
+								"structure%2C-function%2C-and-information-processing": {
+									"title": "Structure, Function, and Information Processing",
+									"standards": {
+										"ms-ls1-1": {
+											"title": "MS-LS1-1"
+										},
+										"ms-ls1-2": {
+											"title": "MS-LS1-2"
+										},
+										"ms-ls1-3": {
+											"title": "MS-LS1-3"
+										},
+										"ms-ls1-8": {
+											"title": "MS-LS1-8"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"ms-ls2-2": {
+											"title": "MS-LS2-2"
+										},
+										"ms-ls2-5": {
+											"title": "MS-LS2-5"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"ms-ls1-6": {
+											"title": "MS-LS1-6"
+										},
+										"ms-ls2-3": {
+											"title": "MS-LS2-3"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"ms-ess3-1": {
+											"title": "MS-ESS3-1"
+										},
+										"ms-ess2-4": {
+											"title": "MS-ESS2-4"
+										}
+									}
+								},
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"ms-ess2-3": {
+											"title": "MS-ESS2-3"
+										},
+										"ms-ess2-2": {
+											"title": "MS-ESS2-2"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"ms-ess1-2": {
+											"title": "MS-ESS1-2"
+										},
+										"ms-ess1-3": {
+											"title": "MS-ESS1-3"
+										},
+										"ms-ess1-1": {
+											"title": "MS-ESS1-1"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"ms-ess2-5": {
+											"title": "MS-ESS2-5"
+										},
+										"ms-ess3-5": {
+											"title": "MS-ESS3-5"
+										},
+										"ms-ess2-6": {
+											"title": "MS-ESS2-6"
+										}
+									}
+								},
+								"human-impacts": {
+									"title": "Human Impacts",
+									"standards": {
+										"ms-ess3-3": {
+											"title": "MS-ESS3-3"
+										},
+										"ms-ess3-4": {
+											"title": "MS-ESS3-4"
+										},
+										"ms-ess3-2": {
+											"title": "MS-ESS3-2"
+										}
+									}
+								}
+							}
+						},
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"ms-ps2-1": {
+											"title": "MS-PS2-1"
+										},
+										"ms-ps2-2": {
+											"title": "MS-PS2-2"
+										},
+										"ms-ps2-4": {
+											"title": "MS-PS2-4"
+										},
+										"ms-ps2-5": {
+											"title": "MS-PS2-5"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"ms-ps3-2": {
+											"title": "MS-PS3-2"
+										},
+										"ms-ps3-4": {
+											"title": "MS-PS3-4"
+										},
+										"ms-ps3-1": {
+											"title": "MS-PS3-1"
+										},
+										"ms-ps3-5": {
+											"title": "MS-PS3-5"
+										},
+										"ms-ps3-3": {
+											"title": "MS-PS3-3"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"ms-ps1-4": {
+											"title": "MS-PS1-4"
+										},
+										"ms-ps1-3": {
+											"title": "MS-PS1-3"
+										},
+										"ms-ps1-1": {
+											"title": "MS-PS1-1"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"ms-ps4-2": {
+											"title": "MS-PS4-2"
+										},
+										"ms-ps4-1": {
+											"title": "MS-PS4-1"
+										}
+									}
+								},
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"ms-ps1-2": {
+											"title": "MS-PS1-2"
+										},
+										"ms-ps1-5": {
+											"title": "MS-PS1-5"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"ms-ets1-4": {
+											"title": "MS-ETS1-4"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"9th-grade": {
+					"title": "9th grade",
+					"strands": {
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"hs-ps1-2": {
+											"title": "HS-PS1-2"
+										},
+										"hs-ps1-4": {
+											"title": "HS-PS1-4"
+										},
+										"hs-ps1-7": {
+											"title": "HS-PS1-7"
+										},
+										"hs-ps1-5": {
+											"title": "HS-PS1-5"
+										},
+										"hs-ps1-6": {
+											"title": "HS-PS1-6"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"hs-ps1-1": {
+											"title": "HS-PS1-1"
+										},
+										"hs-ps1-3": {
+											"title": "HS-PS1-3"
+										},
+										"hs-ps1-8": {
+											"title": "HS-PS1-8"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"hs-ps3-1": {
+											"title": "HS-PS3-1"
+										},
+										"hs-ps3-2": {
+											"title": "HS-PS3-2"
+										},
+										"hs-ps3-5": {
+											"title": "HS-PS3-5"
+										},
+										"hs-ps3-3": {
+											"title": "HS-PS3-3"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"hs-ps4-1": {
+											"title": "HS-PS4-1"
+										},
+										"hs-ps4-3": {
+											"title": "HS-PS4-3"
+										},
+										"hs-ps4-5": {
+											"title": "HS-PS4-5"
+										},
+										"hs-ps4-4": {
+											"title": "HS-PS4-4"
+										}
+									}
+								},
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"hs-ps2-4": {
+											"title": "HS-PS2-4"
+										},
+										"hs-ps2-5": {
+											"title": "HS-PS2-5"
+										},
+										"hs-ps2-3": {
+											"title": "HS-PS2-3"
+										},
+										"hs-ps2-1": {
+											"title": "HS-PS2-1"
+										},
+										"hs-ps2-2": {
+											"title": "HS-PS2-2"
+										}
+									}
+								}
+							}
+						},
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"structure-and-function": {
+									"title": "Structure and Function",
+									"standards": {
+										"hs-ls1-1": {
+											"title": "HS-LS1-1"
+										},
+										"hs-ls1-2": {
+											"title": "HS-LS1-2"
+										},
+										"hs-ls1-3": {
+											"title": "HS-LS1-3"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"hs-ls1-6": {
+											"title": "HS-LS1-6"
+										},
+										"hs-ls1-5": {
+											"title": "HS-LS1-5"
+										},
+										"hs-ls2-5": {
+											"title": "HS-LS2-5"
+										},
+										"hs-ls1-7": {
+											"title": "HS-LS1-7"
+										},
+										"hs-ls2-3": {
+											"title": "HS-LS2-3"
+										},
+										"hs-ls2-4": {
+											"title": "HS-LS2-4"
+										}
+									}
+								},
+								"inheritance-and-variation-of-traits": {
+									"title": "Inheritance and Variation of Traits",
+									"standards": {
+										"hs-ls3-1": {
+											"title": "HS-LS3-1"
+										},
+										"hs-ls1-4": {
+											"title": "HS-LS1-4"
+										},
+										"hs-ls3-2": {
+											"title": "HS-LS3-2"
+										},
+										"hs-ls3-3": {
+											"title": "HS-LS3-3"
+										}
+									}
+								},
+								"natural-selection-and-evolution": {
+									"title": "Natural Selection and Evolution",
+									"standards": {
+										"hs-ls4-3": {
+											"title": "HS-LS4-3"
+										},
+										"hs-ls4-1": {
+											"title": "HS-LS4-1"
+										},
+										"hs-ls4-2": {
+											"title": "HS-LS4-2"
+										},
+										"hs-ls4-4": {
+											"title": "HS-LS4-4"
+										},
+										"hs-ls4-5": {
+											"title": "HS-LS4-5"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"hs-ls2-7": {
+											"title": "HS-LS2-7"
+										},
+										"hs-ls4-6": {
+											"title": "HS-LS4-6"
+										},
+										"hs-ls2-6": {
+											"title": "HS-LS2-6"
+										},
+										"hs-ls2-1": {
+											"title": "HS-LS2-1"
+										},
+										"hs-ls2-2": {
+											"title": "HS-LS2-2"
+										},
+										"hs-ls2-8": {
+											"title": "HS-LS2-8"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"hs-ess1-6": {
+											"title": "HS-ESS1-6"
+										}
+									}
+								},
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"hs-ess2-5": {
+											"title": "HS-ESS2-5"
+										},
+										"hs-ess2-3": {
+											"title": "HS-ESS2-3"
+										},
+										"hs-ess2-7": {
+											"title": "HS-ESS2-7"
+										}
+									}
+								},
+								"human-sustainability": {
+									"title": "Human Sustainability",
+									"standards": {
+										"hs-ess3-4": {
+											"title": "HS-ESS3-4"
+										},
+										"hs-ess3-6": {
+											"title": "HS-ESS3-6"
+										},
+										"hs-ess3-1": {
+											"title": "HS-ESS3-1"
+										},
+										"hs-ess3-3": {
+											"title": "HS-ESS3-3"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"hs-ess2-4": {
+											"title": "HS-ESS2-4"
+										},
+										"hs-ess3-5": {
+											"title": "HS-ESS3-5"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"hs-ess1-2": {
+											"title": "HS-ESS1-2"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"hs-ets1-2": {
+											"title": "HS-ETS1-2"
+										},
+										"hs-ets1-3": {
+											"title": "HS-ETS1-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"10th-grade": {
+					"title": "10th grade",
+					"strands": {
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"hs-ps1-2": {
+											"title": "HS-PS1-2"
+										},
+										"hs-ps1-4": {
+											"title": "HS-PS1-4"
+										},
+										"hs-ps1-7": {
+											"title": "HS-PS1-7"
+										},
+										"hs-ps1-5": {
+											"title": "HS-PS1-5"
+										},
+										"hs-ps1-6": {
+											"title": "HS-PS1-6"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"hs-ps1-1": {
+											"title": "HS-PS1-1"
+										},
+										"hs-ps1-3": {
+											"title": "HS-PS1-3"
+										},
+										"hs-ps1-8": {
+											"title": "HS-PS1-8"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"hs-ps3-1": {
+											"title": "HS-PS3-1"
+										},
+										"hs-ps3-2": {
+											"title": "HS-PS3-2"
+										},
+										"hs-ps3-5": {
+											"title": "HS-PS3-5"
+										},
+										"hs-ps3-3": {
+											"title": "HS-PS3-3"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"hs-ps4-1": {
+											"title": "HS-PS4-1"
+										},
+										"hs-ps4-3": {
+											"title": "HS-PS4-3"
+										},
+										"hs-ps4-5": {
+											"title": "HS-PS4-5"
+										},
+										"hs-ps4-4": {
+											"title": "HS-PS4-4"
+										}
+									}
+								},
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"hs-ps2-4": {
+											"title": "HS-PS2-4"
+										},
+										"hs-ps2-5": {
+											"title": "HS-PS2-5"
+										},
+										"hs-ps2-3": {
+											"title": "HS-PS2-3"
+										},
+										"hs-ps2-1": {
+											"title": "HS-PS2-1"
+										},
+										"hs-ps2-2": {
+											"title": "HS-PS2-2"
+										}
+									}
+								}
+							}
+						},
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"structure-and-function": {
+									"title": "Structure and Function",
+									"standards": {
+										"hs-ls1-1": {
+											"title": "HS-LS1-1"
+										},
+										"hs-ls1-2": {
+											"title": "HS-LS1-2"
+										},
+										"hs-ls1-3": {
+											"title": "HS-LS1-3"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"hs-ls1-6": {
+											"title": "HS-LS1-6"
+										},
+										"hs-ls1-5": {
+											"title": "HS-LS1-5"
+										},
+										"hs-ls2-5": {
+											"title": "HS-LS2-5"
+										},
+										"hs-ls1-7": {
+											"title": "HS-LS1-7"
+										},
+										"hs-ls2-3": {
+											"title": "HS-LS2-3"
+										},
+										"hs-ls2-4": {
+											"title": "HS-LS2-4"
+										}
+									}
+								},
+								"inheritance-and-variation-of-traits": {
+									"title": "Inheritance and Variation of Traits",
+									"standards": {
+										"hs-ls3-1": {
+											"title": "HS-LS3-1"
+										},
+										"hs-ls1-4": {
+											"title": "HS-LS1-4"
+										},
+										"hs-ls3-2": {
+											"title": "HS-LS3-2"
+										},
+										"hs-ls3-3": {
+											"title": "HS-LS3-3"
+										}
+									}
+								},
+								"natural-selection-and-evolution": {
+									"title": "Natural Selection and Evolution",
+									"standards": {
+										"hs-ls4-3": {
+											"title": "HS-LS4-3"
+										},
+										"hs-ls4-1": {
+											"title": "HS-LS4-1"
+										},
+										"hs-ls4-2": {
+											"title": "HS-LS4-2"
+										},
+										"hs-ls4-4": {
+											"title": "HS-LS4-4"
+										},
+										"hs-ls4-5": {
+											"title": "HS-LS4-5"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"hs-ls2-7": {
+											"title": "HS-LS2-7"
+										},
+										"hs-ls4-6": {
+											"title": "HS-LS4-6"
+										},
+										"hs-ls2-6": {
+											"title": "HS-LS2-6"
+										},
+										"hs-ls2-1": {
+											"title": "HS-LS2-1"
+										},
+										"hs-ls2-2": {
+											"title": "HS-LS2-2"
+										},
+										"hs-ls2-8": {
+											"title": "HS-LS2-8"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"hs-ess1-6": {
+											"title": "HS-ESS1-6"
+										}
+									}
+								},
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"hs-ess2-5": {
+											"title": "HS-ESS2-5"
+										},
+										"hs-ess2-3": {
+											"title": "HS-ESS2-3"
+										},
+										"hs-ess2-7": {
+											"title": "HS-ESS2-7"
+										}
+									}
+								},
+								"human-sustainability": {
+									"title": "Human Sustainability",
+									"standards": {
+										"hs-ess3-4": {
+											"title": "HS-ESS3-4"
+										},
+										"hs-ess3-6": {
+											"title": "HS-ESS3-6"
+										},
+										"hs-ess3-1": {
+											"title": "HS-ESS3-1"
+										},
+										"hs-ess3-3": {
+											"title": "HS-ESS3-3"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"hs-ess2-4": {
+											"title": "HS-ESS2-4"
+										},
+										"hs-ess3-5": {
+											"title": "HS-ESS3-5"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"hs-ess1-2": {
+											"title": "HS-ESS1-2"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"hs-ets1-2": {
+											"title": "HS-ETS1-2"
+										},
+										"hs-ets1-3": {
+											"title": "HS-ETS1-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"11th-grade": {
+					"title": "11th grade",
+					"strands": {
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"hs-ps1-2": {
+											"title": "HS-PS1-2"
+										},
+										"hs-ps1-4": {
+											"title": "HS-PS1-4"
+										},
+										"hs-ps1-7": {
+											"title": "HS-PS1-7"
+										},
+										"hs-ps1-5": {
+											"title": "HS-PS1-5"
+										},
+										"hs-ps1-6": {
+											"title": "HS-PS1-6"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"hs-ps1-1": {
+											"title": "HS-PS1-1"
+										},
+										"hs-ps1-3": {
+											"title": "HS-PS1-3"
+										},
+										"hs-ps1-8": {
+											"title": "HS-PS1-8"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"hs-ps3-1": {
+											"title": "HS-PS3-1"
+										},
+										"hs-ps3-2": {
+											"title": "HS-PS3-2"
+										},
+										"hs-ps3-5": {
+											"title": "HS-PS3-5"
+										},
+										"hs-ps3-3": {
+											"title": "HS-PS3-3"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"hs-ps4-1": {
+											"title": "HS-PS4-1"
+										},
+										"hs-ps4-3": {
+											"title": "HS-PS4-3"
+										},
+										"hs-ps4-5": {
+											"title": "HS-PS4-5"
+										},
+										"hs-ps4-4": {
+											"title": "HS-PS4-4"
+										}
+									}
+								},
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"hs-ps2-4": {
+											"title": "HS-PS2-4"
+										},
+										"hs-ps2-5": {
+											"title": "HS-PS2-5"
+										},
+										"hs-ps2-3": {
+											"title": "HS-PS2-3"
+										},
+										"hs-ps2-1": {
+											"title": "HS-PS2-1"
+										},
+										"hs-ps2-2": {
+											"title": "HS-PS2-2"
+										}
+									}
+								}
+							}
+						},
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"structure-and-function": {
+									"title": "Structure and Function",
+									"standards": {
+										"hs-ls1-1": {
+											"title": "HS-LS1-1"
+										},
+										"hs-ls1-2": {
+											"title": "HS-LS1-2"
+										},
+										"hs-ls1-3": {
+											"title": "HS-LS1-3"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"hs-ls1-6": {
+											"title": "HS-LS1-6"
+										},
+										"hs-ls1-5": {
+											"title": "HS-LS1-5"
+										},
+										"hs-ls2-5": {
+											"title": "HS-LS2-5"
+										},
+										"hs-ls1-7": {
+											"title": "HS-LS1-7"
+										},
+										"hs-ls2-3": {
+											"title": "HS-LS2-3"
+										},
+										"hs-ls2-4": {
+											"title": "HS-LS2-4"
+										}
+									}
+								},
+								"inheritance-and-variation-of-traits": {
+									"title": "Inheritance and Variation of Traits",
+									"standards": {
+										"hs-ls3-1": {
+											"title": "HS-LS3-1"
+										},
+										"hs-ls1-4": {
+											"title": "HS-LS1-4"
+										},
+										"hs-ls3-2": {
+											"title": "HS-LS3-2"
+										},
+										"hs-ls3-3": {
+											"title": "HS-LS3-3"
+										}
+									}
+								},
+								"natural-selection-and-evolution": {
+									"title": "Natural Selection and Evolution",
+									"standards": {
+										"hs-ls4-3": {
+											"title": "HS-LS4-3"
+										},
+										"hs-ls4-1": {
+											"title": "HS-LS4-1"
+										},
+										"hs-ls4-2": {
+											"title": "HS-LS4-2"
+										},
+										"hs-ls4-4": {
+											"title": "HS-LS4-4"
+										},
+										"hs-ls4-5": {
+											"title": "HS-LS4-5"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"hs-ls2-7": {
+											"title": "HS-LS2-7"
+										},
+										"hs-ls4-6": {
+											"title": "HS-LS4-6"
+										},
+										"hs-ls2-6": {
+											"title": "HS-LS2-6"
+										},
+										"hs-ls2-1": {
+											"title": "HS-LS2-1"
+										},
+										"hs-ls2-2": {
+											"title": "HS-LS2-2"
+										},
+										"hs-ls2-8": {
+											"title": "HS-LS2-8"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"hs-ess1-6": {
+											"title": "HS-ESS1-6"
+										}
+									}
+								},
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"hs-ess2-5": {
+											"title": "HS-ESS2-5"
+										},
+										"hs-ess2-3": {
+											"title": "HS-ESS2-3"
+										},
+										"hs-ess2-7": {
+											"title": "HS-ESS2-7"
+										}
+									}
+								},
+								"human-sustainability": {
+									"title": "Human Sustainability",
+									"standards": {
+										"hs-ess3-4": {
+											"title": "HS-ESS3-4"
+										},
+										"hs-ess3-6": {
+											"title": "HS-ESS3-6"
+										},
+										"hs-ess3-1": {
+											"title": "HS-ESS3-1"
+										},
+										"hs-ess3-3": {
+											"title": "HS-ESS3-3"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"hs-ess2-4": {
+											"title": "HS-ESS2-4"
+										},
+										"hs-ess3-5": {
+											"title": "HS-ESS3-5"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"hs-ess1-2": {
+											"title": "HS-ESS1-2"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"hs-ets1-2": {
+											"title": "HS-ETS1-2"
+										},
+										"hs-ets1-3": {
+											"title": "HS-ETS1-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"12th-grade": {
+					"title": "12th grade",
+					"strands": {
+						"physical-sciences": {
+							"title": "Physical Sciences",
+							"subStrands": {
+								"chemical-reactions": {
+									"title": "Chemical Reactions",
+									"standards": {
+										"hs-ps1-2": {
+											"title": "HS-PS1-2"
+										},
+										"hs-ps1-4": {
+											"title": "HS-PS1-4"
+										},
+										"hs-ps1-7": {
+											"title": "HS-PS1-7"
+										},
+										"hs-ps1-5": {
+											"title": "HS-PS1-5"
+										},
+										"hs-ps1-6": {
+											"title": "HS-PS1-6"
+										}
+									}
+								},
+								"structure-and-properties-of-matter": {
+									"title": "Structure and Properties of Matter",
+									"standards": {
+										"hs-ps1-1": {
+											"title": "HS-PS1-1"
+										},
+										"hs-ps1-3": {
+											"title": "HS-PS1-3"
+										},
+										"hs-ps1-8": {
+											"title": "HS-PS1-8"
+										}
+									}
+								},
+								"energy": {
+									"title": "Energy",
+									"standards": {
+										"hs-ps3-1": {
+											"title": "HS-PS3-1"
+										},
+										"hs-ps3-2": {
+											"title": "HS-PS3-2"
+										},
+										"hs-ps3-5": {
+											"title": "HS-PS3-5"
+										},
+										"hs-ps3-3": {
+											"title": "HS-PS3-3"
+										}
+									}
+								},
+								"waves-and-electromagnetic-radiation": {
+									"title": "Waves and Electromagnetic Radiation",
+									"standards": {
+										"hs-ps4-1": {
+											"title": "HS-PS4-1"
+										},
+										"hs-ps4-3": {
+											"title": "HS-PS4-3"
+										},
+										"hs-ps4-5": {
+											"title": "HS-PS4-5"
+										},
+										"hs-ps4-4": {
+											"title": "HS-PS4-4"
+										}
+									}
+								},
+								"forces-and-interactions": {
+									"title": "Forces and Interactions",
+									"standards": {
+										"hs-ps2-4": {
+											"title": "HS-PS2-4"
+										},
+										"hs-ps2-5": {
+											"title": "HS-PS2-5"
+										},
+										"hs-ps2-3": {
+											"title": "HS-PS2-3"
+										},
+										"hs-ps2-1": {
+											"title": "HS-PS2-1"
+										},
+										"hs-ps2-2": {
+											"title": "HS-PS2-2"
+										}
+									}
+								}
+							}
+						},
+						"life-sciences": {
+							"title": "Life Sciences",
+							"subStrands": {
+								"structure-and-function": {
+									"title": "Structure and Function",
+									"standards": {
+										"hs-ls1-1": {
+											"title": "HS-LS1-1"
+										},
+										"hs-ls1-2": {
+											"title": "HS-LS1-2"
+										},
+										"hs-ls1-3": {
+											"title": "HS-LS1-3"
+										}
+									}
+								},
+								"matter-and-energy-in-organisms-and-ecosystems": {
+									"title": "Matter and Energy in Organisms and Ecosystems",
+									"standards": {
+										"hs-ls1-6": {
+											"title": "HS-LS1-6"
+										},
+										"hs-ls1-5": {
+											"title": "HS-LS1-5"
+										},
+										"hs-ls2-5": {
+											"title": "HS-LS2-5"
+										},
+										"hs-ls1-7": {
+											"title": "HS-LS1-7"
+										},
+										"hs-ls2-3": {
+											"title": "HS-LS2-3"
+										},
+										"hs-ls2-4": {
+											"title": "HS-LS2-4"
+										}
+									}
+								},
+								"inheritance-and-variation-of-traits": {
+									"title": "Inheritance and Variation of Traits",
+									"standards": {
+										"hs-ls3-1": {
+											"title": "HS-LS3-1"
+										},
+										"hs-ls1-4": {
+											"title": "HS-LS1-4"
+										},
+										"hs-ls3-2": {
+											"title": "HS-LS3-2"
+										},
+										"hs-ls3-3": {
+											"title": "HS-LS3-3"
+										}
+									}
+								},
+								"natural-selection-and-evolution": {
+									"title": "Natural Selection and Evolution",
+									"standards": {
+										"hs-ls4-3": {
+											"title": "HS-LS4-3"
+										},
+										"hs-ls4-1": {
+											"title": "HS-LS4-1"
+										},
+										"hs-ls4-2": {
+											"title": "HS-LS4-2"
+										},
+										"hs-ls4-4": {
+											"title": "HS-LS4-4"
+										},
+										"hs-ls4-5": {
+											"title": "HS-LS4-5"
+										}
+									}
+								},
+								"interdependent-relationships-in-ecosystems": {
+									"title": "Interdependent Relationships in Ecosystems",
+									"standards": {
+										"hs-ls2-7": {
+											"title": "HS-LS2-7"
+										},
+										"hs-ls4-6": {
+											"title": "HS-LS4-6"
+										},
+										"hs-ls2-6": {
+											"title": "HS-LS2-6"
+										},
+										"hs-ls2-1": {
+											"title": "HS-LS2-1"
+										},
+										"hs-ls2-2": {
+											"title": "HS-LS2-2"
+										},
+										"hs-ls2-8": {
+											"title": "HS-LS2-8"
+										}
+									}
+								}
+							}
+						},
+						"earth-and-space-sciences": {
+							"title": "Earth and Space Sciences",
+							"subStrands": {
+								"history-of-earth": {
+									"title": "History of Earth",
+									"standards": {
+										"hs-ess1-6": {
+											"title": "HS-ESS1-6"
+										}
+									}
+								},
+								"earth%27s-systems": {
+									"title": "Earth's Systems",
+									"standards": {
+										"hs-ess2-5": {
+											"title": "HS-ESS2-5"
+										},
+										"hs-ess2-3": {
+											"title": "HS-ESS2-3"
+										},
+										"hs-ess2-7": {
+											"title": "HS-ESS2-7"
+										}
+									}
+								},
+								"human-sustainability": {
+									"title": "Human Sustainability",
+									"standards": {
+										"hs-ess3-4": {
+											"title": "HS-ESS3-4"
+										},
+										"hs-ess3-6": {
+											"title": "HS-ESS3-6"
+										},
+										"hs-ess3-1": {
+											"title": "HS-ESS3-1"
+										},
+										"hs-ess3-3": {
+											"title": "HS-ESS3-3"
+										}
+									}
+								},
+								"weather-and-climate": {
+									"title": "Weather and Climate",
+									"standards": {
+										"hs-ess2-4": {
+											"title": "HS-ESS2-4"
+										},
+										"hs-ess3-5": {
+											"title": "HS-ESS3-5"
+										}
+									}
+								},
+								"space-systems": {
+									"title": "Space Systems",
+									"standards": {
+										"hs-ess1-2": {
+											"title": "HS-ESS1-2"
+										}
+									}
+								}
+							}
+						},
+						"engineering-design": {
+							"title": "Engineering Design",
+							"subStrands": {
+								"engineering-design": {
+									"title": "Engineering Design",
+									"standards": {
+										"hs-ets1-2": {
+											"title": "HS-ETS1-2"
+										},
+										"hs-ets1-3": {
+											"title": "HS-ETS1-3"
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
