@@ -1147,13 +1147,6 @@
 			"grades": {
 				"Kindergarten": {
 					"strands": {
-						"Mathematical Practices": {
-							"subStrands": {
-								"Make sense of problems and persevere in solving them.": {
-									"standards": {}
-								}
-							}
-						},
 						"Kindergarten": {
 							"subStrands": {
 								"Geometry": {
